@@ -1,0 +1,2469 @@
+{
+    "0xdao-dai-eol": {
+        "createdAt": 1642877428,
+        "earnedTokenAddress": "0x80274861F0EB0a3dad0688040DBEA74b850C6b8c",
+        "id": "0xdao-dai-eol",
+        "platform": "Other",
+        "retireReason": "rewards",
+        "status": "eol",
+        "strategyAddress": "0x726b227A8dEA2dbDF790c59c932eBfE408Cc44D2",
+        "tokenDescription": "0xDAO"
+    },
+    "0xdao-mim-eol": {
+        "createdAt": 1642880855,
+        "earnedTokenAddress": "0x06a435AB175554c26840b96E88dE161C2e1901E4",
+        "id": "0xdao-mim-eol",
+        "platform": "Other",
+        "retireReason": "rewards",
+        "status": "eol",
+        "strategyAddress": "0xb1aA61aBb55480d010FB96584C3dB8006ec9Ef34",
+        "tokenDescription": "0xDAO"
+    },
+    "0xdao-oxd-eol": {
+        "createdAt": 1643104856,
+        "earnedTokenAddress": "0x59a7e9F6B369aA88A7EABfbc43D3EF72DEf4bd81",
+        "id": "0xdao-oxd-eol",
+        "platform": "Other",
+        "retireReason": "rewards",
+        "status": "eol",
+        "strategyAddress": "0x3DA796c4F3A1124E94AE5940731f260A9557763a",
+        "tokenDescription": "0xDAO"
+    },
+    "0xdao-tomb-eol": {
+        "createdAt": 1642865861,
+        "earnedTokenAddress": "0xF76e11b2e67169D2b835E7DE8755b37747A45D6D",
+        "id": "0xdao-tomb-eol",
+        "platform": "Other",
+        "retireReason": "rewards",
+        "status": "eol",
+        "strategyAddress": "0x48523832Cef18F78161dD59066c6A0200e95538B",
+        "tokenDescription": "0xDAO"
+    },
+    "0xdao-usdc-eol": {
+        "createdAt": 1642877204,
+        "earnedTokenAddress": "0xc27bF3Bbafee07a8d91048a6bF665286461F07c2",
+        "id": "0xdao-usdc-eol",
+        "platform": "Other",
+        "retireReason": "rewards",
+        "status": "eol",
+        "strategyAddress": "0x65322319417991B8bcb6befc8dF0d5b84a4c31a5",
+        "tokenDescription": "0xDAO"
+    },
+    "0xdao-wbtc-eol": {
+        "createdAt": 1642875469,
+        "earnedTokenAddress": "0xa8dCAEd8C1eb9c37653Ac7f9060e90BdA0256553",
+        "id": "0xdao-wbtc-eol",
+        "platform": "Other",
+        "retireReason": "rewards",
+        "status": "eol",
+        "strategyAddress": "0xe82acC86fF20c28e1965be8Ff37E2e88e72a1aFB",
+        "tokenDescription": "0xDAO"
+    },
+    "0xdao-weth-eol": {
+        "createdAt": 1642860948,
+        "earnedTokenAddress": "0x3C9e374DE5F1763279e22df3194C87544fdEB7E1",
+        "id": "0xdao-weth-eol",
+        "platform": "Other",
+        "retireReason": "rewards",
+        "status": "eol",
+        "strategyAddress": "0xa3bD813824b5e4AF5C30812366B88F2681B1cc36",
+        "tokenDescription": "0xDAO"
+    },
+    "0xdao-wftm-eol": {
+        "createdAt": 1642887314,
+        "earnedTokenAddress": "0x3D6AA308a59311D57456c2E968AdC1Dd3628869a",
+        "id": "0xdao-wftm-eol",
+        "platform": "Other",
+        "retireReason": "rewards",
+        "status": "eol",
+        "strategyAddress": "0xe7B675CC0B240857fCD8b8Fcc7B17cBF31444eF5",
+        "tokenDescription": "0xDAO"
+    },
+    "0xdao-xboo-eol": {
+        "createdAt": 1643099828,
+        "earnedTokenAddress": "0xE95f98631895bB9657e37906ea4c61b272BddeB0",
+        "id": "0xdao-xboo-eol",
+        "platform": "Other",
+        "retireReason": "rewards",
+        "status": "eol",
+        "strategyAddress": "0x1Ce9640991f793800C5d278d105fd947E6D4C577",
+        "tokenDescription": "0xDAO"
+    },
+    "0xdao-xscream-eol": {
+        "createdAt": 1643612827,
+        "earnedTokenAddress": "0x7926eA7aba64AF38297b832DEc713804f99039fD",
+        "id": "0xdao-xscream-eol",
+        "platform": "Other",
+        "retireReason": "rewards",
+        "status": "eol",
+        "strategyAddress": "0x20273eB6D8ff3eE270E353dce599b453526B3E16",
+        "tokenDescription": "0xDAO"
+    },
+    "2omb-2omb-2share-eol": {
+        "createdAt": 1644007618,
+        "earnedTokenAddress": "0x0c6B9982B5B18f6D77E55fC754DB6182ae2D847f",
+        "id": "2omb-2omb-2share-eol",
+        "platform": "Other",
+        "retireReason": "rewards",
+        "status": "eol",
+        "strategyAddress": "0x2F02Fe612a9A723bC82842874A53e32E3a0F33f1",
+        "tokenDescription": "SpookySwap (2omb)"
+    },
+    "2omb-2omb-ftm-eol": {
+        "createdAt": 1642150805,
+        "earnedTokenAddress": "0xf3A72885cB383543AEE60f44Ca51C760f0bC3b9b",
+        "id": "2omb-2omb-ftm-eol",
+        "platform": "Other",
+        "retireReason": "rewards",
+        "status": "eol",
+        "strategyAddress": "0x3b5a1eAbDAeC99cb6abceB8740876D9dCAD048d5",
+        "tokenDescription": "SpookySwap (2omb)"
+    },
+    "2omb-2share-ftm-eol": {
+        "createdAt": 1642152342,
+        "earnedTokenAddress": "0x03668Bd5dc63B1e15c39619b599091A4f68cAFB3",
+        "id": "2omb-2share-ftm-eol",
+        "platform": "Other",
+        "retireReason": "rewards",
+        "status": "eol",
+        "strategyAddress": "0xD586d0125590F3390Fde37DcD123f84913b20cC1",
+        "tokenDescription": "SpookySwap (2omb)"
+    },
+    "Beefy BIFI Maxi": {
+        "createdAt": 1622574935,
+        "earnedTokenAddress": "0xbF07093ccd6adFC3dEB259C557b61E94c1F66945",
+        "id": "fantom-bifi-maxi",
+        "platform": "Beefy",
+        "status": "active",
+        "strategyAddress": "0x230691a28C8290A553BFBC911Ab2AbA0b2df152D",
+        "tokenDescription": "Beefy"
+    },
+    "Beefy beFTM": {
+        "createdAt": 1646162527,
+        "earnedTokenAddress": "0x185647c55633A5706aAA3278132537565c925078",
+        "id": "beefy-beFTM",
+        "mintTokenUrl": "https://beta.beefy.finance/#/fantom/vault/beefy-beFTM",
+        "platform": "Beefy",
+        "status": "active",
+        "strategyAddress": "0x2dc8683F752305659ff7F97A7CB4291B1c0Df37b",
+        "tokenDescription": "Beefy"
+    },
+    "Beefy binSPIRIT": {
+        "createdAt": 1643754413,
+        "earnedTokenAddress": "0x7345a537A975d9Ca588eE631BEFdDfEF34fD5e8f",
+        "id": "beefy-binspirit",
+        "mintTokenUrl": "https://beta.beefy.finance/#/fantom/vault/beefy-binspirit",
+        "platform": "Beefy",
+        "status": "active",
+        "strategyAddress": "0xfA9c8FCda731b92FC0B6aB0ABFF4CDeE1AC67B33",
+        "tokenDescription": "Beefy"
+    },
+    "Beethoven X A Dai-abolical Balance": {
+        "createdAt": 1651660702,
+        "earnedTokenAddress": "0x971423A9A45A1A2DeB0bEe48C92d3859D793e73B",
+        "id": "beets-daiabolical-balance",
+        "platform": "Beethoven X",
+        "status": "active",
+        "strategyAddress": "0x9F12B811d3fAc99fbf2c72906E02B646749D4782",
+        "tokenDescription": "Beethoven X"
+    },
+    "Beethoven X B Major": {
+        "createdAt": 1634914810,
+        "earnedTokenAddress": "0x3b4e2ff44c601BD78F7db588496C6637A3Afa1f4",
+        "id": "beets-b-major",
+        "platform": "Beethoven X",
+        "status": "active",
+        "strategyAddress": "0x9efD024ab9bBd5C3ce17e567040A8EF1ecd55e26",
+        "tokenDescription": "Beethoven X"
+    },
+    "Beethoven X Baron von Binance": {
+        "createdAt": 1637221810,
+        "earnedTokenAddress": "0x255C2c11C36bf269bB12a9B40e131869dD9aab5D",
+        "id": "beets-baron-von-binance",
+        "platform": "Beethoven X",
+        "status": "active",
+        "strategyAddress": "0xBA324B52F9C270DED056c214B198783F387c6503",
+        "tokenDescription": "Beethoven X"
+    },
+    "Beethoven X Beefy Tale Of Two Fantom Sisters": {
+        "createdAt": 1646864556,
+        "earnedTokenAddress": "0x12c9aa044D4474b1abE3Fa4875c9ADbDc05Ef898",
+        "id": "beets-beefy-tale",
+        "platform": "Beethoven X",
+        "status": "active",
+        "strategyAddress": "0x50461Ad58C124B979174A0eaCfC7b4336503766B",
+        "tokenDescription": "Beethoven X"
+    },
+    "Beethoven X Dante Symphony": {
+        "createdAt": 1641988564,
+        "earnedTokenAddress": "0xDc1b4e4Ff41bC392f1BBCdcE699d5aB3E3de9E66",
+        "id": "beets-dante-symphony",
+        "platform": "Beethoven X",
+        "status": "active",
+        "strategyAddress": "0x53bCc69Ef22deA7c65af915D117586A2481adFa5",
+        "tokenDescription": "Beethoven X"
+    },
+    "Beethoven X E Major": {
+        "createdAt": 1634911153,
+        "earnedTokenAddress": "0xF83073C105bc0f8bF16Cc6b84766ba91B76CF0E1",
+        "id": "beets-e-major",
+        "platform": "Beethoven X",
+        "status": "active",
+        "strategyAddress": "0x38c5DF15117c195B8736F3a5fbEfC1b3A2082880",
+        "tokenDescription": "Beethoven X"
+    },
+    "Beethoven X Fantom Conservatory Of Music": {
+        "createdAt": 1635369288,
+        "earnedTokenAddress": "0x41a3Bb418F6e7Dc9522b1F72473125410ae40a21",
+        "id": "beets-fantom-conservatory",
+        "platform": "Beethoven X",
+        "status": "active",
+        "strategyAddress": "0xd88c449c1F68480316f3e3A48bD37186e58217A8",
+        "tokenDescription": "Beethoven X"
+    },
+    "Beethoven X Fantom of the Opera": {
+        "createdAt": 1634805280,
+        "earnedTokenAddress": "0xB40c339e2b0a8513152F68082D3c87314E03776D",
+        "id": "beets-fantom-of-opera",
+        "platform": "Beethoven X",
+        "status": "active",
+        "strategyAddress": "0x7A2303aB59536E6e80cF6Bd8f6EDb4A9fc712156",
+        "tokenDescription": "Beethoven X"
+    },
+    "Beethoven X Fidelio Duetto": {
+        "createdAt": 1634809776,
+        "earnedTokenAddress": "0xAe0AB718971bb2BAd88AE6Bdc4D0eA63F3CD53Ee",
+        "id": "beets-fidelio-duetto",
+        "platform": "Beethoven X",
+        "status": "active",
+        "strategyAddress": "0x1fca24C62367654B8aC79a5045A9A10F21726A67",
+        "tokenDescription": "Beethoven X"
+    },
+    "Beethoven X Guqin Qi 2": {
+        "createdAt": 1635363222,
+        "earnedTokenAddress": "0x1711b008DA67a18B3a5171B906Dae7812BEb147b",
+        "id": "beets-guqin-qi-2",
+        "platform": "Beethoven X",
+        "status": "active",
+        "strategyAddress": "0xa623c28f64A429baE0426Aa8AEbE64d307A38cC0",
+        "tokenDescription": "Beethoven X"
+    },
+    "Beethoven X Late Quartet": {
+        "createdAt": 1635702186,
+        "earnedTokenAddress": "0x7fed554476B64B41CBD9d3FA1C38cD781eE701b6",
+        "id": "beets-late-quartet",
+        "platform": "Beethoven X",
+        "status": "active",
+        "strategyAddress": "0x00f23196eA5a1a94d24a56402DC12e043A0A0Cc0",
+        "tokenDescription": "Beethoven X"
+    },
+    "Beethoven X Solana Sonata": {
+        "createdAt": 1638210632,
+        "earnedTokenAddress": "0x58511De7Dc12230096Feb1AAB420872Df0371A45",
+        "id": "beets-solana-sonata",
+        "platform": "Beethoven X",
+        "status": "active",
+        "strategyAddress": "0xFbe1d176888798A51FAe70a06ABeb84C81FC16bD",
+        "tokenDescription": "Beethoven X"
+    },
+    "Beethoven X Song Of Ice And Fire": {
+        "createdAt": 1636020955,
+        "earnedTokenAddress": "0x0F12a6B93e00915Fac52070D42914Af678a29202",
+        "id": "beets-song-ice-fire",
+        "platform": "Beethoven X",
+        "status": "active",
+        "strategyAddress": "0x0410d614BCD5A1dD8614C8F0a7D508A2D3aFd110",
+        "tokenDescription": "Beethoven X"
+    },
+    "Beethoven X Sound Of Moosic": {
+        "createdAt": 1634922183,
+        "earnedTokenAddress": "0x79D6DbC8C45cBb76ED8442A52ae53a98082f485e",
+        "id": "beets-sound-of-moosic",
+        "platform": "Beethoven X",
+        "status": "active",
+        "strategyAddress": "0x50A80d9BF5960a5d10891FCe5A937662b3EfBDC1",
+        "tokenDescription": "Beethoven X"
+    },
+    "Beethoven X Steady Beets 2": {
+        "createdAt": 1641982117,
+        "earnedTokenAddress": "0xF08134f99EcBfdf7543BF56873324F697bA2a858",
+        "id": "beets-steady-beets-2",
+        "platform": "Beethoven X",
+        "status": "active",
+        "strategyAddress": "0x8a1F4b25556AB28FD0529A53Ed7b3f10caCB0b98",
+        "tokenDescription": "Beethoven X"
+    },
+    "Beethoven X The Grand Orchestra": {
+        "createdAt": 1634740557,
+        "earnedTokenAddress": "0x0ab24Bfc2503bB536ad667c00685BBB70fA90433",
+        "id": "beets-grand-orchestra",
+        "platform": "Beethoven X",
+        "status": "active",
+        "strategyAddress": "0x0A6bC5F2650E03C00D8c8D8Ef61991c780174468",
+        "tokenDescription": "Beethoven X"
+    },
+    "Beethoven X Tubular Bells": {
+        "createdAt": 1636019838,
+        "earnedTokenAddress": "0xF1Ba839207ec41a5526358b2c1a170423caBc712",
+        "id": "beets-tubular-bells",
+        "platform": "Beethoven X",
+        "status": "active",
+        "strategyAddress": "0x0cC32B91B165d25a3CB2906D636883d306a8F1dd",
+        "tokenDescription": "Beethoven X"
+    },
+    "Beethoven X Two Gods One Pool": {
+        "createdAt": 1649878298,
+        "earnedTokenAddress": "0x9E8d0a070Ae90dB67B369cE54d2e81D0A3D8F1f3",
+        "id": "beets-two-gods-one-pool",
+        "platform": "Beethoven X",
+        "status": "active",
+        "strategyAddress": "0x1082648C1d397CF232d3a3eBd25dB88848FA3DF5",
+        "tokenDescription": "Beethoven X"
+    },
+    "Beethoven X When Two Became One (Hundred)": {
+        "createdAt": 1641410484,
+        "earnedTokenAddress": "0xe48d1b1074e1B51c970674DB05669d3C50269108",
+        "id": "beets-two-became-one",
+        "platform": "Beethoven X",
+        "status": "active",
+        "strategyAddress": "0x2C48732c190eea8df5515B6EcCC9E112929303BD",
+        "tokenDescription": "Beethoven X"
+    },
+    "Beethoven X Ziggy Stardust & Magic Internet Money": {
+        "createdAt": 1634916171,
+        "earnedTokenAddress": "0x4C25854f6DA3b5848F7B5C71dcb8EEe20b292d3E",
+        "id": "beets-ziggy-mim",
+        "platform": "Beethoven X",
+        "status": "active",
+        "strategyAddress": "0x054a8e3c11268591E048F7206937C8b74b6B7b97",
+        "tokenDescription": "Beethoven X"
+    },
+    "Curve DAI/USDC": {
+        "createdAt": 1626957477,
+        "earnedTokenAddress": "0x7715d9458683288024B9e20D1319DC162361B06c",
+        "id": "curve-ftm-2pool",
+        "platform": "Curve",
+        "status": "active",
+        "strategyAddress": "0x1d23ecC0645B07791b7D99349e253ECEbe43f614",
+        "tokenDescription": "Curve"
+    },
+    "Curve FTML/FTM": {
+        "createdAt": 1649341331,
+        "earnedTokenAddress": "0xaD3aD0D7140529eD329D7c9b4D876e1fBd7B2330",
+        "id": "curve-ftm-f-ftml",
+        "platform": "Curve",
+        "status": "active",
+        "strategyAddress": "0xd6479545171d5D9c360129D820cC060f9A063bc8",
+        "tokenDescription": "Curve"
+    },
+    "Curve TriCrypto": {
+        "createdAt": 1652662923,
+        "earnedTokenAddress": "0xeeE5EA8949F622090CFc16d141305d5120DF8dA4",
+        "id": "curve-ftm-tricrypto",
+        "platform": "Curve",
+        "status": "active",
+        "strategyAddress": "0x6e4C6bFCedb2fe4A30Da61A7C5076F41b489fe48",
+        "tokenDescription": "Curve"
+    },
+    "Curve USDL/fUSDT/DAI/USDC": {
+        "createdAt": 1649341331,
+        "earnedTokenAddress": "0xc751C7114204eff5Ce50E6DDa0F03f8aF15996e2",
+        "id": "curve-ftm-f-usdl",
+        "platform": "Curve",
+        "status": "active",
+        "strategyAddress": "0xAFa67A3e7E9fa2B62f39B2A3Fe55038F0153C346",
+        "tokenDescription": "Curve"
+    },
+    "Curve UST/FRAX/fUSDT/USDC": {
+        "createdAt": 1651152132,
+        "earnedTokenAddress": "0xf49bB8D23BB48f237CFDfa4Bb67F4B73ccf28A38",
+        "id": "curve-ftm-f-4pool",
+        "platform": "Curve",
+        "status": "active",
+        "strategyAddress": "0xFBEF474c7412617786D88F1d24233cAa5566dcC9",
+        "tokenDescription": "Curve"
+    },
+    "Curve WBTC/renBTC": {
+        "createdAt": 1652662923,
+        "earnedTokenAddress": "0xda3c57A81aCe16b2cC34e8872e886575f8ccf672",
+        "id": "curve-ftm-ren",
+        "platform": "Curve",
+        "status": "active",
+        "strategyAddress": "0x40484C1782FEca9215100773d4723428FeaBF27e",
+        "tokenDescription": "Curve"
+    },
+    "Curve fUSDT/DAI/USDC": {
+        "createdAt": 1653563943,
+        "earnedTokenAddress": "0xf710D90A1Bd702dAEa619eEbbe876e7085c2A1df",
+        "id": "curve-ftm-geist",
+        "platform": "Curve",
+        "status": "active",
+        "strategyAddress": "0xFFf1F2F16A6ae418F0DD368De20e92a89Dd940EE",
+        "tokenDescription": "Curve"
+    },
+    "Geist CRV": {
+        "createdAt": 1639737670,
+        "earnedTokenAddress": "0xedEb044BC7Ce11Dfa436CFA8Be43e6eB0d601814",
+        "id": "geist-crv",
+        "platform": "Geist",
+        "status": "active",
+        "strategyAddress": "0x01873b6e4CEdA2A752FEadA7B370A372840bA2cd",
+        "tokenDescription": "Geist"
+    },
+    "Geist ETH": {
+        "createdAt": 1636106243,
+        "earnedTokenAddress": "0x7bdD39339bE40adC54199aB4b5Fb6B2A89D40d4c",
+        "id": "geist-eth",
+        "platform": "Geist",
+        "status": "active",
+        "strategyAddress": "0x739c33C453f6449810B2997a320E5Ea0B79Fa438",
+        "tokenDescription": "Geist"
+    },
+    "Geist FTM": {
+        "createdAt": 1636115081,
+        "earnedTokenAddress": "0xbf1340159c1b69Ae98Ff08BE5fC77cdc084dDc73",
+        "id": "geist-ftm",
+        "platform": "Geist",
+        "status": "active",
+        "strategyAddress": "0x212a9507CE6D0aC42990Bf42Db14d922a2A6bEed",
+        "tokenDescription": "Geist"
+    },
+    "Geist GEIST-FTM LP": {
+        "createdAt": 1633607188,
+        "earnedTokenAddress": "0xfd30cEAD8E54568fe535747929775e95Fdb6d3f7",
+        "id": "geist-geist-ftm",
+        "platform": "Geist",
+        "status": "active",
+        "strategyAddress": "0x39262E38b93982Ce551582753cF3780e8870c812",
+        "tokenDescription": "SpookySwap (Geist)"
+    },
+    "Geist MIM": {
+        "createdAt": 1640092257,
+        "earnedTokenAddress": "0xE7E08D82853dcf1057B2f8BCeF781d904602B6a0",
+        "id": "geist-mim",
+        "platform": "Geist",
+        "status": "active",
+        "strategyAddress": "0x2910BC3AB8835d0B94dfCa46Ee4556216540f3DA",
+        "tokenDescription": "Geist"
+    },
+    "Geist USDC": {
+        "createdAt": 1636126692,
+        "earnedTokenAddress": "0x4Fa9263B35DC20bfa2eDEE24ee26113b40C4D3bB",
+        "id": "geist-usdc",
+        "platform": "Geist",
+        "status": "active",
+        "strategyAddress": "0x5a712EF5cF210B97eA20e54849409CB527D5f968",
+        "tokenDescription": "Geist"
+    },
+    "Geist WBTC": {
+        "createdAt": 1636111832,
+        "earnedTokenAddress": "0x7489bFD512BEDd6b16318fa7c33F1Bc7075C372d",
+        "id": "geist-wbtc",
+        "platform": "Geist",
+        "status": "active",
+        "strategyAddress": "0xa6B1D1a9BA26874199CBCecb3382011Ac23890b9",
+        "tokenDescription": "Geist"
+    },
+    "Hector TOR/DAI/USDC": {
+        "createdAt": 1650149559,
+        "earnedTokenAddress": "0x8B92DE822b121761a3caF894627a09a9f87864C0",
+        "id": "hector-tor-crv",
+        "platform": "Hector",
+        "status": "active",
+        "strategyAddress": "0xf74DE2c34a89ceC902A427514a5494649037e8A5",
+        "tokenDescription": "Curve (Hector)"
+    },
+    "JetSwap WBTC-USDC LP": {
+        "createdAt": 1632980917,
+        "earnedTokenAddress": "0x8A5e335F6df7d73B7a6c33E0DA3FEE7a36cc0Da4",
+        "id": "jetswap-fantom-btc-usdc",
+        "platform": "JetSwap",
+        "status": "active",
+        "strategyAddress": "0x0D9d59F1BB5e52dE04f66c7C228c47C3836BA1e7",
+        "tokenDescription": "JetSwap"
+    },
+    "MIM MIM/USDC/fUSDT": {
+        "createdAt": 1633879958,
+        "earnedTokenAddress": "0x837BEe8567297dd628fb82FFBA193A57A9F6B655",
+        "id": "spell-ftm-mim-crv",
+        "platform": "MIM",
+        "status": "active",
+        "strategyAddress": "0xb49bD30Ba7533C597D700843Ca385Ac1Dca1e876",
+        "tokenDescription": "Curve (MIM)"
+    },
+    "Other BASED-BSHARE LP": {
+        "createdAt": 1648136284,
+        "earnedTokenAddress": "0x3a7ec503CD55A153bC3A3Ec5a2ee340136C005Ff",
+        "id": "based-based-bshare",
+        "platform": "Other",
+        "status": "active",
+        "strategyAddress": "0xBbf3F8A756c0c46319B39819190720b7929d5ee8",
+        "tokenDescription": "SpookySwap (Based)"
+    },
+    "Other BASED-MAI LP": {
+        "createdAt": 1647380053,
+        "earnedTokenAddress": "0x5Ddb9a342672ecEe80a028CE40500F16ba1Bca44",
+        "id": "based-based-mai",
+        "platform": "Other",
+        "status": "active",
+        "strategyAddress": "0x43D1dbfb4367A8fd9ffB4F74981999673Fe8C4E2",
+        "tokenDescription": "TombSwap (Based)"
+    },
+    "Other BASED-TOMB LP": {
+        "createdAt": 1646398565,
+        "earnedTokenAddress": "0xEb27F60f652fF53cBf3EfF0c7033B380148b6CB9",
+        "id": "based-based-tomb",
+        "platform": "Other",
+        "status": "active",
+        "strategyAddress": "0x6c716360C67daC182ff8f4404738ECD07e6892F9",
+        "tokenDescription": "SpookySwap (Based)"
+    },
+    "Other BSHARE-FTM LP": {
+        "createdAt": 1646398565,
+        "earnedTokenAddress": "0x44B35db29db8c5277bF842c67b4d36D42323514C",
+        "id": "based-bshare-ftm",
+        "platform": "Other",
+        "status": "active",
+        "strategyAddress": "0x4056BeF729b6c99277C5bd6dA7ED8A6974c3A386",
+        "tokenDescription": "SpookySwap (Based)"
+    },
+    "Other ICE-FTM": {
+        "createdAt": 1640767060,
+        "earnedTokenAddress": "0xD419254D5b682AA68B6aa13b755789Bc9459c9b7",
+        "id": "popsicle-ice-ftm",
+        "platform": "Other",
+        "status": "active",
+        "strategyAddress": "0x8Bd61713C6417BA30E335ADFffC18068AB72a510",
+        "tokenDescription": "SushiSwap (Popsicle)"
+    },
+    "Other SCREAM-FTM LP": {
+        "createdAt": 1628881379,
+        "earnedTokenAddress": "0xF782E675B93d22FD810Dca4149D29Ab32e5B2972",
+        "id": "steakhouse-scream-ftm",
+        "platform": "Other",
+        "status": "active",
+        "strategyAddress": "0xaD9b17cBD600980F95F4dd6DEB180aDF401AFc6d",
+        "tokenDescription": "SteakHouse"
+    },
+    "Ripae PAE-FTM LP": {
+        "createdAt": 1644485584,
+        "earnedTokenAddress": "0x1f01078af0b8a4e7E2BA6211Bda7e92F89393284",
+        "id": "ripae-pae-ftm",
+        "platform": "Ripae",
+        "status": "active",
+        "strategyAddress": "0x57E7e4a9fB2F93288d0cb309339fE8Fe22Fb6c47",
+        "tokenDescription": "SpookySwap (Ripae)"
+    },
+    "Ripae pFTM-FTM LP": {
+        "createdAt": 1644485111,
+        "earnedTokenAddress": "0xb97C963834319e1E07d4F241F1F42f6a41CAEB85",
+        "id": "ripae-pftm-ftm",
+        "platform": "Ripae",
+        "status": "active",
+        "strategyAddress": "0xf0A4fC334F84D342d84BD73B4f9a74c89fdC7deE",
+        "tokenDescription": "SpookySwap (Ripae)"
+    },
+    "Scream CRV": {
+        "createdAt": 1631727659,
+        "earnedTokenAddress": "0xE8883Cd90A2D6F2877E130120965D61918d7CE44",
+        "id": "scream-crv",
+        "platform": "Scream",
+        "status": "active",
+        "strategyAddress": "0xA1CFCE884357EF0dFBaED4265299c950c058Ce4c",
+        "tokenDescription": "Scream"
+    },
+    "Scream DAI": {
+        "createdAt": 1628739318,
+        "earnedTokenAddress": "0x920786cff2A6f601975874Bb24C63f0115Df7dc8",
+        "id": "scream-dai",
+        "platform": "Scream",
+        "status": "active",
+        "strategyAddress": "0x96d66427C18e12Ec77B5bC195c9Bf1D6d01B204a",
+        "tokenDescription": "Scream"
+    },
+    "Scream DOLA": {
+        "createdAt": 1635454839,
+        "earnedTokenAddress": "0x897a1B6F3a2C3D2CB3137888F310Ecdc752bfcFB",
+        "id": "scream-dola",
+        "platform": "Scream",
+        "status": "active",
+        "strategyAddress": "0x12F1A8C91Ffdb0aF421b703A75b8E9f57ADDF0b9",
+        "tokenDescription": "Scream"
+    },
+    "Scream ETH": {
+        "createdAt": 1628739417,
+        "earnedTokenAddress": "0x0a03D2C1cFcA48075992d810cc69Bd9FE026384a",
+        "id": "scream-eth",
+        "platform": "Scream",
+        "status": "active",
+        "strategyAddress": "0x328bDD271F8987037D935d87cd36d8AcE58dBD34",
+        "tokenDescription": "Scream"
+    },
+    "Scream FRAX": {
+        "createdAt": 1634500757,
+        "earnedTokenAddress": "0xb8EddAA94BB8AbF8A5BB90c217D53960242e104D",
+        "id": "scream-frax",
+        "platform": "Scream",
+        "status": "active",
+        "strategyAddress": "0x7434583cdf49E56206193908F599aA62177a1497",
+        "tokenDescription": "Scream"
+    },
+    "Scream FTM": {
+        "createdAt": 1628734094,
+        "earnedTokenAddress": "0x49c68eDb7aeBd968F197121453e41b8704AcdE0C",
+        "id": "scream-ftm",
+        "platform": "Scream",
+        "status": "active",
+        "strategyAddress": "0x6d8CA0589702F30cED94C0D5c5d33b9e40D05C31",
+        "tokenDescription": "Scream"
+    },
+    "Scream LINK": {
+        "createdAt": 1631726729,
+        "earnedTokenAddress": "0x6DfE2AAEA9dAadADf0865B661b53040E842640f8",
+        "id": "scream-link",
+        "platform": "Scream",
+        "status": "active",
+        "strategyAddress": "0x3E25CcCD4aC11d4F417b992285188714E80BAE8C",
+        "tokenDescription": "Scream"
+    },
+    "Scream MIM": {
+        "createdAt": 1634453638,
+        "earnedTokenAddress": "0x074A2a6d0fdbf6860033E57eBD37Aeb88c3931b4",
+        "id": "scream-mim",
+        "platform": "Scream",
+        "status": "active",
+        "strategyAddress": "0xc1A77cE3707d19b5aa6D62438bF7BD86078E1146",
+        "tokenDescription": "Scream"
+    },
+    "Scream SPELL": {
+        "createdAt": 1640646636,
+        "earnedTokenAddress": "0x5EB148A571B0B3D8b8eB46053545E7DF833898Dc",
+        "id": "scream-spell",
+        "platform": "Scream",
+        "showWarning": false,
+        "status": "active",
+        "strategyAddress": "0xe880e3705db6B13ca1DE77901d2D3a2dCC9a89B2",
+        "tokenDescription": "Scream",
+        "warning": "liquidity"
+    },
+    "Scream TUSD": {
+        "createdAt": 1637875008,
+        "earnedTokenAddress": "0x42ECfA11Db08FB3Bb0AAf722857be56FA8E57Dc0",
+        "id": "scream-tusd",
+        "platform": "Scream",
+        "showWarning": false,
+        "status": "active",
+        "strategyAddress": "0x15B43B012f0e2fceC064d3D4330a937504Fbc571",
+        "tokenDescription": "Scream",
+        "warning": "liquidity"
+    },
+    "Scream USDC": {
+        "createdAt": 1628627757,
+        "earnedTokenAddress": "0x2438009ba14A93e82ab43c66838e57bE27A55Aa1",
+        "id": "scream-usdc",
+        "platform": "Scream",
+        "status": "active",
+        "strategyAddress": "0xC34be9A93a3De0256BBf16141591D11b91b249EB",
+        "tokenDescription": "Scream"
+    },
+    "Scream WBTC": {
+        "createdAt": 1628739572,
+        "earnedTokenAddress": "0x97927aBfE1aBBE5429cBe79260B290222fC9fbba",
+        "id": "scream-wbtc",
+        "platform": "Scream",
+        "status": "active",
+        "strategyAddress": "0x4374207377C1A36e386A757B774D53a0B6Ff2cEE",
+        "tokenDescription": "Scream"
+    },
+    "Scream fUSDT": {
+        "createdAt": 1628739191,
+        "earnedTokenAddress": "0xb09cf345294aDD1066543B22FD7384185F7C6fCA",
+        "id": "scream-fusdt",
+        "platform": "Scream",
+        "status": "active",
+        "strategyAddress": "0x044eb51f376A6C8D172ce6C279529a60a2185894",
+        "tokenDescription": "Scream"
+    },
+    "SpiritSwap ATLAS-FTM LP": {
+        "createdAt": 1646304431,
+        "earnedTokenAddress": "0x75de621246281c8b2B0E09459Af95D56b5fD7536",
+        "id": "spirit-ftm-atlas",
+        "platform": "SpiritSwap",
+        "status": "active",
+        "strategyAddress": "0x4e8cB6D3B91FE48Df8060310CC9635De15E199c7",
+        "tokenDescription": "SpiritSwap"
+    },
+    "SpiritSwap BIFI-FTM LP": {
+        "createdAt": 1646229229,
+        "earnedTokenAddress": "0x83A002075ceCBB9772160383a32D953630CDc6F1",
+        "id": "spirit-ftm-bifi",
+        "platform": "SpiritSwap",
+        "status": "active",
+        "strategyAddress": "0xcADC8887e232285D9d764F9f91D83383d624C193",
+        "tokenDescription": "SpiritSwap"
+    },
+    "SpiritSwap CRE8R-FTM LP": {
+        "createdAt": 1645034296,
+        "earnedTokenAddress": "0x503FF2102D51ec816C693017d26E31df666Cadf0",
+        "id": "spirit-ftm-cre8r",
+        "platform": "SpiritSwap",
+        "status": "active",
+        "strategyAddress": "0x07AD4d794074ed5490eBDa753B332482b3AA2f3A",
+        "tokenDescription": "SpiritSwap"
+    },
+    "SpiritSwap CRV-FTM LP": {
+        "createdAt": 1633199608,
+        "earnedTokenAddress": "0xAbab1D681bCF375d1bE78e9F57207F6dd015B4BC",
+        "id": "spirit-crv-ftm",
+        "platform": "SpiritSwap",
+        "status": "active",
+        "strategyAddress": "0x40726C4A019f356904191829BDC0a02E77F30686",
+        "tokenDescription": "SpiritSwap"
+    },
+    "SpiritSwap DAI-USDC LP": {
+        "createdAt": 1640070468,
+        "earnedTokenAddress": "0x5d2EF803D6e255eF4D1c66762CBc8845051B54dB",
+        "id": "spirit-dai-usdc",
+        "platform": "SpiritSwap",
+        "status": "active",
+        "strategyAddress": "0xBDFeDfCCc2729C114fe7F3E97e18E173E3cb526F",
+        "tokenDescription": "SpiritSwap"
+    },
+    "SpiritSwap DEI-USDC LP": {
+        "createdAt": 1645034296,
+        "earnedTokenAddress": "0x01CC6C3262E24e0d7f45c968e84A8b2ddC12b9cF",
+        "id": "spirit-usdc-dei",
+        "platform": "SpiritSwap",
+        "status": "active",
+        "strategyAddress": "0x239C89335bd1A296622513b320142E4e39bf7E52",
+        "tokenDescription": "SpiritSwap"
+    },
+    "SpiritSwap DEUS-FTM LP": {
+        "createdAt": 1645034296,
+        "earnedTokenAddress": "0x4194cbcF85A1B3f419741432Ae455f28d51Ee7EF",
+        "id": "spirit-ftm-deus",
+        "platform": "SpiritSwap",
+        "status": "active",
+        "strategyAddress": "0x745118dF65873f6fdBF5E89EEB102785EB058203",
+        "tokenDescription": "SpiritSwap"
+    },
+    "SpiritSwap FRAX-FTM LP": {
+        "createdAt": 1644000284,
+        "earnedTokenAddress": "0x0EB510C4Af8AD8A7E658Dee5F4DA36AaF9B1A146",
+        "id": "spirit-ftm-frax",
+        "platform": "SpiritSwap",
+        "status": "active",
+        "strategyAddress": "0xbAedf8C3D38640fc33ee5bB93194025D534Aa456",
+        "tokenDescription": "SpiritSwap"
+    },
+    "SpiritSwap FRAX-USDC LP": {
+        "createdAt": 1642560206,
+        "earnedTokenAddress": "0x11d4D27364952b972AC74Fb6676DbbFa67fDa72F",
+        "id": "spirit-frax-usdc",
+        "platform": "SpiritSwap",
+        "status": "active",
+        "strategyAddress": "0x5ef24da9a51a577FE17a9385Ca9206A7266161B0",
+        "tokenDescription": "SpiritSwap"
+    },
+    "SpiritSwap HND-FTM LP": {
+        "createdAt": 1646913142,
+        "earnedTokenAddress": "0x8E1fE6FeA7aC27526643c3FCFd7DA50047FCE7Cb",
+        "id": "spirit-hnd-ftm",
+        "platform": "SpiritSwap",
+        "status": "active",
+        "strategyAddress": "0x3bdaf23aa958401Ba84a180AC5149B0e6c110765",
+        "tokenDescription": "SpiritSwap"
+    },
+    "SpiritSwap JEWEL-FTM LP": {
+        "createdAt": 1644171366,
+        "earnedTokenAddress": "0x2D68D7759B61CE73C03F3b48fa15b23d2b5475EE",
+        "id": "spirit-ftm-jewel",
+        "platform": "SpiritSwap",
+        "status": "active",
+        "strategyAddress": "0xE4141CEF7f1eB1f395c23E3eB4Cf274b19295131",
+        "tokenDescription": "SpiritSwap"
+    },
+    "SpiritSwap MAI-FTM LP": {
+        "createdAt": 1644003891,
+        "earnedTokenAddress": "0x256eB6bddadF04750C71b1d9701c64F011Aaa559",
+        "id": "spirit-ftm-mai",
+        "platform": "SpiritSwap",
+        "status": "active",
+        "strategyAddress": "0x2a964E14676861766727Dbbd7C655C3294C9aa35",
+        "tokenDescription": "SpiritSwap"
+    },
+    "SpiritSwap MIDAS-FTM LP": {
+        "createdAt": 1653405420,
+        "earnedTokenAddress": "0x826B9d7Aaa2C597ec06efE4f0753C4D7A57b5eBF",
+        "id": "spirit-wftm-midas",
+        "platform": "SpiritSwap",
+        "status": "active",
+        "strategyAddress": "0x040Ef70D1CaCEB2cCa319E27f25160cAECFe7545",
+        "tokenDescription": "SpiritSwap"
+    },
+    "SpiritSwap MIM-USDC LP": {
+        "createdAt": 1642560383,
+        "earnedTokenAddress": "0x3aA3341433E8efE228F75777213787f1a51Ab09d",
+        "id": "spirit-mim-usdc",
+        "platform": "SpiritSwap",
+        "status": "active",
+        "strategyAddress": "0xA7Ba5D21CE2E9F002fa0348aA71f228a8974273B",
+        "tokenDescription": "SpiritSwap"
+    },
+    "SpiritSwap ORKAN-FTM LP": {
+        "createdAt": 1651077919,
+        "earnedTokenAddress": "0x878b9c15B7856081D7Bcb3240D9a15fEC7718439",
+        "id": "spirit-orkan-ftm",
+        "platform": "SpiritSwap",
+        "status": "active",
+        "strategyAddress": "0xE13b65C9d37aF3666A4640AE4Fd5202bd630d8cD",
+        "tokenDescription": "SpiritSwap"
+    },
+    "SpiritSwap SPIRIT-FTM LP": {
+        "createdAt": 1643747530,
+        "earnedTokenAddress": "0x415ADafbfBbe183E10c059dEbf283C5428cb6628",
+        "id": "spirit-ftm-spirit",
+        "platform": "SpiritSwap",
+        "status": "active",
+        "strategyAddress": "0x10bcb7145c08F04aA7cCa356FAEE0A5ac3cCa860",
+        "tokenDescription": "SpiritSwap"
+    },
+    "SpiritSwap TREEB-FTM LP": {
+        "createdAt": 1646304431,
+        "earnedTokenAddress": "0x1c85Ea06184603e43fb0386ba44589eAe3d06980",
+        "id": "spirit-ftm-treeb",
+        "platform": "SpiritSwap",
+        "status": "active",
+        "strategyAddress": "0xA7e2363455159101a0Ee0BDF4028Bd611D19Fb57",
+        "tokenDescription": "SpiritSwap"
+    },
+    "SpiritSwap USDC-FTM LP": {
+        "createdAt": 1633180384,
+        "earnedTokenAddress": "0xA4e2EE5a7fF51224c27C98098D8DB5C770bAAdbE",
+        "id": "spirit-ftm-usdc",
+        "platform": "SpiritSwap",
+        "status": "active",
+        "strategyAddress": "0xdcb989e3537cDdC075A17f94ff24E338678FC4d6",
+        "tokenDescription": "SpiritSwap"
+    },
+    "SpiritSwap UST-FTM LP": {
+        "createdAt": 1647533765,
+        "earnedTokenAddress": "0x92F44893D5f22bDc8540CEb83B0b3E3112951bEe",
+        "id": "spirit-ust-ftm",
+        "platform": "SpiritSwap",
+        "status": "active",
+        "strategyAddress": "0xA53A8BAB06c389d4cD3D33c8a24beA164817588f",
+        "tokenDescription": "SpiritSwap"
+    },
+    "SpiritSwap beFTM-FTM LP": {
+        "createdAt": 1646866226,
+        "earnedTokenAddress": "0x4ED766aF5B30a4695F7b247AE1bB0f6B34bC6378",
+        "id": "spirit-ftm-beftm",
+        "platform": "SpiritSwap",
+        "status": "active",
+        "strategyAddress": "0x768620Ee33313D9711857D122a8d60Dd062b7bD3",
+        "tokenDescription": "SpiritSwap"
+    },
+    "SpiritSwap binSPIRIT-SPIRIT LP": {
+        "createdAt": 1643907163,
+        "earnedTokenAddress": "0x794cEaD3c864B5390254ffca7ecd6a9aE868661a",
+        "id": "spirit-binspirit-spirit",
+        "platform": "SpiritSwap",
+        "status": "active",
+        "strategyAddress": "0xBCB4c9107561a8c52b9C8f691C60e6A83C4499c3",
+        "tokenDescription": "SpiritSwap"
+    },
+    "SpiritSwap fUSDT-USDC LP": {
+        "createdAt": 1642557662,
+        "earnedTokenAddress": "0xFbfa12b10626151fB7735aBe4af5277104b480ee",
+        "id": "spirit-fusdt-usdc",
+        "platform": "SpiritSwap",
+        "status": "active",
+        "strategyAddress": "0xf2e24273821835D177eB7A6C222c5AfE5de38e87",
+        "tokenDescription": "SpiritSwap"
+    },
+    "SpiritSwap gOHM-FTM LP": {
+        "createdAt": 1644011850,
+        "earnedTokenAddress": "0xa031e6F2Acf9fE197C4A22c3fC584bFD4932F476",
+        "id": "spirit-ftm-gohm",
+        "platform": "SpiritSwap",
+        "status": "active",
+        "strategyAddress": "0x600C500684aca1c5aFc9582B74bb96c8E737C17e",
+        "tokenDescription": "SpiritSwap"
+    },
+    "SpiritSwap sFTMx-FTM LP": {
+        "createdAt": 1651141906,
+        "earnedTokenAddress": "0x8Cfc4d6772E5353CE3fB92421e535022a112306D",
+        "id": "spirit-sftmx-ftm",
+        "platform": "SpiritSwap",
+        "status": "active",
+        "strategyAddress": "0x4F9eC57361B076284b9A2C5db1a304B64aA64E7F",
+        "tokenDescription": "SpiritSwap"
+    },
+    "SpiritSwap wMEMO-MIM LP": {
+        "createdAt": 1634312717,
+        "earnedTokenAddress": "0xC84bA97eF76d45281C2DBBb486d266C45CFbf5B7",
+        "id": "spirit-wmemo-mim",
+        "platform": "SpiritSwap",
+        "status": "active",
+        "strategyAddress": "0xC62A7f0a2994E727B665225653e2C248B945476e",
+        "tokenDescription": "SpiritSwap"
+    },
+    "SpiritSwap wsHEC-FTM LP": {
+        "createdAt": 1644337415,
+        "earnedTokenAddress": "0xBDC6830635BF9098b5c1d783c57a3C143826b38F",
+        "id": "spirit-ftm-wshec",
+        "platform": "SpiritSwap",
+        "status": "active",
+        "strategyAddress": "0x341e7B8a5106A48Db164a11cD0490d4c8BB4DfE8",
+        "tokenDescription": "SpiritSwap"
+    },
+    "SpookySwap ANY-FTM LP": {
+        "createdAt": 1622123539,
+        "earnedTokenAddress": "0xEE40C6Decc15dCeCE7a836e5CD5Ff94523D32265",
+        "id": "boo-any-ftm",
+        "platform": "SpookySwap",
+        "status": "active",
+        "strategyAddress": "0x8EA5Da4115150219cC73e2Df2d8aBc533a39A50C",
+        "tokenDescription": "SpookySwap"
+    },
+    "SpookySwap APE-FTM LP": {
+        "createdAt": 1648237084,
+        "earnedTokenAddress": "0xe2A269BE12bCfBc3EA33eafe53e9B068848017f6",
+        "id": "boo-wftm-ape",
+        "platform": "SpookySwap",
+        "status": "active",
+        "strategyAddress": "0x99C719c26C64A371be84bAF0821fA89a1FEd459a",
+        "tokenDescription": "SpookySwap"
+    },
+    "SpookySwap AVAX-FTM LP": {
+        "createdAt": 1639923705,
+        "earnedTokenAddress": "0x6e08721cE0eB1a6776E7965beb5441267D1742c7",
+        "id": "boo-wftm-avax",
+        "platform": "SpookySwap",
+        "status": "active",
+        "strategyAddress": "0x44baEbEB626f1aD048F0c15e84BB24196f214c23",
+        "tokenDescription": "SpookySwap"
+    },
+    "SpookySwap BEETS-FTM LP": {
+        "createdAt": 1642634017,
+        "earnedTokenAddress": "0xBdd229d2bcf8f31Fa90FD04c314078dAF4e2A0A4",
+        "id": "boo-wftm-beets",
+        "platform": "SpookySwap",
+        "status": "active",
+        "strategyAddress": "0x75508947376118D6Ab20dba8316A852ce2543D77",
+        "tokenDescription": "SpookySwap"
+    },
+    "SpookySwap BIFI-FTM LP": {
+        "createdAt": 1622569266,
+        "earnedTokenAddress": "0xe8188B9701E6DB1Fe24c75783474D22e5957BBEF",
+        "id": "boo-bifi-ftm",
+        "platform": "SpookySwap",
+        "status": "active",
+        "strategyAddress": "0xD5ff0aCA943C918EEE069b1E80Ee0D9d016b2F98",
+        "tokenDescription": "SpookySwap"
+    },
+    "SpookySwap BNB-FTM LP": {
+        "createdAt": 1620919260,
+        "earnedTokenAddress": "0xC5b2a6aB801E74F098aCC8Bb62B786b47319c4D9",
+        "id": "boo-bnb-ftm",
+        "platform": "SpookySwap",
+        "status": "active",
+        "strategyAddress": "0x9D55cAEE108aBdd4C47E42088C97ecA43510E969",
+        "tokenDescription": "SpookySwap"
+    },
+    "SpookySwap BOO": {
+        "createdAt": 1620998574,
+        "earnedTokenAddress": "0x15DD4398721733D8273FD4Ed9ac5eadC6c018866",
+        "id": "boo-boo",
+        "platform": "SpookySwap",
+        "status": "active",
+        "strategyAddress": "0x13b42b5Ff8533540e28FA1F20e1ce7766D6d26bb",
+        "tokenDescription": "SpookySwap"
+    },
+    "SpookySwap BOO-FTM LP": {
+        "createdAt": 1620386574,
+        "earnedTokenAddress": "0xEe3a7c885Fd3cc5358FF583F2DAB3b8bC473316f",
+        "id": "boo-boo-ftm",
+        "platform": "SpookySwap",
+        "status": "active",
+        "strategyAddress": "0x98d3913474fccEDeB63077237914be00202fB007",
+        "tokenDescription": "SpookySwap"
+    },
+    "SpookySwap BOO-USDC LP": {
+        "createdAt": 1648237004,
+        "earnedTokenAddress": "0xce6A6b6935A1aB3aF7Be53fbc8A149791b418278",
+        "id": "boo-usdc-boo",
+        "platform": "SpookySwap",
+        "status": "active",
+        "strategyAddress": "0xeC0a417fDa83A8f7FeE014ACf21e7f0e06228f73",
+        "tokenDescription": "SpookySwap"
+    },
+    "SpookySwap BRUSH-FTM LP": {
+        "createdAt": 1642291662,
+        "earnedTokenAddress": "0xC62Bec8168404CcDE75Db95F5cED342C1AD770a5",
+        "id": "boo-wftm-brush",
+        "platform": "SpookySwap",
+        "status": "active",
+        "strategyAddress": "0x8dD82D887a5B0C970F42bE8691203ABa22F832A3",
+        "tokenDescription": "SpookySwap"
+    },
+    "SpookySwap CRV-FTM LP": {
+        "createdAt": 1620386607,
+        "earnedTokenAddress": "0xdf68Bf80D427A5827Ff2c06A9c70D407e17DC041",
+        "id": "boo-crv-ftm",
+        "platform": "SpookySwap",
+        "status": "active",
+        "strategyAddress": "0xC3821F0b56FA4F4794d5d760f94B812DE261361B",
+        "tokenDescription": "SpookySwap"
+    },
+    "SpookySwap DAI-FTM LP": {
+        "createdAt": 1622123567,
+        "earnedTokenAddress": "0x8316b990De26eB530B7B1bb0d87f5b0a304637cd",
+        "id": "boo-dai-ftm",
+        "platform": "SpookySwap",
+        "status": "active",
+        "strategyAddress": "0x2cC364255206A7e14bF59ADB1fc5770DbA48CB3f",
+        "tokenDescription": "SpookySwap"
+    },
+    "SpookySwap DEI-USDC LP": {
+        "createdAt": 1649955002,
+        "earnedTokenAddress": "0xb57FF04862BA9fa1f76436cB68b92A6366Da4669",
+        "id": "boo-usdc-dei",
+        "platform": "SpookySwap",
+        "status": "active",
+        "strategyAddress": "0x4cc45a80a57e60b28f5761Aa6D705580AB329fAf",
+        "tokenDescription": "SpookySwap"
+    },
+    "SpookySwap DEUS-FTM LP": {
+        "createdAt": 1649955001,
+        "earnedTokenAddress": "0x6FC7AF3d1dF970Cd699E82941a71BC3Df03Ee986",
+        "id": "boo-wftm-deus",
+        "platform": "SpookySwap",
+        "status": "active",
+        "strategyAddress": "0x7549b90F096ac4f03761430cC8BF38219Fc57C73",
+        "tokenDescription": "SpookySwap"
+    },
+    "SpookySwap ETH-FTM LP": {
+        "createdAt": 1620386666,
+        "earnedTokenAddress": "0x2a30C5e0d577108F694d2A96179cd73611Ee069b",
+        "id": "boo-eth-ftm",
+        "platform": "SpookySwap",
+        "status": "active",
+        "strategyAddress": "0x7c7B7FbccA5699175003ecbe1B41E79F40385469",
+        "tokenDescription": "SpookySwap"
+    },
+    "SpookySwap ICE-FTM LP": {
+        "createdAt": 1622445591,
+        "earnedTokenAddress": "0x33E0Feb374C9B7fC3Ac392140BdE3036263D8e5e",
+        "id": "boo-ftm-ice",
+        "platform": "SpookySwap",
+        "status": "active",
+        "strategyAddress": "0x8F35521cf1B9145E2C5231B8B3E1c3AEadDc4027",
+        "tokenDescription": "SpookySwap"
+    },
+    "SpookySwap JOE-FTM LP": {
+        "createdAt": 1637587170,
+        "earnedTokenAddress": "0xD75805Ec0234AD335228e5E9f341d91f0F44010D",
+        "id": "boo-wftm-joe",
+        "platform": "SpookySwap",
+        "status": "active",
+        "strategyAddress": "0x6259f854125a6af8E6cfC2f9c5BF5a6BdD24B3A5",
+        "tokenDescription": "SpookySwap"
+    },
+    "SpookySwap KAE-FTM LP": {
+        "createdAt": 1645886552,
+        "earnedTokenAddress": "0x8D4022a63634a785955a5Da01ab639a469430585",
+        "id": "boo-kae-wftm",
+        "platform": "SpookySwap",
+        "status": "active",
+        "strategyAddress": "0x620BAbf9A83CBF596D29a12f08d057ef35e995F1",
+        "tokenDescription": "SpookySwap"
+    },
+    "SpookySwap LINK-FTM LP": {
+        "createdAt": 1620500758,
+        "earnedTokenAddress": "0x711969A90C9EDD815A5C2b441FC80d067EC5E969",
+        "id": "boo-link-ftm",
+        "platform": "SpookySwap",
+        "status": "active",
+        "strategyAddress": "0xa1Dfd44c90B7cE937FC450Fe19B691e72EE3a7D2",
+        "tokenDescription": "SpookySwap"
+    },
+    "SpookySwap MATIC-FTM LP": {
+        "createdAt": 1640973310,
+        "earnedTokenAddress": "0x6709B167f862e2AeD920C2D98BC89E976DbD0615",
+        "id": "boo-wftm-matic",
+        "platform": "SpookySwap",
+        "status": "active",
+        "strategyAddress": "0xfE1683FD5cE7f27314Fc00B17FD648E055402ee9",
+        "tokenDescription": "SpookySwap"
+    },
+    "SpookySwap MIM-FTM LP": {
+        "createdAt": 1625679284,
+        "earnedTokenAddress": "0x6676C93eb0F2daEfD3b9d03De2E3b18F888cF942",
+        "id": "boo-mim-ftm",
+        "platform": "SpookySwap",
+        "status": "active",
+        "strategyAddress": "0x567FF0A6067C9021DBd50D09bA747F78aEfAB9c2",
+        "tokenDescription": "SpookySwap"
+    },
+    "SpookySwap MULTI-FTM LP": {
+        "createdAt": 1645049415,
+        "earnedTokenAddress": "0x22f72e86A9CA2CDD3Cdc94012E9901D93E3d90F8",
+        "id": "boo-ftm-multi",
+        "platform": "SpookySwap",
+        "status": "active",
+        "strategyAddress": "0x7dC9B0220953f9d1E66506E795f443aE6d0f37dF",
+        "tokenDescription": "SpookySwap"
+    },
+    "SpookySwap OOE-FTM LP": {
+        "createdAt": 1639423285,
+        "earnedTokenAddress": "0x3AE6dA5958d3448B0eD34f615606c891cA56dC8F",
+        "id": "boo-wftm-ooe",
+        "platform": "SpookySwap",
+        "status": "active",
+        "strategyAddress": "0x34834D9179c2E7012d3C36485ed4f3Cd5101cfFc",
+        "tokenDescription": "SpookySwap"
+    },
+    "SpookySwap SPELL-FTM LP": {
+        "createdAt": 1634118092,
+        "earnedTokenAddress": "0xB3aA62165C1Aa9472C9B16dFAB74681F61D28508",
+        "id": "boo-wftm-spell",
+        "platform": "SpookySwap",
+        "status": "active",
+        "strategyAddress": "0x31F5eec2719eAc3A61a8B76ed9ceFF13437BE65a",
+        "tokenDescription": "SpookySwap"
+    },
+    "SpookySwap SUSHI-FTM LP": {
+        "createdAt": 1622446524,
+        "earnedTokenAddress": "0xb8c90D7C60Cf88915BCc4F388F207D5F7fDaA9b4",
+        "id": "boo-ftm-sushi",
+        "platform": "SpookySwap",
+        "status": "active",
+        "strategyAddress": "0x3C180c415332999Fa7e5a65E8490A57fe8Fd7fdb",
+        "tokenDescription": "SpookySwap"
+    },
+    "SpookySwap TOR-FTM LP": {
+        "createdAt": 1651814013,
+        "earnedTokenAddress": "0xf723aE5478B1F03cA88C204F1ae5498d3576B78F",
+        "id": "boo-wftm-tor",
+        "platform": "SpookySwap",
+        "status": "active",
+        "strategyAddress": "0xa1f710D51c9e08BbD322E7B3fe42F26C4e94c94e",
+        "tokenDescription": "SpookySwap"
+    },
+    "SpookySwap TREEB-FTM LP": {
+        "createdAt": 1631897760,
+        "earnedTokenAddress": "0x6C4593D4f91c790404cCEe5007E929d2b7bF45bD",
+        "id": "boo-wftm-treeb",
+        "platform": "SpookySwap",
+        "status": "active",
+        "strategyAddress": "0xA58f0953261EcB55A128F721841416717B327833",
+        "tokenDescription": "SpookySwap"
+    },
+    "SpookySwap TUSD-USDC LP": {
+        "createdAt": 1637658328,
+        "earnedTokenAddress": "0x6F0169e452211Ee0146812C1cc111FB228480d42",
+        "id": "boo-usdc-tusd",
+        "platform": "SpookySwap",
+        "status": "active",
+        "strategyAddress": "0x97A3d559d62E8668e1b4644C2A6F4E4147898552",
+        "tokenDescription": "SpookySwap"
+    },
+    "SpookySwap USDC-FTM LP": {
+        "createdAt": 1620386549,
+        "earnedTokenAddress": "0x41D44B276904561Ac51855159516FD4cB2c90968",
+        "id": "boo-ftm-usdc",
+        "platform": "SpookySwap",
+        "status": "active",
+        "strategyAddress": "0xf5d76A33953365e4f074AE58e34C39A52B8E9671",
+        "tokenDescription": "SpookySwap"
+    },
+    "SpookySwap USDC-MAI": {
+        "createdAt": 1636758731,
+        "earnedTokenAddress": "0x278E3E675F673dB344EF14a4Dc2F12218967a313",
+        "id": "boo-usdc-mai",
+        "platform": "SpookySwap",
+        "status": "active",
+        "strategyAddress": "0xeFb235A125193b25F7989E5E564CF276375fA74d",
+        "tokenDescription": "SpookySwap"
+    },
+    "SpookySwap WBTC-ETH LP": {
+        "createdAt": 1642672280,
+        "earnedTokenAddress": "0x1313b9C550bbDF55Fc06f63a41D8BDC719d056A6",
+        "id": "boo-btc-eth",
+        "platform": "SpookySwap",
+        "status": "active",
+        "strategyAddress": "0x7f32C0b25f565E4e9F9e6Ec78108775C9b9db298",
+        "tokenDescription": "SpookySwap"
+    },
+    "SpookySwap WBTC-FTM LP": {
+        "createdAt": 1620500455,
+        "earnedTokenAddress": "0xA3e3Af161943CfB3941B631676134bb048739727",
+        "id": "boo-btc-ftm",
+        "platform": "SpookySwap",
+        "status": "active",
+        "strategyAddress": "0x1433c4a55449c8B96cf5Ac0cF395cBd8dc8e5f60",
+        "tokenDescription": "SpookySwap"
+    },
+    "SpookySwap WOO-FTM LP": {
+        "createdAt": 1639923811,
+        "earnedTokenAddress": "0xddb3F5F56AeA6B8cE12e2f603Fac6b8f0D99b78a",
+        "id": "boo-wftm-woo",
+        "platform": "SpookySwap",
+        "status": "active",
+        "strategyAddress": "0x7e4b8AFE26a20fb93561C811F1121bc1210bDe37",
+        "tokenDescription": "SpookySwap"
+    },
+    "SpookySwap YFI-ETH LP": {
+        "createdAt": 1628168514,
+        "earnedTokenAddress": "0x93EA5929f636f71F343122Ce396340f8E0BC3A70",
+        "id": "boo-yfi-eth",
+        "platform": "SpookySwap",
+        "status": "active",
+        "strategyAddress": "0x490701fb9DCC30B89734F934120B24Dd90317BB7",
+        "tokenDescription": "SpookySwap"
+    },
+    "SpookySwap YOSHI-FTM LP": {
+        "createdAt": 1639422895,
+        "earnedTokenAddress": "0x0edf387CDe7f901186834D073c09a7c1D1651000",
+        "id": "boo-wftm-yoshi",
+        "platform": "SpookySwap",
+        "status": "active",
+        "strategyAddress": "0xeB3c00fe42e2518293719e3fB0041BCEc98a25D0",
+        "tokenDescription": "SpookySwap"
+    },
+    "SpookySwap beFTM-FTM LP": {
+        "createdAt": 1648777474,
+        "earnedTokenAddress": "0xdC72257947bb8C154Ffaf94D9E7C60ed54fEd380",
+        "id": "boo-wftm-beftm",
+        "platform": "SpookySwap",
+        "status": "active",
+        "strategyAddress": "0x814F0A1502fb884B22B7a476BE519cB010ef0476",
+        "tokenDescription": "SpookySwap"
+    },
+    "SpookySwap fUSDT-FTM LP": {
+        "createdAt": 1620500483,
+        "earnedTokenAddress": "0x5d89017d2465115007AbA00da1E6446dF2C19f34",
+        "id": "boo-usdt-ftm",
+        "platform": "SpookySwap",
+        "status": "active",
+        "strategyAddress": "0x8F769621E63acE71132987Ec4DB14cc3d06AA684",
+        "tokenDescription": "SpookySwap"
+    },
+    "SpookySwap sFTMx-FTM LP": {
+        "createdAt": 1650967301,
+        "earnedTokenAddress": "0x30E3154ce70660590FC8bBc1929Ce9236e66C50E",
+        "id": "boo-wftm-sftmx",
+        "platform": "SpookySwap",
+        "status": "active",
+        "strategyAddress": "0xB42D2009211E11eD5Ad14C6Cc0314c20964f543F",
+        "tokenDescription": "SpookySwap"
+    },
+    "SpookySwap wsHEC-FTM LP": {
+        "createdAt": 1639423158,
+        "earnedTokenAddress": "0x52c35741e7DFEC24FBf8436187dffC44376264Fb",
+        "id": "boo-wftm-wshec",
+        "platform": "SpookySwap",
+        "status": "active",
+        "strategyAddress": "0x999F5390108B211AEA6A29fc556f6D0F0E56C3f3",
+        "tokenDescription": "SpookySwap"
+    },
+    "Stargate USDC LP": {
+        "createdAt": 1648657158,
+        "earnedTokenAddress": "0x07EC069DC86D5ca2eB3c705C7030525A62e6E78C",
+        "id": "stargate-fantom-usdc",
+        "platform": "Stargate",
+        "status": "active",
+        "strategyAddress": "0x6DeDE244d7DD73Aa4967B3d7D400271ec746e28B",
+        "tokenDescription": "Stargate"
+    },
+    "SushiSwap ETH-BTC LP": {
+        "createdAt": 1642947064,
+        "earnedTokenAddress": "0x4B541D2D395Cb943111A2a7CA6186f9C2901BAFA",
+        "id": "sushi-btc-eth",
+        "platform": "SushiSwap",
+        "status": "active",
+        "strategyAddress": "0xa5F6387fB58AC5268F130bFc2d0A5e53343fB798",
+        "tokenDescription": "Sushi"
+    },
+    "SushiSwap ETH-DAI LP": {
+        "createdAt": 1642946550,
+        "earnedTokenAddress": "0x5Ed95BbE1743370f42657e7D8f8E02b4055145EF",
+        "id": "sushi-eth-dai",
+        "platform": "SushiSwap",
+        "status": "active",
+        "strategyAddress": "0x6ffFA724b231610e6C99b3F41b26c4aBF94F05F8",
+        "tokenDescription": "Sushi"
+    },
+    "SushiSwap ETH-FTM LP": {
+        "createdAt": 1642945488,
+        "earnedTokenAddress": "0xd6D138fb65c2a68E728D70EfbAA54c794B73B6A0",
+        "id": "sushi-wftm-eth",
+        "platform": "SushiSwap",
+        "status": "active",
+        "strategyAddress": "0xec10AaC4A445d28Eebd50F908cfc69816C8E9d7d",
+        "tokenDescription": "Sushi"
+    },
+    "SushiSwap MIM-USDC LP": {
+        "createdAt": 1642946810,
+        "earnedTokenAddress": "0x8f4F3cF7ECbfbD68DEC61F5F022f5a6655F5E3e0",
+        "id": "sushi-usdc-mim",
+        "platform": "SushiSwap",
+        "status": "active",
+        "strategyAddress": "0x67E7cC5405429D9D7b468c836989B849b5D66543",
+        "tokenDescription": "Sushi"
+    },
+    "SushiSwap SUSHI-FTM LP": {
+        "createdAt": 1642948006,
+        "earnedTokenAddress": "0x5D060698F179E7D2233480A44d6D3979e4Ae9e7f",
+        "id": "sushi-wftm-sushi",
+        "platform": "SushiSwap",
+        "status": "active",
+        "strategyAddress": "0xC67c5F7F4aAA34E3e94051e22Fce83C455a2562C",
+        "tokenDescription": "Sushi"
+    },
+    "SushiSwap USDC-FTM LP": {
+        "createdAt": 1642944703,
+        "earnedTokenAddress": "0xb870e4755C737D2753D7298D0e70344077905Ed5",
+        "id": "sushi-usdc-wftm",
+        "platform": "SushiSwap",
+        "status": "active",
+        "strategyAddress": "0xB17857c6c382680140Eb4EB1aAC4EB1184987D47",
+        "tokenDescription": "Sushi"
+    },
+    "SushiSwap fUSDT-FTM LP": {
+        "createdAt": 1642946143,
+        "earnedTokenAddress": "0xBfC2C7323739A616f555d4410e4a4bF4Dad89e93",
+        "id": "sushi-fusdt-wftm",
+        "platform": "SushiSwap",
+        "status": "active",
+        "strategyAddress": "0xafD558197FE33AAd1D653cc57B712d9A97752084",
+        "tokenDescription": "Sushi"
+    },
+    "Tomb BASED-USDC LP": {
+        "createdAt": 1653896828,
+        "earnedTokenAddress": "0x4cb0dd253ae27Ff7231372424bC988c711a61783",
+        "id": "based-based-usdc",
+        "platform": "Tomb",
+        "status": "active",
+        "strategyAddress": "0x536193E2009d203613F55b53b0346E342440b6D8",
+        "tokenDescription": "TombSwap (Based)"
+    },
+    "Tomb FTM-USDC LP": {
+        "createdAt": 1653010779,
+        "earnedTokenAddress": "0x1f69E7B04458cf99B962c26aeCAe87F963F9513F",
+        "id": "tomb-usdc-wftm",
+        "platform": "Tomb",
+        "status": "active",
+        "strategyAddress": "0x1E214f5E1aFcdf2F6D17E46505b23aDD5F0764Ab",
+        "tokenDescription": "TombSwap"
+    },
+    "Tomb FUSD-USDC LP": {
+        "createdAt": 1653470845,
+        "earnedTokenAddress": "0xF9Ec7e648a50806Ec3Cd21415bebAB3c942Ee01b",
+        "id": "tomb-fusd-usdc",
+        "platform": "Tomb",
+        "status": "active",
+        "strategyAddress": "0x4BbA74DD4941c79CE88E7Ab55564E5B7b98897D2",
+        "tokenDescription": "TombSwap"
+    },
+    "Tomb MAI-USDC LP": {
+        "createdAt": 1653013565,
+        "earnedTokenAddress": "0x76b8b4601A4c30dea22eAAdcc85f87D27052a2BB",
+        "id": "tomb-usdc-mai",
+        "platform": "Tomb",
+        "status": "active",
+        "strategyAddress": "0x450234989C0822fFB6CEcEe1f0BaA37b1D51E044",
+        "tokenDescription": "TombSwap"
+    },
+    "Tomb MIM-USDC LP": {
+        "createdAt": 1653013511,
+        "earnedTokenAddress": "0xaf5C14D2CE23B5de3c9d7e6F0C4178D35Ffc07D6",
+        "id": "tomb-usdc-mim",
+        "platform": "Tomb",
+        "status": "active",
+        "strategyAddress": "0x33Aaa949D7CEef9ab35dF994C55cDb237Ca5B0A1",
+        "tokenDescription": "TombSwap"
+    },
+    "Tomb TOMB-FTM LP": {
+        "createdAt": 1648676349,
+        "earnedTokenAddress": "0x429590a528A86a0da0ACa9Aa7CD087BAdc790Af8",
+        "id": "tomb-tomb-wftm",
+        "platform": "Tomb",
+        "status": "active",
+        "strategyAddress": "0x6f3C8A229C38022458f5a0998AFBd7F94171E7b9",
+        "tokenDescription": "TombSwap"
+    },
+    "Tomb TOMB-MAI LP": {
+        "createdAt": 1647007175,
+        "earnedTokenAddress": "0xb2be5Cd33DBFf412Bce9587E44b5647a4BdA6a66",
+        "id": "tomb-tomb-mai",
+        "platform": "Tomb",
+        "status": "active",
+        "strategyAddress": "0xc8161F9a900363529E7709AeB1EC88280cfA328E",
+        "tokenDescription": "TombSwap"
+    },
+    "Tomb TOMB-SCREAM LP": {
+        "createdAt": 1653470613,
+        "earnedTokenAddress": "0xdeFc374Cb3F9E00a65241C89F9f0eed0B399BF6c",
+        "id": "tomb-tomb-scream",
+        "platform": "Tomb",
+        "status": "active",
+        "strategyAddress": "0x807dF28C2867080FC51e7B441651Ebf18a7E7433",
+        "tokenDescription": "TombSwap"
+    },
+    "Tomb TOMB-TREEB LP": {
+        "createdAt": 1653470692,
+        "earnedTokenAddress": "0x6b9de11ACf846d961E0b7AF3B0B5066DDBED5eA1",
+        "id": "tomb-tomb-treeb",
+        "platform": "Tomb",
+        "status": "active",
+        "strategyAddress": "0xD09A9E40990B557eA4f2E24B64664788d68db93e",
+        "tokenDescription": "TombSwap"
+    },
+    "Tomb TOMB-USDC LP": {
+        "createdAt": 1653013367,
+        "earnedTokenAddress": "0x3220A0005015f089d583b94aA4B103e6e28E3aE2",
+        "id": "tomb-usdc-tomb",
+        "platform": "Tomb",
+        "status": "active",
+        "strategyAddress": "0xEa00376c28b9bCe199EceAbd44416ce49d2b695d",
+        "tokenDescription": "TombSwap"
+    },
+    "Tomb TOMB-ZOO LP": {
+        "createdAt": 1653470478,
+        "earnedTokenAddress": "0x1A12C7F1413E261E21b48DB105D0f3bd904ceD58",
+        "id": "tomb-tomb-zoo",
+        "platform": "Tomb",
+        "status": "active",
+        "strategyAddress": "0xeA358eA9238F1f604527128B9055D7B4360C4b21",
+        "tokenDescription": "TombSwap"
+    },
+    "Tomb TREEB-USDC LP": {
+        "createdAt": 1653831633,
+        "earnedTokenAddress": "0xE0c2D6349C7C108c2AD14E7e7cCd53E15264D143",
+        "id": "tomb-treeb-usdc",
+        "platform": "Tomb",
+        "status": "active",
+        "strategyAddress": "0x0A14C63D2d81690C2519aAca77CfC4018EE82E10",
+        "tokenDescription": "TombSwap"
+    },
+    "Tomb TSHARE-BTC LP": {
+        "createdAt": 1651725562,
+        "earnedTokenAddress": "0x366Eb1dC4fDf8273f93a58d0B7EaeD5e4A85f2ed",
+        "id": "tomb-btc-tshare",
+        "platform": "Tomb",
+        "status": "active",
+        "strategyAddress": "0xfa4b24ceE70C920b79118cbFd00086cAD797F2B4",
+        "tokenDescription": "TombSwap"
+    },
+    "Tomb TSHARE-ETH LP": {
+        "createdAt": 1653013670,
+        "earnedTokenAddress": "0x14e57712195D05D1AF02cdCE7d41fa6244C6Eb13",
+        "id": "tomb-tshare-weth",
+        "platform": "Tomb",
+        "status": "active",
+        "strategyAddress": "0x0B496FCEB5362662610aDB8017d99B2471D0689E",
+        "tokenDescription": "TombSwap"
+    },
+    "Tomb TSHARE-MAI LP": {
+        "createdAt": 1648564274,
+        "earnedTokenAddress": "0x4afB1384f6641278D9BB22C6e33c1B526Cee2A40",
+        "id": "tomb-tshare-mai",
+        "platform": "Tomb",
+        "status": "active",
+        "strategyAddress": "0x4ca0a1eff8D2B3234Bc79a9A0A84b316384d000C",
+        "tokenDescription": "TombSwap"
+    },
+    "Tomb TSHARE-USDC LP": {
+        "createdAt": 1653012955,
+        "earnedTokenAddress": "0xE1b37d6667c2cA297ce675618ec457C25cfbC174",
+        "id": "tomb-usdc-tshare",
+        "platform": "Tomb",
+        "status": "active",
+        "strategyAddress": "0xCD139b50f08fE8059460F8968353A7C825536bb4",
+        "tokenDescription": "TombSwap"
+    },
+    "Tomb fUSDT-USDC LP": {
+        "createdAt": 1653065311,
+        "earnedTokenAddress": "0x95EA2284111960c748edF4795cb3530e5E423b8c",
+        "id": "tomb-usdc-fusdt",
+        "platform": "Tomb",
+        "status": "active",
+        "strategyAddress": "0xc0bC10C1C5D598d81608DeC614247E0a964C8A48",
+        "tokenDescription": "TombSwap"
+    },
+    "WigoSwap CRV-FTM LP": {
+        "createdAt": 1645947800,
+        "earnedTokenAddress": "0x0c7cf8118eafea41bBBECe3e2d91dCdF6cafD5F9",
+        "id": "wigo-crv-ftm",
+        "platform": "WigoSwap",
+        "status": "active",
+        "strategyAddress": "0x5a5af2FB4DADFAcEeb560ffD464e118c941a5eFf",
+        "tokenDescription": "WigoSwap"
+    },
+    "WigoSwap DAI-FTM LP": {
+        "createdAt": 1645166063,
+        "earnedTokenAddress": "0xe65DE6b412aB7d221E0C87fe61EE893490E8E6B3",
+        "id": "wigo-dai-ftm",
+        "platform": "WigoSwap",
+        "status": "active",
+        "strategyAddress": "0x1F580683322C0E9B7111620030d88111E359aB4e",
+        "tokenDescription": "WigoSwap"
+    },
+    "WigoSwap ETH-BTC LP": {
+        "createdAt": 1645947800,
+        "earnedTokenAddress": "0xED5c4150F867b278866bbAD33e947287cc5a2Ef1",
+        "id": "wigo-eth-btc",
+        "platform": "WigoSwap",
+        "status": "active",
+        "strategyAddress": "0x21760a6C448E05FB3cCd0Ab805e58Ddfe5b02145",
+        "tokenDescription": "WigoSwap"
+    },
+    "WigoSwap ETH-FTM LP": {
+        "createdAt": 1645947800,
+        "earnedTokenAddress": "0xDb852f7398f9Bdbf868ed4Dda2eb3B055e219B3c",
+        "id": "wigo-eth-ftm",
+        "platform": "WigoSwap",
+        "status": "active",
+        "strategyAddress": "0x2814a0b84b6B8f4DE0a539952df9219b29cF683e",
+        "tokenDescription": "WigoSwap"
+    },
+    "WigoSwap FRAX-USDC LP": {
+        "createdAt": 1645947800,
+        "earnedTokenAddress": "0xdB58dF435192Ea66FFC273Ab83C6de81299c6A67",
+        "id": "wigo-usdc-frax",
+        "platform": "WigoSwap",
+        "status": "active",
+        "strategyAddress": "0x86faf1830ff5f83504ad36b5773E4BcfBE2F022f",
+        "tokenDescription": "WigoSwap"
+    },
+    "WigoSwap TREEB-FTM LP": {
+        "createdAt": 1645165612,
+        "earnedTokenAddress": "0x4e186298855aD9743D00152ff5E2F761b2962Ff9",
+        "id": "wigo-treeb-ftm",
+        "platform": "WigoSwap",
+        "status": "active",
+        "strategyAddress": "0x935983116Dd2088f4A323BA097aC68f6ec8759f3",
+        "tokenDescription": "WigoSwap"
+    },
+    "WigoSwap USDC-DAI LP": {
+        "createdAt": 1645161865,
+        "earnedTokenAddress": "0x7fe35CeFe2E30A3fD2dA9eBDaf4d237fDDD97e18",
+        "id": "wigo-usdc-dai",
+        "platform": "WigoSwap",
+        "status": "active",
+        "strategyAddress": "0x61E93C5019448eAf5Aa9fB13363a450ff83443f0",
+        "tokenDescription": "WigoSwap"
+    },
+    "WigoSwap USDC-FTM LP": {
+        "createdAt": 1645947800,
+        "earnedTokenAddress": "0x70c6AF9Dff8C19B3db576E5E199B22A883874f05",
+        "id": "wigo-usdc-ftm",
+        "platform": "WigoSwap",
+        "status": "active",
+        "strategyAddress": "0xA31184D2031ddFf2C2000B29B31593e82bCDa60C",
+        "tokenDescription": "WigoSwap"
+    },
+    "WigoSwap USDC-fUSDT LP": {
+        "createdAt": 1645166692,
+        "earnedTokenAddress": "0xc5b437d5207233C1c651aCea4f11842BECdf1E37",
+        "id": "wigo-usdc-fusdt",
+        "platform": "WigoSwap",
+        "status": "active",
+        "strategyAddress": "0x5B84022fE2522969746C6c70A0379D03C5997716",
+        "tokenDescription": "WigoSwap"
+    },
+    "WigoSwap WIGO": {
+        "createdAt": 1648108327,
+        "earnedTokenAddress": "0xE14Cf6e87f3777f6F1D09D3076D15027cC0f4cb1",
+        "id": "wigo-wigo",
+        "platform": "WigoSwap",
+        "status": "active",
+        "strategyAddress": "0xf394C044c133157B8114F381850Cb3d1b6Ef7b44",
+        "tokenDescription": "WigoSwap"
+    },
+    "WigoSwap WIGO-FTM LP": {
+        "createdAt": 1645955122,
+        "earnedTokenAddress": "0x44D955415414321C26B3F87A49688545b11DbA09",
+        "id": "wigo-wigo-ftm",
+        "platform": "WigoSwap",
+        "status": "active",
+        "strategyAddress": "0x9cF294C67B388E28C1EE5bd75ffa319D83d22722",
+        "tokenDescription": "WigoSwap"
+    },
+    "WigoSwap WIGO-USDC LP": {
+        "createdAt": 1645947800,
+        "earnedTokenAddress": "0x6f991190577eE0FF85C0730A185746af3aFAe799",
+        "id": "wigo-usdc-wigo",
+        "platform": "WigoSwap",
+        "status": "active",
+        "strategyAddress": "0x1125C7733b9468C9158D490E669d19610A09E6bA",
+        "tokenDescription": "WigoSwap"
+    },
+    "beets-battle-bands-eol": {
+        "createdAt": 1640018890,
+        "earnedTokenAddress": "0x0139C853539bF1EDf221cf9d665F282C2701335a",
+        "id": "beets-battle-bands-eol",
+        "platform": "Beethoven X",
+        "retireReason": "rewards",
+        "status": "eol",
+        "strategyAddress": "0xD6cdE9d8f8Ca97eB362A1103cd143dC8BA602CAc",
+        "tokenDescription": "Beethoven X"
+    },
+    "beets-beardhemian-brushsody-eol": {
+        "createdAt": 1644853476,
+        "earnedTokenAddress": "0x4737a4d9112347937a9b03f449678Ba01A0AcEae",
+        "id": "beets-beardhemian-brushsody-eol",
+        "platform": "Beethoven X",
+        "retireReason": "tvl",
+        "status": "eol",
+        "strategyAddress": "0x72A6F8E2510B9332Eaf744FEb1F7c19E3aCB2201",
+        "tokenDescription": "Beethoven X"
+    },
+    "beets-clair-de-lune-eol": {
+        "createdAt": 1649509772,
+        "earnedTokenAddress": "0xC1F06A159b53F326f9F16cfa37C76AEF643d9c40",
+        "id": "beets-clair-de-lune-eol",
+        "platform": "Beethoven X",
+        "retireReason": "rewards",
+        "status": "eol",
+        "strategyAddress": "0x7097D6357E077C264d3933a6179663132D4be3eD",
+        "tokenDescription": "Beethoven X"
+    },
+    "beets-classic-trio-eol": {
+        "createdAt": 1634908480,
+        "earnedTokenAddress": "0xcA88c38886ba5CE215921A829DF529D66B9B0992",
+        "id": "beets-classic-trio-eol",
+        "platform": "Beethoven X",
+        "retireReason": "rewards",
+        "status": "eol",
+        "strategyAddress": "0x458dfE38ea064FA624fC4B736EC00294591d1de9",
+        "tokenDescription": "Beethoven X"
+    },
+    "beets-cre8r-f-major-eol": {
+        "createdAt": 1646301115,
+        "earnedTokenAddress": "0x9FA6bC4fCd487ED9CF5216A03AeCF6F1A82ABc76",
+        "id": "beets-cre8r-f-major-eol",
+        "platform": "Beethoven X",
+        "status": "eol",
+        "strategyAddress": "0xA931d0B72B317e01965b22B50f563de6136B1A4f",
+        "tokenDescription": "Beethoven X"
+    },
+    "beets-dance-of-degens-eol": {
+        "createdAt": 1634920235,
+        "earnedTokenAddress": "0x607D1Af2eFbcC0dDeD151f3A49d4Cc13BC528fAC",
+        "id": "beets-dance-of-degens-eol",
+        "platform": "Beethoven X",
+        "retireReason": "upgrade",
+        "status": "eol",
+        "strategyAddress": "0x3c68a70C4ab49522Aac5d7e138e431983a0D025a",
+        "tokenDescription": "Beethoven X"
+    },
+    "beets-demeters-degree-eol": {
+        "createdAt": 1643849905,
+        "earnedTokenAddress": "0x283277751369c6012D9C4384e1779b2a8672F1d7",
+        "id": "beets-demeters-degree-eol",
+        "platform": "Beethoven X",
+        "retireReason": "rewards",
+        "status": "eol",
+        "strategyAddress": "0xe3F9B82d899a0f74a8693619BE03413De373c05f",
+        "tokenDescription": "Beethoven X"
+    },
+    "beets-double-dollar-fugue-eol": {
+        "createdAt": 1638539115,
+        "earnedTokenAddress": "0x3246893C1F8c1Bf928121094ea4558c7B93Bdc9A",
+        "id": "beets-double-dollar-fugue-eol",
+        "platform": "Beethoven X",
+        "retireReason": "rewards",
+        "status": "eol",
+        "strategyAddress": "0x9FE2921Fe00E48B88bdE16102627E750924b96bb",
+        "tokenDescription": "Beethoven X"
+    },
+    "beets-exploding-shrapnel-eol": {
+        "createdAt": 1647978282,
+        "earnedTokenAddress": "0xE480703dD6959D997359B675B7b2C008f8778e5a",
+        "id": "beets-exploding-shrapnel-eol",
+        "platform": "Beethoven X",
+        "retireReason": "rewards",
+        "status": "eol",
+        "strategyAddress": "0x7f7Fb573CBdbc2a7E349E5184bC39fB8eAEB88ce",
+        "tokenDescription": "Beethoven X"
+    },
+    "beets-ftm-sonata-eol": {
+        "createdAt": 1634917292,
+        "earnedTokenAddress": "0xDFd0073bec17FAeE9fFA26bfeB2B84022D991a4B",
+        "id": "beets-ftm-sonata-eol",
+        "platform": "Beethoven X",
+        "retireReason": "rewards",
+        "status": "eol",
+        "strategyAddress": "0x421098D70348C98A5e3E26A89F7468D0a443cec6",
+        "tokenDescription": "Beethoven X"
+    },
+    "beets-god-between-stables-eol": {
+        "createdAt": 1648130947,
+        "earnedTokenAddress": "0xCbc3A0ae73ba667d69f9023c2d11276E016a9C09",
+        "id": "beets-god-between-stables-eol",
+        "platform": "Beethoven X",
+        "retireReason": "rewards",
+        "status": "eol",
+        "strategyAddress": "0x62159EAae3Cec9a447AEf1d0400c8596AC9FDA27",
+        "tokenDescription": "Beethoven X"
+    },
+    "beets-magic-touch-daniele-eol": {
+        "createdAt": 1634921587,
+        "earnedTokenAddress": "0x1e6552B7cC3A6C59C6E9d7896884939Ea09f8316",
+        "id": "beets-magic-touch-daniele-eol",
+        "platform": "Beethoven X",
+        "retireReason": "rewards",
+        "status": "eol",
+        "strategyAddress": "0x1B1F7fc5B17c450655BB46cb351b7010d2b12a2e",
+        "tokenDescription": "Beethoven X"
+    },
+    "beets-ode-to-joy-eol": {
+        "createdAt": 1641989971,
+        "earnedTokenAddress": "0x5C4d01b3d77C50278684b8b275874E2232706FE2",
+        "id": "beets-ode-to-joy-eol",
+        "platform": "Beethoven X",
+        "retireReason": "rewards",
+        "status": "eol",
+        "strategyAddress": "0x37020a164ebdc68D73abaAC98Fc12F5FB4C611c1",
+        "tokenDescription": "Beethoven X"
+    },
+    "beets-phantom-dai-opera-eol": {
+        "createdAt": 1637704300,
+        "earnedTokenAddress": "0x876A3E8AFD0548930Ed9fb9741787c27986a613C",
+        "id": "beets-phantom-dai-opera-eol",
+        "platform": "Beethoven X",
+        "retireReason": "rewards",
+        "status": "eol",
+        "strategyAddress": "0xEc72A27121a5B639550bf096369D99f39de0A8b4",
+        "tokenDescription": "Beethoven X"
+    },
+    "beets-spooky-tempered-clavier-eol": {
+        "createdAt": 1642690961,
+        "earnedTokenAddress": "0xFd393C038DeaaF14D3186d6DA638D2dd6bFeD90B",
+        "id": "beets-spooky-tempered-clavier-eol",
+        "platform": "Beethoven X",
+        "retireReason": "rewards",
+        "status": "eol",
+        "strategyAddress": "0x89c39450B30188BBbFd53b0e3e3BB332d0171353",
+        "tokenDescription": "Beethoven X"
+    },
+    "beets-statera-duet-eol": {
+        "createdAt": 1646154004,
+        "earnedTokenAddress": "0xc92DFA1FCAEBfDF6Ac60508Ad22B968B1B71E6Ac",
+        "id": "beets-statera-duet-eol",
+        "platform": "Beethoven X",
+        "retireReason": "rewards",
+        "status": "eol",
+        "strategyAddress": "0x814703d5Eb7D6ecdDC039f78053ac69e4AdD7Aa5",
+        "tokenDescription": "Beethoven X"
+    },
+    "beets-steady-beets-eol": {
+        "createdAt": 1634807049,
+        "earnedTokenAddress": "0x6BE9170485a3DA49DA422002cb02161a123A1422",
+        "id": "beets-steady-beets-eol",
+        "platform": "Beethoven X",
+        "retireReason": "rewards",
+        "status": "eol",
+        "strategyAddress": "0x133fBAc050138f7A0e3Ef8C60FdDfeaEd174e39e",
+        "tokenDescription": "Beethoven X"
+    },
+    "beets-symphony-nr-10-eol": {
+        "createdAt": 1634812249,
+        "earnedTokenAddress": "0x3bfd79fF14a4B1BA024DEc0A778Edc3fe53B237a",
+        "id": "beets-symphony-nr-10-eol",
+        "platform": "Beethoven X",
+        "retireReason": "rewards",
+        "status": "eol",
+        "strategyAddress": "0x69Ee6efa98D8053cD75DFb21880B5a684c4F69a6",
+        "tokenDescription": "Beethoven X"
+    },
+    "beets-treeb-me-bro-eol": {
+        "createdAt": 1644853476,
+        "earnedTokenAddress": "0xD8E92bcBf66a675b2Ac45f0BBbb0F285ba607AB7",
+        "id": "beets-treeb-me-bro-eol",
+        "platform": "Beethoven X",
+        "retireReason": "rewards",
+        "status": "eol",
+        "strategyAddress": "0x47DC3506849024CC19daBA0e89e72FFeB8C334eE",
+        "tokenDescription": "Beethoven X"
+    },
+    "beets-ust-ust-eol": {
+        "createdAt": 1649404952,
+        "earnedTokenAddress": "0x4867E7A3bB6163150Bcd3ed26cDca3EA026E6dF7",
+        "id": "beets-ust-ust-eol",
+        "platform": "Beethoven X",
+        "retireReason": "rewards",
+        "status": "eol",
+        "strategyAddress": "0x19AC7e5a17d2AfBCc8591800fbA389845F5C48C0",
+        "tokenDescription": "Beethoven X"
+    },
+    "beets-variation-theme-eol": {
+        "createdAt": 1640629158,
+        "earnedTokenAddress": "0xa25eC518E66D41195FB988b068D212d9a61aabc9",
+        "id": "beets-variation-theme-eol",
+        "platform": "Beethoven X",
+        "retireReason": "rewards",
+        "status": "eol",
+        "strategyAddress": "0x0B8caAc3898E28165Ba8fBB34f558b5464e0cf76",
+        "tokenDescription": "Beethoven X"
+    },
+    "beets-wagmi-index-eol": {
+        "createdAt": 1641992405,
+        "earnedTokenAddress": "0xf845a4bf053020AA9826b130248E921Ad0eb1037",
+        "id": "beets-wagmi-index-eol",
+        "platform": "Beethoven X",
+        "retireReason": "rewards",
+        "status": "eol",
+        "strategyAddress": "0xF462051dA59cFbB3b55a5b3375002C85c20a8A22",
+        "tokenDescription": "Beethoven X"
+    },
+    "boo-aave-ftm-eol": {
+        "createdAt": 1620386633,
+        "earnedTokenAddress": "0xDa4bb93Bac7CC00F6c6e2193d115Cf45099b31a0",
+        "id": "boo-aave-ftm-eol",
+        "platform": "SpookySwap",
+        "retireReason": "rewards",
+        "status": "eol",
+        "strategyAddress": "0x28A12F017d0D843d43C71235F4F58535B8BE8563",
+        "tokenDescription": "SpookySwap"
+    },
+    "boo-cover-ftm-eol": {
+        "createdAt": 1620500733,
+        "earnedTokenAddress": "0xF5Bf6b3624eb10Ee855FEC1C5a4af81D90996b6c",
+        "id": "boo-cover-ftm-eol",
+        "platform": "SpookySwap",
+        "retireReason": "rewards",
+        "status": "eol",
+        "strategyAddress": "0xCCcEBC4551FF20acA4e0356DAD8875806CE8df10",
+        "tokenDescription": "SpookySwap"
+    },
+    "boo-font-ftm-eol": {
+        "createdAt": 1644614666,
+        "earnedTokenAddress": "0x90aa5be46B99eA5fF9aEa1C8115cB13caca20d04",
+        "id": "boo-font-ftm-eol",
+        "platform": "SpookySwap",
+        "status": "eol",
+        "strategyAddress": "0xB2AB7cB4ab00DF7582877f658ba2De3431130D27",
+        "tokenDescription": "SpookySwap"
+    },
+    "boo-ftm-scream-eol": {
+        "createdAt": 1630352068,
+        "earnedTokenAddress": "0xcA68685C99dB20ffFa999Af52178077d6f0A3E73",
+        "id": "boo-ftm-scream-eol",
+        "platform": "SpookySwap",
+        "retireReason": "tvl",
+        "status": "eol",
+        "strategyAddress": "0x15373a95f420D44d17A1C98e4F23cC4FEe9FE8E8",
+        "tokenDescription": "SpookySwap"
+    },
+    "boo-hnd-wftm-eol": {
+        "createdAt": 1641572631,
+        "earnedTokenAddress": "0x68c39886eA459b4a59758F1e94c3d20C93d47133",
+        "id": "boo-hnd-wftm-eol",
+        "platform": "SpookySwap",
+        "retireReason": "rewards",
+        "status": "eol",
+        "strategyAddress": "0xF665527AfD5e7156cd1b7eF922FfDF8983508fdB",
+        "tokenDescription": "SpookySwap"
+    },
+    "boo-inv-wftm-eol": {
+        "createdAt": 1642097531,
+        "earnedTokenAddress": "0xFE0FC1710d9d723eA0876315437bD140fc952a2c",
+        "id": "boo-inv-wftm-eol",
+        "platform": "SpookySwap",
+        "retireReason": "tvl",
+        "status": "eol",
+        "strategyAddress": "0xb47C95d1E5Fe7e50dd68d76f7214f43F337B0Deb",
+        "tokenDescription": "SpookySwap"
+    },
+    "boo-kek-ftm-eol": {
+        "createdAt": 1642139577,
+        "earnedTokenAddress": "0xB29929fC5bdD3769d94543D17E4C49fC555E9228",
+        "id": "boo-kek-ftm-eol",
+        "platform": "SpookySwap",
+        "retireReason": "tvl",
+        "status": "eol",
+        "strategyAddress": "0x5D2E7cF86b374506A9d65370F5f0D94271bb2979",
+        "tokenDescription": "SpookySwap"
+    },
+    "boo-mst-wftm-eol": {
+        "createdAt": 1644813183,
+        "earnedTokenAddress": "0xf112252fB4b7c2cEA1A78659e8Da91C6Ef8fB35F",
+        "id": "boo-mst-wftm-eol",
+        "platform": "SpookySwap",
+        "retireReason": "tvl",
+        "status": "eol",
+        "strategyAddress": "0xF86732c48f2681B286aa81BEAbb689AfB183C7f4",
+        "tokenDescription": "SpookySwap"
+    },
+    "boo-snx-ftm-eol": {
+        "createdAt": 1620500694,
+        "earnedTokenAddress": "0x74907ad4E79b1Ce415caB26FEf526ae017598cEe",
+        "id": "boo-snx-ftm-eol",
+        "platform": "SpookySwap",
+        "retireReason": "rewards",
+        "status": "eol",
+        "strategyAddress": "0xF47B1d1b23621dbc519033399C9fFf25B7fBFA2A",
+        "tokenDescription": "SpookySwap"
+    },
+    "boo-steak-wftm-eol": {
+        "createdAt": 1631055499,
+        "earnedTokenAddress": "0x3497a17b4680Ef47Ff5B41B00DD4068CAa356A91",
+        "id": "boo-steak-wftm-eol",
+        "platform": "SpookySwap",
+        "retireReason": "rewards",
+        "status": "eol",
+        "strategyAddress": "0x37f9eA01FB0979E001591464Ab6eef3759106470",
+        "tokenDescription": "SpookySwap"
+    },
+    "boo-usdc-fs-eol": {
+        "createdAt": 1644274576,
+        "earnedTokenAddress": "0x7Bf927826a587050a908320027C8a62cd0c54B04",
+        "id": "boo-usdc-fs-eol",
+        "platform": "SpookySwap",
+        "retireReason": "tvl",
+        "status": "eol",
+        "strategyAddress": "0xFDD5a06832742c8C066aD1D4c3bd476628297A6D",
+        "tokenDescription": "SpookySwap"
+    },
+    "boo-wftm-dola-eol": {
+        "createdAt": 1635415386,
+        "earnedTokenAddress": "0x7993CB93891C108F16182600394BeeCfCB911d1f",
+        "id": "boo-wftm-dola-eol",
+        "platform": "SpookySwap",
+        "retireReason": "rewards",
+        "status": "eol",
+        "strategyAddress": "0xB2aC5329D7D78Cb208964C566c35f0eF8C6572f6",
+        "tokenDescription": "SpookySwap"
+    },
+    "boo-wftm-foo-eol": {
+        "createdAt": 1631054248,
+        "earnedTokenAddress": "0x4F4e8c1055d0b58F17593A0086608fc6949e5684",
+        "id": "boo-wftm-foo-eol",
+        "platform": "SpookySwap",
+        "retireReason": "tvl",
+        "status": "eol",
+        "strategyAddress": "0x8B5EE04919C22c7eb5B650f1B699ebd4fc1653C8",
+        "tokenDescription": "SpookySwap"
+    },
+    "boo-wftm-luna-eol": {
+        "createdAt": 1649436436,
+        "earnedTokenAddress": "0xD677C20678b8C106D04D497fAF7F327Af7B74625",
+        "id": "boo-wftm-luna-eol",
+        "platform": "SpookySwap",
+        "retireReason": "rewards",
+        "status": "eol",
+        "strategyAddress": "0x7Cf6c7549A5c0e9500d697a5b19F7745F272Dc72",
+        "tokenDescription": "SpookySwap"
+    },
+    "boo-wftm-shade-eol": {
+        "createdAt": 1631898051,
+        "earnedTokenAddress": "0xc178cDdDc277D5aFac90EEc3F833EF3a11Fbc9df",
+        "id": "boo-wftm-shade-eol",
+        "platform": "SpookySwap",
+        "retireReason": "rewards",
+        "status": "eol",
+        "strategyAddress": "0xC0E74E2929BFa1233803e05CcADc8fE3ee03E019",
+        "tokenDescription": "SpookySwap"
+    },
+    "boo-wftm-ust-eol": {
+        "createdAt": 1649492747,
+        "earnedTokenAddress": "0x808841CB5f23aDa8AF52Ed4b5cBCb8F0FD89868D",
+        "id": "boo-wftm-ust-eol",
+        "platform": "SpookySwap",
+        "retireReason": "rewards",
+        "status": "eol",
+        "strategyAddress": "0x78653345ccd5E22A122B6d2A439425e6F9eA5433",
+        "tokenDescription": "SpookySwap"
+    },
+    "boo-wftm-wsspa-eol": {
+        "createdAt": 1639423010,
+        "earnedTokenAddress": "0x2649b0D997FC267154a542540aa90C09CBC7C480",
+        "id": "boo-wftm-wsspa-eol",
+        "platform": "SpookySwap",
+        "retireReason": "tvl",
+        "status": "eol",
+        "strategyAddress": "0xc234E183A152A163235Fd3895D78c66D2099C4AA",
+        "tokenDescription": "SpookySwap"
+    },
+    "boo-woofy-ftm-eol": {
+        "createdAt": 1621266087,
+        "earnedTokenAddress": "0x7CE2332fAF6328986C75e3A8fCc1CB79621aeB1F",
+        "id": "boo-woofy-ftm-eol",
+        "platform": "SpookySwap",
+        "retireReason": "rewards",
+        "status": "eol",
+        "strategyAddress": "0x0BF58A328C7739D8b097B1d4199f48AA3F1b2788",
+        "tokenDescription": "SpookySwap"
+    },
+    "boo-zoo-ftm-eol": {
+        "createdAt": 1630243343,
+        "earnedTokenAddress": "0xe87d98ce222435455706529c8Ff8E12973792acb",
+        "id": "boo-zoo-ftm-eol",
+        "platform": "SpookySwap",
+        "retireReason": "rewards",
+        "status": "eol",
+        "strategyAddress": "0x5591E68aD3843B2a8B840C7d83389CB4d2C12f88",
+        "tokenDescription": "SpookySwap"
+    },
+    "curve-ftm-fusdt-eol": {
+        "createdAt": 1626963081,
+        "earnedTokenAddress": "0xBdA8bC79705BC60226adCA2766e94Eb5512949a3",
+        "id": "curve-ftm-fusdt-eol",
+        "platform": "Curve",
+        "retireReason": "rewards",
+        "status": "eol",
+        "strategyAddress": "0xDcdb088f53dBcC63f600299867F8b6eE6BC7a6cE",
+        "tokenDescription": "Curve"
+    },
+    "ester-est-eol": {
+        "createdAt": 1621508945,
+        "earnedTokenAddress": "0x7076a33b6525132fF77F0FeE2daB2a1e79688DA0",
+        "id": "ester-est-eol",
+        "platform": "Other",
+        "retireReason": "tvl",
+        "status": "eol",
+        "strategyAddress": "0xBceD1CF7259e8fc7BF34F55F05aF88d78bd91FEC",
+        "tokenDescription": "Ester"
+    },
+    "ester-est-ftm-eol": {
+        "createdAt": 1621505384,
+        "earnedTokenAddress": "0x59247cfe6FC768A8C3F95601008B75A94F4939Bd",
+        "id": "ester-est-ftm-eol",
+        "platform": "Other",
+        "retireReason": "tvl",
+        "status": "eol",
+        "strategyAddress": "0x7bA322C00372037De54797B0449a4157CaB81BB4",
+        "tokenDescription": "SpiritSwap"
+    },
+    "froyo-3pool-eol": {
+        "createdAt": 1620633860,
+        "earnedTokenAddress": "0xb18398ad9735fea37C97dcba50C0Bb947Dc0eeBD",
+        "id": "froyo-3pool-eol",
+        "platform": "Other",
+        "retireReason": "tvl",
+        "status": "eol",
+        "strategyAddress": "0x15fd34559B0508F4C8504aC4c1122b4AD35d2660",
+        "tokenDescription": "Froyo"
+    },
+    "froyo-froyo-ftm-eol": {
+        "createdAt": 1620626525,
+        "earnedTokenAddress": "0xeD4ea30c755676C07d3e0e0f74Ff84C0193B4551",
+        "id": "froyo-froyo-ftm-eol",
+        "platform": "Other",
+        "retireReason": "tvl",
+        "status": "eol",
+        "strategyAddress": "0x3C9C884eFAB85c44D675039de227b3Dd275c360e",
+        "tokenDescription": "SushiSwap"
+    },
+    "geist-dai-eol": {
+        "createdAt": 1636100990,
+        "earnedTokenAddress": "0x315d6030e908835b1dfE3393213Cab70bfB30Ace",
+        "id": "geist-dai-eol",
+        "platform": "Geist",
+        "retireReason": "tvl",
+        "status": "eol",
+        "strategyAddress": "0x1f533AD4232F52dA09CBDC3778DF8404A010A7Db",
+        "tokenDescription": "Geist"
+    },
+    "geist-fusdt-eol": {
+        "createdAt": 1636108542,
+        "earnedTokenAddress": "0xe9B01CB6c9379a491108119713b7D62C38DB9C97",
+        "id": "geist-fusdt-eol",
+        "platform": "Geist",
+        "retireReason": "tvl",
+        "status": "eol",
+        "strategyAddress": "0xcbe4F4342c8DEBf2908aD26f04C02A9e9dCa3c02",
+        "tokenDescription": "Geist"
+    },
+    "jetswap-fantom-eth-btc-eol": {
+        "createdAt": 1632980637,
+        "earnedTokenAddress": "0x3f812916E5C050305D8b4744f0254DE3e195d5E5",
+        "id": "jetswap-fantom-eth-btc-eol",
+        "platform": "JetSwap",
+        "retireReason": "tvl",
+        "status": "eol",
+        "strategyAddress": "0x3BaD499212125Db1e8199C24Fc55492CA5496d55",
+        "tokenDescription": "JetSwap"
+    },
+    "jetswap-fantom-eth-usdc-eol": {
+        "createdAt": 1632980829,
+        "earnedTokenAddress": "0x34D94202E8B006A7FAA46ebED7844B3A738f4E09",
+        "id": "jetswap-fantom-eth-usdc-eol",
+        "platform": "JetSwap",
+        "retireReason": "tvl",
+        "status": "eol",
+        "strategyAddress": "0xb52baF0FF3312b3b786fB14fF5DEE3559CE1A955",
+        "tokenDescription": "JetSwap"
+    },
+    "jetswap-fantom-fwings-eol": {
+        "createdAt": 1632911389,
+        "earnedTokenAddress": "0x15c0a37ee6fDA217f0f10dC88df02e7A52e377CA",
+        "id": "jetswap-fantom-fwings-eol",
+        "platform": "JetSwap",
+        "retireReason": "tvl",
+        "status": "eol",
+        "strategyAddress": "0x184DC721a1C1D594E17161Ff5310cF42025dA798",
+        "tokenDescription": "JetSwap"
+    },
+    "jetswap-fantom-fwings-ftm-eol": {
+        "createdAt": 1632906330,
+        "earnedTokenAddress": "0xAe3F0C61F3Dc48767ccCeF3aD50b29437BE4b1a4",
+        "id": "jetswap-fantom-fwings-ftm-eol",
+        "platform": "JetSwap",
+        "retireReason": "tvl",
+        "status": "eol",
+        "strategyAddress": "0xc3ab8928b6B53d91183d80f2713f47caB047ee4B",
+        "tokenDescription": "JetSwap"
+    },
+    "jetswap-fantom-fwings-usdc-eol": {
+        "createdAt": 1632906651,
+        "earnedTokenAddress": "0x9E75f8298e458B76382870982788988A0799195b",
+        "id": "jetswap-fantom-fwings-usdc-eol",
+        "platform": "JetSwap",
+        "retireReason": "tvl",
+        "status": "eol",
+        "strategyAddress": "0x6677c03B2c7Da09dfbD869daeec3ccFd4eCC4B5F",
+        "tokenDescription": "JetSwap"
+    },
+    "oxd-oxd-usdc-eol": {
+        "createdAt": 1642811156,
+        "earnedTokenAddress": "0x350f0E29d67Bc6745D28b17554CFB5F53bBe90ac",
+        "id": "oxd-oxd-usdc-eol",
+        "platform": "Other",
+        "retireReason": "rewards",
+        "status": "eol",
+        "strategyAddress": "0xD21026fF33908789cB98652ccC56fe6789fcb9Cd",
+        "tokenDescription": "SpookySwap (0xDAO)"
+    },
+    "pearzap-fpear-ftm-eol": {
+        "createdAt": 1634884703,
+        "earnedTokenAddress": "0xe4817511e44481D6A4203E6711513259ad9d2622",
+        "id": "pearzap-fpear-ftm-eol",
+        "platform": "Other",
+        "retireReason": "rewards",
+        "status": "eol",
+        "strategyAddress": "0xeaE2Db34817C3658ae5f2F4A6106Db3d88C36cA2",
+        "tokenDescription": "SpiritSwap (PearZap)"
+    },
+    "pearzap-fpear-usdc-eol": {
+        "createdAt": 1634885192,
+        "earnedTokenAddress": "0x4F6F9173d12Bd1cB998Cf31CE5198f708dC92d7a",
+        "id": "pearzap-fpear-usdc-eol",
+        "platform": "Other",
+        "retireReason": "rewards",
+        "status": "eol",
+        "strategyAddress": "0x0A54B1e0A7873818b5EcFa72112ebC6A049EAC37",
+        "tokenDescription": "SpiritSwap (PearZap)"
+    },
+    "sing-ftm-usdc-sing-eol": {
+        "createdAt": 1634116608,
+        "earnedTokenAddress": "0x92fCB57f1751e45F6aEcC4b477Bb2255511db2b0",
+        "id": "sing-ftm-usdc-sing-eol",
+        "platform": "Other",
+        "retireReason": "tvl",
+        "status": "eol",
+        "strategyAddress": "0x1A10a5B868CBb1aCA7e393423c8D0fC1f1683A33",
+        "tokenDescription": "SpookySwap (Singular)"
+    },
+    "spartacadabra-charm-usdc-eol": {
+        "createdAt": 1641550679,
+        "earnedTokenAddress": "0x47BE147d28089b94a360051986fe5C18a80EFF32",
+        "id": "spartacadabra-charm-usdc-eol",
+        "platform": "Spartacadabra",
+        "retireReason": "tvl",
+        "status": "eol",
+        "strategyAddress": "0x1b59e6A4286E2ac2663459a7A641052B1A13FD2D",
+        "tokenDescription": "SpookySwap (Spartacadabra)"
+    },
+    "spartacadabra-lambda-crv-eol": {
+        "createdAt": 1641548990,
+        "earnedTokenAddress": "0x453054B9C2CD3dF1c57E0866241f460B78eE3ebB",
+        "id": "spartacadabra-lambda-crv-eol",
+        "platform": "Spartacadabra",
+        "retireReason": "tvl",
+        "status": "eol",
+        "strategyAddress": "0x350119De8e903d5667a702d9345fa7EEDCE67393",
+        "tokenDescription": "Curve (Spartacadabra)"
+    },
+    "spirit-any-ftm-eol": {
+        "createdAt": 1633336796,
+        "earnedTokenAddress": "0xf1aE82B29Fe8813E326E760dfce60BbED1F93D1a",
+        "id": "spirit-any-ftm-eol",
+        "platform": "SpiritSwap",
+        "retireReason": "rewards",
+        "status": "eol",
+        "strategyAddress": "0x61897e8D22651341D12632a244d5F4f7718b98c7",
+        "tokenDescription": "SpiritSwap"
+    },
+    "spirit-ftm-dai-eol": {
+        "createdAt": 1644340948,
+        "earnedTokenAddress": "0x95a38faee2B13FE450BeF051b01672d65422e4e8",
+        "id": "spirit-ftm-dai-eol",
+        "platform": "SpiritSwap",
+        "retireReason": "tvl",
+        "status": "eol",
+        "strategyAddress": "0x56274fEa6E3192fE650C405315dD275A4B4531f3",
+        "tokenDescription": "SpiritSwap"
+    },
+    "spirit-ftm-eth-eol": {
+        "createdAt": 1644248760,
+        "earnedTokenAddress": "0x12b5A9154d079d9bD3Fe5BF923Bc9CFa36439d18",
+        "id": "spirit-ftm-eth-eol",
+        "platform": "SpiritSwap",
+        "retireReason": "tvl",
+        "status": "eol",
+        "strategyAddress": "0x79Bad4e7FEa8E71783cA80AdA0edb4b1EedB7268",
+        "tokenDescription": "SpiritSwap"
+    },
+    "spirit-ftm-ice-eol": {
+        "createdAt": 1633205561,
+        "earnedTokenAddress": "0x7579F5105f73ddC5bb1e969d3CE275f1Ea3e5E08",
+        "id": "spirit-ftm-ice-eol",
+        "platform": "SpiritSwap",
+        "retireReason": "rewards",
+        "status": "eol",
+        "strategyAddress": "0xDD456D6fc0e42bF41Be76fB0f84f39d93CA187b5",
+        "tokenDescription": "SpiritSwap"
+    },
+    "spirit-ftm-just-eol": {
+        "createdAt": 1633342210,
+        "earnedTokenAddress": "0xE6Db1E69b7A806ADe620b94F68da115bf25E13Ca",
+        "id": "spirit-ftm-just-eol",
+        "platform": "SpiritSwap",
+        "retireReason": "tvl",
+        "status": "eol",
+        "strategyAddress": "0xE72201bfca2035fD90139B2f500a678d3D112C90",
+        "tokenDescription": "SpiritSwap"
+    },
+    "spirit-ftm-mim-eol": {
+        "createdAt": 1633184876,
+        "earnedTokenAddress": "0x10940BD183E39A21e9E19bF2d6551a84191B1582",
+        "id": "spirit-ftm-mim-eol",
+        "platform": "SpiritSwap",
+        "status": "eol",
+        "strategyAddress": "0x05C8eD17BD03965a5A773fD6E97a796993eb4679",
+        "tokenDescription": "SpiritSwap"
+    },
+    "spirit-ftm-multi-eol": {
+        "createdAt": 1644338119,
+        "earnedTokenAddress": "0x35564A47e75bfAF2ad912dfaB0E84066880a3B92",
+        "id": "spirit-ftm-multi-eol",
+        "platform": "SpiritSwap",
+        "retireReason": "tvl",
+        "status": "eol",
+        "strategyAddress": "0xa7830E768ed668488201b7Cbf4CB9B2055B939FD",
+        "tokenDescription": "SpiritSwap"
+    },
+    "spirit-ftm-pills-eol": {
+        "createdAt": 1644248016,
+        "earnedTokenAddress": "0xB9aA08Bf789cDe3312F453B23c94b40be1F87613",
+        "id": "spirit-ftm-pills-eol",
+        "platform": "SpiritSwap",
+        "retireReason": "tvl",
+        "status": "eol",
+        "strategyAddress": "0x51C0040803e3C74E1690E0567199c3B03b3FB8E2",
+        "tokenDescription": "SpiritSwap"
+    },
+    "spirit-ftm-spell-eol": {
+        "createdAt": 1644170237,
+        "earnedTokenAddress": "0x321e12265BB425fAAe662f0cE5b12667F6A1C38A",
+        "id": "spirit-ftm-spell-eol",
+        "platform": "SpiritSwap",
+        "retireReason": "tvl",
+        "status": "eol",
+        "strategyAddress": "0xEde8c7fd0C39fF391DB449118CAfd958A394ff3d",
+        "tokenDescription": "SpiritSwap"
+    },
+    "spirit-ftm-sushi-eol": {
+        "createdAt": 1633336047,
+        "earnedTokenAddress": "0xb61a911DCc9490623b3d1F9f9246Ce9E45889018",
+        "id": "spirit-ftm-sushi-eol",
+        "platform": "SpiritSwap",
+        "retireReason": "rewards",
+        "status": "eol",
+        "strategyAddress": "0x1b4b6fC90DF3D2ca267020B4aA81f6b52e784751",
+        "tokenDescription": "SpiritSwap"
+    },
+    "spirit-fusdt-ftm-eol": {
+        "createdAt": 1633182001,
+        "earnedTokenAddress": "0xD8dd2EA228968F7f043474Db610A20aF887866c7",
+        "id": "spirit-fusdt-ftm-eol",
+        "platform": "SpiritSwap",
+        "retireReason": "rewards",
+        "status": "eol",
+        "strategyAddress": "0x883171A2DE2e70355017662cd06720946a7fF38D",
+        "tokenDescription": "SpiritSwap"
+    },
+    "spirit-fusdt-spell-eol": {
+        "createdAt": 1633342959,
+        "earnedTokenAddress": "0x01760EA1e63aA89b5E567ED616E104220B4E2e9B",
+        "id": "spirit-fusdt-spell-eol",
+        "platform": "SpiritSwap",
+        "retireReason": "rewards",
+        "status": "eol",
+        "strategyAddress": "0xc5122cACbb46358f85D7B2c52e74ab133265674C",
+        "tokenDescription": "SpiritSwap"
+    },
+    "spirit-link-ftm-eol": {
+        "createdAt": 1633336526,
+        "earnedTokenAddress": "0x8e4C1AD24d3e275d298b091DB11C8C2CBF9c9688",
+        "id": "spirit-link-ftm-eol",
+        "platform": "SpiritSwap",
+        "retireReason": "tvl",
+        "status": "eol",
+        "strategyAddress": "0xC0907E0e29f6576E864492D6ec12716dc1d21A87",
+        "tokenDescription": "SpiritSwap"
+    },
+    "spirit-spell-sspell-eol": {
+        "createdAt": 1637179993,
+        "earnedTokenAddress": "0xC90c00Dd1E53D56Ca4a0FdcA7940C33C0fcf02e5",
+        "id": "spirit-spell-sspell-eol",
+        "platform": "SpiritSwap",
+        "retireReason": "rewards",
+        "status": "eol",
+        "strategyAddress": "0xDb16Ad11a58111D8875eB179B19BBad17Dc69c07",
+        "tokenDescription": "SpiritSwap"
+    },
+    "spirit-yfi-ftm-eol": {
+        "createdAt": 1640392035,
+        "earnedTokenAddress": "0xDe0f8aBF5077AD155dC99F5693AceE20C2689ba8",
+        "id": "spirit-yfi-ftm-eol",
+        "platform": "SpiritSwap",
+        "retireReason": "tvl",
+        "status": "eol",
+        "strategyAddress": "0x2f8983663ebc66236Eea075f75527698595a9626",
+        "tokenDescription": "SpiritSwap"
+    },
+    "spirit-zoo-ftm-eol": {
+        "createdAt": 1633206054,
+        "earnedTokenAddress": "0x9F0d2c24BB2F4b6024F9A266Aa95536481D78ABe",
+        "id": "spirit-zoo-ftm-eol",
+        "platform": "SpiritSwap",
+        "retireReason": "tvl",
+        "status": "eol",
+        "strategyAddress": "0x9D9d1E36ce80E16E56182fcfD42044eB232cED84",
+        "tokenDescription": "SpiritSwap"
+    },
+    "stakesteak-fusd-usdc-eol": {
+        "createdAt": 1631357355,
+        "earnedTokenAddress": "0x94A654bA3b4052a94EB795E9ff0e9209B0A54dB3",
+        "id": "stakesteak-fusd-usdc-eol",
+        "platform": "Other",
+        "retireReason": "tvl",
+        "status": "eol",
+        "strategyAddress": "0x72cE4D7bB0fDeC6c973232E2DE97B48F857c132d",
+        "tokenDescription": "StakeSteak"
+    },
+    "summit-summit-eol": {
+        "createdAt": 1635336610,
+        "earnedTokenAddress": "0x8E923758B7A959Db4110DbE78f637c4b7a6a9007",
+        "id": "summit-summit-eol",
+        "platform": "Other",
+        "retireReason": "rewards",
+        "status": "eol",
+        "strategyAddress": "0x4C315EeE595071584D79BD7d3E5e1388DB066104",
+        "tokenDescription": "SummitDefi"
+    },
+    "summit-summit-ftm-eol": {
+        "createdAt": 1635338766,
+        "earnedTokenAddress": "0x277Da1Fa86B7a82d4060db81bFABd194C17B48F5",
+        "id": "summit-summit-ftm-eol",
+        "platform": "Other",
+        "retireReason": "rewards",
+        "status": "eol",
+        "strategyAddress": "0x79eD0206F9849d0bd109e566B4995aFd65222B8e",
+        "tokenDescription": "SpookySwap (SummitDefi)"
+    },
+    "sushi-wftm-link-eol": {
+        "createdAt": 1643801084,
+        "earnedTokenAddress": "0x912d3e6c4d3CE89Ac85e3FbB22631D5E85D5158a",
+        "id": "sushi-wftm-link-eol",
+        "platform": "SushiSwap",
+        "status": "eol",
+        "strategyAddress": "0xF6075D0815d2a540651127cBCDdC01b5AA20672c",
+        "tokenDescription": "Sushi"
+    },
+    "sushi-yfi-eth-eol": {
+        "createdAt": 1644347692,
+        "earnedTokenAddress": "0x38d58bd9E6DCA0bA4B6512db7f98aB37C2b7cEbA",
+        "id": "sushi-yfi-eth-eol",
+        "platform": "SushiSwap",
+        "status": "eol",
+        "strategyAddress": "0x38fca41486E78013A951812C137Cd4A0702B8701",
+        "tokenDescription": "Sushi"
+    },
+    "tomb-tomb-ftm": {
+        "createdAt": 1623659891,
+        "earnedTokenAddress": "0x27c77411074ba90cA35e6f92A79dAd577c05A746",
+        "id": "tomb-tomb-ftm",
+        "platform": "Tomb",
+        "status": "eol",
+        "strategyAddress": "0x4b5f7De737531673B23ceB43D45ea3f1297e4C6d",
+        "tokenDescription": "SpookySwap (Tomb)"
+    },
+    "tomb-tshare-ftm-eol": {
+        "createdAt": 1623662472,
+        "earnedTokenAddress": "0xae94e96bF81b3a43027918b138B71a771D381150",
+        "id": "tomb-tshare-ftm-eol",
+        "platform": "Tomb",
+        "retireReason": "rewards",
+        "status": "eol",
+        "strategyAddress": "0x6719022AdAD7051e86fd0E8758535f8A4F98b82F",
+        "tokenDescription": "SpookySwap (Tomb)"
+    },
+    "wigo-beets-ftm-eol": {
+        "createdAt": 1645161816,
+        "earnedTokenAddress": "0xf11c4f5F04f90C95a302D84cB6162429d007cf20",
+        "id": "wigo-beets-ftm-eol",
+        "platform": "WigoSwap",
+        "retireReason": "rewards",
+        "status": "eol",
+        "strategyAddress": "0xfc9AdA56D1Cd5B6D901A1F46825089430bb2c623",
+        "tokenDescription": "WigoSwap"
+    },
+    "wigo-fusdt-ftm-eol": {
+        "createdAt": 1645947800,
+        "earnedTokenAddress": "0x455C1A3052D57b55C97eFAdf0e09f9A5d59912b8",
+        "id": "wigo-fusdt-ftm-eol",
+        "platform": "WigoSwap",
+        "retireReason": "rewards",
+        "status": "eol",
+        "strategyAddress": "0x5508222678C5337e76D93A3005dC008056715655",
+        "tokenDescription": "WigoSwap"
+    },
+    "wigo-geist-ftm-eol": {
+        "createdAt": 1645165726,
+        "earnedTokenAddress": "0xC2003a3604A2eB576ACe7cF842EC08AfE0a18e0A",
+        "id": "wigo-geist-ftm-eol",
+        "platform": "WigoSwap",
+        "retireReason": "rewards",
+        "status": "eol",
+        "strategyAddress": "0xaa19b48F35880706984886b7763890330a6C944c",
+        "tokenDescription": "WigoSwap"
+    },
+    "wigo-solid-wigo-eol": {
+        "createdAt": 1646001502,
+        "earnedTokenAddress": "0xfCF7F94E6c2E8e8e65Ed58920E65040d24f7DFB8",
+        "id": "wigo-solid-wigo-eol",
+        "platform": "WigoSwap",
+        "retireReason": "rewards",
+        "status": "eol",
+        "strategyAddress": "0x6Ce8ea674BAE5B861e7665cAF93BAAC5069Bf4aC",
+        "tokenDescription": "WigoSwap"
+    },
+    "wigo-tomb-ftm-eol": {
+        "createdAt": 1645155345,
+        "earnedTokenAddress": "0x51eBBbFF762119b2200910fDD97607575E27EdeD",
+        "id": "wigo-tomb-ftm-eol",
+        "platform": "WigoSwap",
+        "retireReason": "rewards",
+        "status": "eol",
+        "strategyAddress": "0x329A6B7715e100fAeEC74e828f60B6E7D40BFeBC",
+        "tokenDescription": "WigoSwap"
+    }
+}

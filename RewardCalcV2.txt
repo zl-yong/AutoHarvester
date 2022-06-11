@@ -1,0 +1,112 @@
+// SPDX-License-Identifier: MIT
+// V2: Added Beefy.Finance BIFI Maxi
+pragma solidity >0.8.0;
+
+interface ISpookySwapFarm {
+	function pendingBOO(uint256 _pid, address _user) external view returns (uint256 _amount);
+}
+
+interface ISpiritSwapFarm {
+	function pendingSpirit(uint256 _pid, address _user) external view returns (uint256 _amount);
+}
+
+interface IPopsicleFarm {
+	function pendingIce(uint256 _pid, address _user) external view returns (uint256 _amount);
+}
+
+interface IBombSwapFarm {
+	function pendingSHRAP(uint256 _pid, address _user) external view returns (uint256 _amount);
+}
+
+interface ITombFarm {
+	function pendingShare(uint256 _pid, address _user) external view returns (uint256 _amount);
+}
+
+// V2
+interface IBeefyFarm {
+	function earned(address _user) external view returns (uint256 _amount);
+}
+
+interface IERC20 {
+	function balanceOf(address _account) external view returns (uint256 _amount);
+}
+
+interface IBeefyStrategy {
+	function poolId() external view returns (uint _id);
+	function callFee() external view returns (uint _amount);
+	function unirouter() external view returns (address _router);
+	function MAX_FEE() external view returns (uint _amount);
+}
+
+interface IReaperStrategy {
+	function poolId() external view returns (uint _id);
+	function callFee() external view returns (uint _amount);
+	function uniRouter() external view returns (address _router);
+	function totalFee() external view returns (uint _amount);
+	function PERCENT_DIVISOR() external view returns (uint _amount);
+}
+
+interface IUniswapRouter {
+	function getAmountsOut(uint _amountIn, address[] calldata _path) external view returns (uint[] memory _amounts);
+}
+
+contract RewardCalc {
+	ISpookySwapFarm public spookyFarm = ISpookySwapFarm(0x2b2929E785374c651a81A63878Ab22742656DcDd);
+	ISpiritSwapFarm public spiritFarm = ISpiritSwapFarm(0x9083EA3756BDE6Ee6f27a6e996806FBD37F6F093);
+	IPopsicleFarm public popsicleFarm = IPopsicleFarm(0xbf513aCe2AbDc69D38eE847EFFDaa1901808c31c);
+	IBombSwapFarm public bombFarm	  = IBombSwapFarm(0x650D853FA19b1A8a3908B85c9b7f9c10F732dFdE);
+	ITombFarm public tombFarm	  = ITombFarm(0xcc0a87F7e7c693042a9Cc703661F5060c80ACb43);
+	// V2
+	IBeefyFarm public beefyFarm = IBeefyFarm(0x7fB900C14c9889A559C777D016a885995cE759Ee);
+
+	address wftm   = 0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83;
+	address boo    = 0x841FAD6EAe12c286d1Fd18d1d525DFfA75C7EFFE;
+	address spirit = 0x5Cc61A78F164885776AA610fb0FE1257df78E59B;
+	address ice    = 0xf16e81dce15B08F326220742020379B855B87DF9;
+	address shrap  = 0xbf4906762C38F50bC7Be0A11BB452C944f6C72E1;
+	address tshare = 0x4cdF39285D7Ca8eB3f090fDA0C069ba5F4145B37;
+
+	address[] public booToWftm    = [boo, wftm];
+	address[] public spiritToWftm = [spirit, wftm];
+	address[] public iceToWftm    = [ice, wftm];
+	address[] public shrapToWftm  = [shrap, wftm];
+	address[] public tshareToWftm = [tshare, wftm];
+
+	constructor() {}
+	function BeefySpookySwap(address _strategy) external view returns (uint256) {
+		IBeefyStrategy strategy = IBeefyStrategy(_strategy);
+		uint256 pending	        = spookyFarm.pendingBOO(strategy.poolId(), _strategy) + IERC20(boo).balanceOf(_strategy);
+		return IUniswapRouter(strategy.unirouter()).getAmountsOut(pending * 45 / 1000, booToWftm)[1] * strategy.callFee() / strategy.MAX_FEE();
+	}
+
+	// V2
+	function BeefyMaxi(address _strategy) external view returns (uint256) {
+		return (beefyFarm.earned(_strategy) + IERC20(wftm).balanceOf(_strategy)) * 5 / 10000;
+	}
+
+	// Reaper strategies
+	function ReaperFinalAmount(IReaperStrategy _strategy, uint256 _pending, address[] memory _route) internal view returns (uint256) {
+		return IUniswapRouter(_strategy.uniRouter()).getAmountsOut(_pending * _strategy.totalFee() / _strategy.PERCENT_DIVISOR(), _route)[1] * _strategy.callFee() / _strategy.PERCENT_DIVISOR();
+	}
+
+	function ReaperSpookySwap(address _strategy) external view returns (uint256) {
+		IReaperStrategy strategy = IReaperStrategy(_strategy);
+		return ReaperFinalAmount(strategy, spookyFarm.pendingBOO(strategy.poolId(), _strategy) + IERC20(boo).balanceOf(_strategy), booToWftm);
+	}
+	function ReaperSpiritSwap(address _strategy) external view returns (uint256) {
+		IReaperStrategy strategy = IReaperStrategy(_strategy);
+		return ReaperFinalAmount(strategy, spiritFarm.pendingSpirit(strategy.poolId(), _strategy) + IERC20(spirit).balanceOf(_strategy), spiritToWftm);
+	}
+	function ReaperPopsicle(address _strategy) external view returns (uint256) {
+		IReaperStrategy strategy = IReaperStrategy(_strategy);
+		return ReaperFinalAmount(strategy, popsicleFarm.pendingIce(strategy.poolId(), _strategy) + IERC20(ice).balanceOf(_strategy), iceToWftm);
+	}
+	function ReaperBombSwap(address _strategy) external view returns (uint256) {
+		IReaperStrategy strategy = IReaperStrategy(_strategy);
+		return ReaperFinalAmount(strategy, bombFarm.pendingSHRAP(strategy.poolId(), _strategy) + IERC20(shrap).balanceOf(_strategy), shrapToWftm);
+	}
+	function ReaperTomb(address _strategy) external view returns (uint256) {
+		IReaperStrategy strategy = IReaperStrategy(_strategy);
+		return ReaperFinalAmount(strategy, tombFarm.pendingShare(strategy.poolId(), _strategy) + IERC20(tshare).balanceOf(_strategy), tshareToWftm);
+	}
+}

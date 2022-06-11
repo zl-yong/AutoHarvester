@@ -1,0 +1,3290 @@
+{
+    "BOMB-SHRAP Bomb Crypt": {
+        "address": "0xC0a9BCE92C72fb294D1ecA4CB433fdAd36CDe2F9",
+        "gasLimit": 1207911,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperBombSwap"
+    },
+    "BOMB-USDC Bomb Crypt": {
+        "address": "0x6B693e335Dc231FC172b90209bAdaB9cb6E69332",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperBombSwap"
+    },
+    "BTC-ETH Spooky Crypt": {
+        "address": "0xD5D942FC85198eb7fA0A721ba834ffcFa72dB7C1",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperSpookySwap"
+    },
+    "BUSD-FUSDT Spirit Crypt": {
+        "address": "0xC5312Cc64Fba7F405A41Efa394Bd5983d46Dbf9A",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperSpiritSwap"
+    },
+    "Beefy.Finance BIFI Maxi": {
+        "address": "0x230691a28C8290A553BFBC911Ab2AbA0b2df152D",
+        "gasLimit": 240000,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "BeefyMaxi"
+    },
+    "Beefy.Finance beFTM": {
+        "address": "0x2dc8683F752305659ff7F97A7CB4291B1c0Df37b",
+        "gasLimit": 621842,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "Beefy.Finance binSPIRIT": {
+        "address": "0xfA9c8FCda731b92FC0B6aB0ABFF4CDeE1AC67B33",
+        "gasLimit": 588640,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "Beethoven X A Dai-abolical Balance": {
+        "address": "0x9F12B811d3fAc99fbf2c72906E02B646749D4782",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "Beethoven X B Major": {
+        "address": "0x9efD024ab9bBd5C3ce17e567040A8EF1ecd55e26",
+        "gasLimit": 780000,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "Beethoven X Baron von Binance": {
+        "address": "0xBA324B52F9C270DED056c214B198783F387c6503",
+        "gasLimit": 981292,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "Beethoven X Beefy Tale Of Two Fantom Sisters": {
+        "address": "0x50461Ad58C124B979174A0eaCfC7b4336503766B",
+        "gasLimit": 1404002,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "Beethoven X Boomer Beets": {
+        "address": "0xceb6d118640FF21ED47de296669Ba7A74752942b",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "Beethoven X Dante Symphony": {
+        "address": "0x53bCc69Ef22deA7c65af915D117586A2481adFa5",
+        "gasLimit": 819396,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "Beethoven X E Major": {
+        "address": "0x38c5DF15117c195B8736F3a5fbEfC1b3A2082880",
+        "gasLimit": 1440538,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "Beethoven X Fantom Conservatory Of Music": {
+        "address": "0xd88c449c1F68480316f3e3A48bD37186e58217A8",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "Beethoven X Fantom of the Opera": {
+        "address": "0x7A2303aB59536E6e80cF6Bd8f6EDb4A9fc712156",
+        "gasLimit": 922982,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "Beethoven X Fidelio Duetto": {
+        "address": "0x1fca24C62367654B8aC79a5045A9A10F21726A67",
+        "gasLimit": 694180,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "Beethoven X Guqin Qi 2": {
+        "address": "0xa623c28f64A429baE0426Aa8AEbE64d307A38cC0",
+        "gasLimit": 1502954,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "Beethoven X Late Quartet": {
+        "address": "0x00f23196eA5a1a94d24a56402DC12e043A0A0Cc0",
+        "gasLimit": 731275,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "Beethoven X Paint It Black": {
+        "address": "0xc1c94a9cd02EB7b0C85A73c7DA89afC8Bef70b11",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "Beethoven X Solana Sonata": {
+        "address": "0xFbe1d176888798A51FAe70a06ABeb84C81FC16bD",
+        "gasLimit": 754257,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "Beethoven X Song Of Ice And Fire": {
+        "address": "0x0410d614BCD5A1dD8614C8F0a7D508A2D3aFd110",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "Beethoven X Sound Of Moosic": {
+        "address": "0x50A80d9BF5960a5d10891FCe5A937662b3EfBDC1",
+        "gasLimit": 1425006,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "Beethoven X Steady Beets 2": {
+        "address": "0x8a1F4b25556AB28FD0529A53Ed7b3f10caCB0b98",
+        "gasLimit": 1460665,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "Beethoven X The Grand Orchestra": {
+        "address": "0x0A6bC5F2650E03C00D8c8D8Ef61991c780174468",
+        "gasLimit": 968823,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "Beethoven X Tubular Bells": {
+        "address": "0x0cC32B91B165d25a3CB2906D636883d306a8F1dd",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "Beethoven X Two Gods One Pool": {
+        "address": "0x1082648C1d397CF232d3a3eBd25dB88848FA3DF5",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "Beethoven X When Two Became One (Hundred)": {
+        "address": "0x2C48732c190eea8df5515B6EcCC9E112929303BD",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "Beethoven X Ziggy Stardust & Magic Internet Money": {
+        "address": "0x054a8e3c11268591E048F7206937C8b74b6B7b97",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "Boo Single Sided Staking Crypt": {
+        "address": "0xB62100d94436f53a87516f1aa3Cf42f8A96Ae049",
+        "gasLimit": 4648797,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperSpookySwap"
+    },
+    "Curve TriCrypto": {
+        "address": "0x64C60e7eAb8A0F9a36827908E1C47C2230a9c4D0",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "Curve fUSDT/DAI/USDC": {
+        "address": "0xb16371eeF67825b860578379330949dE8650C1E5",
+        "gasLimit": 4758000,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "FRAX-FXS Spirit Crypt": {
+        "address": "0x3B2009d4e7BA2bfd593984812251f971e5d0B9EB",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperSpiritSwap"
+    },
+    "FTM-AAVE Spooky Crypt": {
+        "address": "0x9371976A2a15C1d5f600137D6d79FabA7ac1617a",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperSpookySwap"
+    },
+    "FTM-ANY Spirit Crypt": {
+        "address": "0x65e87E31E99Ad889a806a665fc3Ff622B7b85a59",
+        "gasLimit": 850000,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperSpiritSwap"
+    },
+    "FTM-ANY Spooky Crypt": {
+        "address": "0x3AAe4ABB7Dc375dF50e4c5F2251af8a615CCd4d9",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperSpookySwap"
+    },
+    "FTM-APE Spooky Crypt": {
+        "address": "0x80a2442da702e86B36644a377051dd01570a778d",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperSpookySwap"
+    },
+    "FTM-AVAX Spooky Crypt": {
+        "address": "0xf28027f51a265a0bd496372f5859Ed95CF51CFcB",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperSpookySwap"
+    },
+    "FTM-BADGER Spooky Crypt": {
+        "address": "0xEe02A9AB3888f61B83ba8ef6887dccCDa5758041",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperSpookySwap"
+    },
+    "FTM-BAND Spooky Crypt": {
+        "address": "0xC7ba12d8ef255b2CEda437fDe9F32Fd9A9a2254b",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperSpookySwap"
+    },
+    "FTM-BEETS Spooky Crypt": {
+        "address": "0xcfcfB4056586095C528be842ea8ac65ee7E6d06f",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperSpookySwap"
+    },
+    "FTM-BNB Spirit Crypt": {
+        "address": "0x10E677f11E63f4A8A47168eD16FEb8B6651C2F60",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperSpiritSwap"
+    },
+    "FTM-BNB Spooky Crypt": {
+        "address": "0x3e65329738c5F5efFf7b48c8471bfA021098c3A7",
+        "gasLimit": 1288656,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperSpookySwap"
+    },
+    "FTM-BOMB Bomb Crypt": {
+        "address": "0x5b2e222dC7b276737BDc819E69FeA52aA3D9F31E",
+        "gasLimit": 860000,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperBombSwap"
+    },
+    "FTM-BOO Spooky Crypt": {
+        "address": "0x8aC0Cd0710AD12D9748e3638CFB65296cF13F916",
+        "gasLimit": 882100,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperSpookySwap"
+    },
+    "FTM-BTC Bomb Crypt": {
+        "address": "0x0506187C6cbd0eA6faD7Fd2FA0143a59e6f83330",
+        "gasLimit": 1224009,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperBombSwap"
+    },
+    "FTM-BTC Spirit Crypt": {
+        "address": "0xDcBCB13B6171c27Bb28718f652d0deeCC2e3CA71",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperSpiritSwap"
+    },
+    "FTM-BTC Spooky Crypt": {
+        "address": "0xb6aa9F7486A7C875E16B6229B3D78F9EF40371E7",
+        "gasLimit": 1484775,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperSpookySwap"
+    },
+    "FTM-CFI Spooky Crypt": {
+        "address": "0x2081b10f8E512bb45C4799471A73120780C636Be",
+        "gasLimit": 1462046,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperSpookySwap"
+    },
+    "FTM-COVER Spirit Crypt": {
+        "address": "0xB3E59AcA13A2f3dde9A6716639381F0F42FF5c69",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperSpiritSwap"
+    },
+    "FTM-CREAM Spirit Crypt": {
+        "address": "0x50a97B66EdC4984c05a43ad883a7623f8aa82940",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperSpiritSwap"
+    },
+    "FTM-CREAM Spooky Crypt": {
+        "address": "0x65aa1390E5BE25758d1D62a52763873c2BBf4651",
+        "gasLimit": 1474610,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperSpookySwap"
+    },
+    "FTM-CURVE Spirit Crypt": {
+        "address": "0x9A66aEdFB1EAe20188747878E66D18ce6a412a23",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperSpiritSwap"
+    },
+    "FTM-CURVE Spooky Crypt": {
+        "address": "0xc45A0f4d5cc41FeA271Cbe235E7742aAE3d70BF5",
+        "gasLimit": 1475462,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperSpookySwap"
+    },
+    "FTM-DAI Spooky Crypt": {
+        "address": "0xE2FAD0Ce7535cdd90A731CF0e067880b800F4Ef2",
+        "gasLimit": 1343366,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperSpookySwap"
+    },
+    "FTM-DEUS Spooky Crypt": {
+        "address": "0xDc00C3e684e4F25A5C87c3D81eD3067C722F3d89",
+        "gasLimit": 1279564,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperSpookySwap"
+    },
+    "FTM-ETH Bomb Crypt": {
+        "address": "0xED46f06b32c9665770503DAF6106AaD421D855Eb",
+        "gasLimit": 1255344,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperBombSwap"
+    },
+    "FTM-ETH Spirit Crypt": {
+        "address": "0x3dc9781783D9fDAe57350482Ccc7A5591FcFD2Da",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperSpiritSwap"
+    },
+    "FTM-ETH Spooky Crypt": {
+        "address": "0x16e15027d513AD43037a1A895309969834a6a081",
+        "gasLimit": 1330000,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperSpookySwap"
+    },
+    "FTM-FONT Spooky Crypt": {
+        "address": "0xafD07EE94732aB74DC65F5B1e9308531169F6999",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperSpookySwap"
+    },
+    "FTM-FOO Spooky Crypt": {
+        "address": "0xfac315db81A68d7986750b693Dea2DBdb2101df5",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperSpookySwap"
+    },
+    "FTM-FRAX Spirit Crypt": {
+        "address": "0xd83e20a99685b45831D308f7Cc65306FBC3ef436",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperSpiritSwap"
+    },
+    "FTM-ICE Spirit Crypt": {
+        "address": "0x3756497D7eE73b5dd1eB7A6bB43d4CBbC23f3Bbb",
+        "gasLimit": 1257758,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperSpiritSwap"
+    },
+    "FTM-ICE Spooky Crypt": {
+        "address": "0x293fd84E873d662D775BADE47A46b173C470D399",
+        "gasLimit": 1475457,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperSpookySwap"
+    },
+    "FTM-ICE Spooky Popsicle Crypt": {
+        "address": "0x050e18dC8B88c2bEE3788Ba384032A12F66AD5d8",
+        "gasLimit": 600000,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperPopsicle"
+    },
+    "FTM-ICE Sushi Popsicle Crypt": {
+        "address": "0x2DF7339d5f82E1E585AC6b17251187DDe570Ed15",
+        "gasLimit": 650000,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperPopsicle"
+    },
+    "FTM-JOE Spooky Crypt": {
+        "address": "0x407c6228b13166396B524fae5514EC3d4077Aa7f",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperSpookySwap"
+    },
+    "FTM-JUST SPIRIT CRYPT": {
+        "address": "0xAD29698abe9f09D5b570eED119102a411436Dc80",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperSpiritSwap"
+    },
+    "FTM-KEK Spooky Crypt": {
+        "address": "0x8A54bF952e09B3503a6c3cA428a0985Be8aFDB7b",
+        "gasLimit": 1461689,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperSpookySwap"
+    },
+    "FTM-LINK Spirit Crypt": {
+        "address": "0x7BEE3Db0E920E34972bC36Cc9488D33A77f687D5",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperSpiritSwap"
+    },
+    "FTM-LINK Spooky Crypt": {
+        "address": "0x996CFF2cD997387c5B68b655544B69385927DcF9",
+        "gasLimit": 1343366,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperSpookySwap"
+    },
+    "FTM-LQDR Spooky Crypt": {
+        "address": "0x1033d844A336CA8934246481A4d2C9c60e0473D5",
+        "gasLimit": 1482127,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperSpookySwap"
+    },
+    "FTM-LUNA Spooky Crypt": {
+        "address": "0x0B337aea6A47378031a7ca5E20d7b985Dff11F09",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperSpookySwap"
+    },
+    "FTM-MIM Spirit Crypt": {
+        "address": "0x8b4F8d06b2edc72FB841D40037490fBCA3a633d9",
+        "gasLimit": 900000,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperSpiritSwap"
+    },
+    "FTM-MIM Spooky Crypt": {
+        "address": "0x2cE2fA73FC3e451bFcfa0E50Ee02c9FE0115DA39",
+        "gasLimit": 1475736,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperSpookySwap"
+    },
+    "FTM-MST Spooky Crypt": {
+        "address": "0xBC4508E6dFa08cb301066C35a723F331A484a2DE",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperSpookySwap"
+    },
+    "FTM-MULTI Spooky Crypt": {
+        "address": "0x335E1D1496daeb030C6d9B69e00a51d8e3d08000",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperSpookySwap"
+    },
+    "FTM-OOE Spooky Crypt": {
+        "address": "0x6Ccd7CF744253238Ee2Fe37194ABb806CDB37fF9",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperSpookySwap"
+    },
+    "FTM-RAI SPIRIT CRYPT": {
+        "address": "0x51572c15E4F1787403d736feea78887C81775c35",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperSpiritSwap"
+    },
+    "FTM-SCREAM Spooky Crypt": {
+        "address": "0x7dA353316E76Be1CA89E7aC06C262Dcb2B5b8C09",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperSpookySwap"
+    },
+    "FTM-SHRAP Bomb Crypt": {
+        "address": "0xe866158bf5e37e8857759131288B20515752Af92",
+        "gasLimit": 830000,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperBombSwap"
+    },
+    "FTM-SNX Spooky Crypt": {
+        "address": "0x9545d353C37d887272B86d9cBD86db0044Ccdd96",
+        "gasLimit": 1475199,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperSpookySwap"
+    },
+    "FTM-SPELL Spooky Crypt": {
+        "address": "0x0D9C45279e145cb4E97AbB6Ba404bA02753E7118",
+        "gasLimit": 1477270,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperSpookySwap"
+    },
+    "FTM-SPIRIT Spirit Crypt": {
+        "address": "0x42eE4062C6fBD4C454dC3890D71980b320EE8040",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperSpiritSwap"
+    },
+    "FTM-SUSHI Spirit Crypt": {
+        "address": "0x36c72e570913084FB3814aDa4Cf10fA14D57B2Ab",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperSpiritSwap"
+    },
+    "FTM-SUSHI Spooky Crypt": {
+        "address": "0x2d3239ac528C82001AA381d6a7dc04B3b17f7406",
+        "gasLimit": 1475395,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperSpookySwap"
+    },
+    "FTM-Shade Spooky Crypt": {
+        "address": "0x4f5C107C76e3BF953E6C9E6860773FF36DF1829a",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperSpookySwap"
+    },
+    "FTM-Steak Spooky Crypt": {
+        "address": "0x242578F0F3C14880f9B9D8A62e13EbD720eE37d8",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperSpookySwap"
+    },
+    "FTM-TOMB Tomb (TombSwap) Crypt": {
+        "address": "0x520245479E8091a1ceE878281aFCD0d2810e7137",
+        "gasLimit": 706643,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperTomb"
+    },
+    "FTM-TOMB Tomb Crypt": {
+        "address": "0xeb43Cae19C8914B174c3680e6d5c1CF138eF04EB",
+        "gasLimit": 0,
+        "ignoreCalibrate": true,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperTomb"
+    },
+    "FTM-TREEB Spooky Crypt": {
+        "address": "0x9F130144BAC4CEF1322daa95A508Fa97385Fa1cB",
+        "gasLimit": 1482821,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperSpookySwap"
+    },
+    "FTM-TSHARE Tomb (TombSwap) Crypt": {
+        "address": "0x9C661130e2c1c43Fc3108a567d5F5C6Ba5a598B0",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperTomb"
+    },
+    "FTM-TSHARE Tomb Crypt": {
+        "address": "0xdD15c64C7cB2FC37059d0adfaB9647DDDc115336",
+        "gasLimit": 0,
+        "ignoreCalibrate": true,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperTomb"
+    },
+    "FTM-USDC Bomb Crypt": {
+        "address": "0x7c4cD438A5CB1218866d17fb24dD4DD9DdAFe8f3",
+        "gasLimit": 1053797,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperBombSwap"
+    },
+    "FTM-USDC Spirit Crypt": {
+        "address": "0xe36fBc540af0799cC516711Df80a77261b8b3AFd",
+        "gasLimit": 740000,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperSpiritSwap"
+    },
+    "FTM-USDC Spooky Crypt": {
+        "address": "0x0E6aDe2Dec2C4e93503b5A17c2FA94719a886747",
+        "gasLimit": 1000000,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperSpookySwap"
+    },
+    "FTM-USDC Tomb (TombSwap) Crypt": {
+        "address": "0x05f87EF8f1Dc92Bd9F0e9D63F91eBC7f673c5393",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperTomb"
+    },
+    "FTM-UST Spooky Crypt": {
+        "address": "0x507Db6c0a7378917e1C619a6989661BD7d4Aa327",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperSpookySwap"
+    },
+    "FTM-WOO Spooky Crypt": {
+        "address": "0xA98d9a68E0B8938d9DBE289A0FeDb4feCFFbA59B",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperSpookySwap"
+    },
+    "FTM-WOOFY Spooky Crypt": {
+        "address": "0xC6F8b1c8996d6F1325922063d339C20965f8413A",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperSpookySwap"
+    },
+    "FTM-YEL Spooky Crypt": {
+        "address": "0xF2217A9903390201648e14d37018a874DC5711Cd",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperSpookySwap"
+    },
+    "FTM-YFI Spirit Crypt": {
+        "address": "0xD0a5Db0a2e8fB17278A1F954b095C5A37928175F",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperSpiritSwap"
+    },
+    "FTM-YOSHI Spooky Crypt": {
+        "address": "0xCD078f3c3F1C91d3Ca5C3C0b49556A876c12119A",
+        "gasLimit": 953134,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperSpookySwap"
+    },
+    "FTM-ZOO Spirit Crypt": {
+        "address": "0xD40A78dCD08DC976031C50EeA462b5E2BBA1b470",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperSpiritSwap"
+    },
+    "FTM-ZOO Spooky Crypt": {
+        "address": "0xA6fbc4bBfcA634056e44A44327d495A800A0fCf6",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperSpookySwap"
+    },
+    "FTM-beFTM Spooky Crypt": {
+        "address": "0xCCE3f1F0371aff8693f58c3bCB41887630045e5F",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperSpookySwap"
+    },
+    "FTM-fUSDT Spirit Crypt": {
+        "address": "0xC4c1137f5D8Adc8150b52BF0a0754aD256b6ab2a",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperSpiritSwap"
+    },
+    "FTM-fUSDT Spooky Crypt": {
+        "address": "0xB5cf8877C50A43c6597013D296AA31679D829FfF",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperSpookySwap"
+    },
+    "FTM-gALCX Spooky Crypt": {
+        "address": "0x8f6F1d58Ba65a021b9dd1045fF976CC07a7a9241",
+        "gasLimit": 1330787,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperSpookySwap"
+    },
+    "FTM-wsHEC Spooky Crypt": {
+        "address": "0xB8F5462F851c3D72cadf093562F4E64b554F0dF4",
+        "gasLimit": 1468138,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperSpookySwap"
+    },
+    "FTM-wsSPA Spooky Crypt": {
+        "address": "0x13ac9FdA2B527b0c492edDaecB8283BBdC552807",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperSpookySwap"
+    },
+    "GRIM-1": {
+        "address": "0x8a364aF565cc4f3D7E680410940312DbCc00e5e3",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-10": {
+        "address": "0x52c54d296CD10A0DB8A4Fe5628dB95D2Ea9ac999",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-100": {
+        "address": "0x1680D5d7C146BF8C3f78332B3DF1607A191d7Ac3",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-101": {
+        "address": "0xB21EA11De54827A427386f4F930C5B6B72870e78",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-102": {
+        "address": "0x85537DE580A5d81af8C1067934c86fD24DE5C598",
+        "gasLimit": 692958,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-103": {
+        "address": "0xe642E53c8f7545Be3E98D09E529b7E376Fe0AcE5",
+        "gasLimit": 711203,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-104": {
+        "address": "0x9D513dF46A7bf9BA17C9B3659F2e602edF1017e6",
+        "gasLimit": 714411,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-105": {
+        "address": "0x019F807650e59C70D9DfC3eCb90Fee851284D298",
+        "gasLimit": 716454,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-106": {
+        "address": "0x7f4052aa7B055B6256b06d034Bdd4DB8008F0c6C",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-107": {
+        "address": "0xC343B5Ab09D99EbF9c220683636B50EcD037d1dD",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-108": {
+        "address": "0x440E31211Cb23fED06A03A84a36408dF8da649D6",
+        "gasLimit": 907463,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-109": {
+        "address": "0xA29A5d94292D6745eaF2d96615E55DC44D427Ec4",
+        "gasLimit": 862070,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-11": {
+        "address": "0x9E582e4fAa80F3a6dC9277272E83a345cEc3b935",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-110": {
+        "address": "0xD2CA329e15459323868c05C22B06dB55931B5B0F",
+        "gasLimit": 826295,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-111": {
+        "address": "0xccdf922bcfd4d057292c7052D8B58A1f511429fA",
+        "gasLimit": 727259,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-112": {
+        "address": "0x6d2AD24265d4d8c79f83Fbde6141E63b8283C0D5",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-113": {
+        "address": "0x1f05Ae012952f11d3F341C525938c338D214d4E7",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-114": {
+        "address": "0x530651d5CdcAF10B9F7e7e8ade752bB6D1827c72",
+        "gasLimit": 698591,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-115": {
+        "address": "0x0986106823861719FBC93bBd45763E956b0E07c5",
+        "gasLimit": 700283,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-116": {
+        "address": "0x0f7B8E36aE66128631d1501E160d368f42Cf4BDF",
+        "gasLimit": 843460,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-117": {
+        "address": "0x921DFF1AcF6D3B04B6f5aAA12C98970f2afA50bd",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-118": {
+        "address": "0x229a9894c29E27b073E629C46a906358E88322A7",
+        "gasLimit": 845525,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-119": {
+        "address": "0x488aF644aF0F6F2007E89ac9342d3eee295E7097",
+        "gasLimit": 715228,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-12": {
+        "address": "0x90B7F85Cb5addCE07439B1e6512f2FB47139502C",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-120": {
+        "address": "0x7D90ae84E01d8daaaf8CBC0A2089f6BF43534c39",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-121": {
+        "address": "0x0D1640A3A85E8f98065e57db8fb43807C8386374",
+        "gasLimit": 812104,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-122": {
+        "address": "0x39d3f73716b01831e01175c4051e6dF910E4bCD5",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-123": {
+        "address": "0xe395c8FEbD85b30557fDf99B016010C91d578aba",
+        "gasLimit": 812606,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-124": {
+        "address": "0x901E9e9d2D54AD2A91eDbf43bB36Ad2A40BeCd51",
+        "gasLimit": 715711,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-125": {
+        "address": "0x750aE79cD1905E27809397B0fe4f8B4825E36d3a",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-126": {
+        "address": "0xEbD8f937E11C75A8a149702542dbb6FFbC8999Ca",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-127": {
+        "address": "0x4779172319Fc9272bF135bA1cF222A14968cA63c",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-128": {
+        "address": "0x75D60a7Abd887De6b825F218D93BD04055288805",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-129": {
+        "address": "0x7C5cA84cC978CF8Ef9A3a10F49486Ea69dA0062E",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-13": {
+        "address": "0xBFC02Bc2b1B7d937147185cCB4c927f9a8247DD8",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-130": {
+        "address": "0x4FEDB494Cbdd47961e7A406B8127f1BF7435EE51",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-131": {
+        "address": "0x8a4828e3da1C4d9452fd7f79b5D72a9A160E0337",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-132": {
+        "address": "0x353732aeE6E648B66c5D8d65bc340287c235DDBd",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-133": {
+        "address": "0x2a76f9e42c1dE8E1Bc52F2dE892722284157e721",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-134": {
+        "address": "0xA908071f1d3Abd52f92a93d3964526CA69e79bcd",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-135": {
+        "address": "0x64adc4828607aF5CB7f6E101BcC574ca6281ebb2",
+        "gasLimit": 703117,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-136": {
+        "address": "0xc55Ff02A7e4ACFaEAe36E3b2c3406d6810c3f401",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-137": {
+        "address": "0x176Aa47FbAe9ae958d02A87edCD36637f0e1583e",
+        "gasLimit": 841612,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-138": {
+        "address": "0xfD62e4A8aD767b0899472613412D0f2AbEb5a10e",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-139": {
+        "address": "0x83E4950559cC3FC0F29d48fCb381AdFD6CECEa2A",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-14": {
+        "address": "0x3077C8297a09454706B3b4EaD3C89ce9Ca0fE9A3",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-140": {
+        "address": "0xe1c79978Ee9868af7063EA058BB2Cbd988aD4EB7",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-141": {
+        "address": "0x746169f383F7AB16Cd7A6F3906976eCbdeCb7C6a",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-142": {
+        "address": "0x6FBE902A370A1f9f3Cc6988BD6f7FE3e41d48463",
+        "gasLimit": 642262,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-143": {
+        "address": "0x112AD403Bab4EF0297b52677BB16a0A261b8bEa3",
+        "gasLimit": 653660,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-144": {
+        "address": "0xe9A9EFBA00Eb6e7C6b4b45a582f19ce3c73590b2",
+        "gasLimit": 660839,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-145": {
+        "address": "0x39B4482B02A383C3783c7C5cdFB2F31dBD8BC579",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-146": {
+        "address": "0x8370633F0A87a4f1418936301768DB0787d5057D",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-147": {
+        "address": "0x55b58Bffe9F04902A6A557040fe878E8A353c370",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-148": {
+        "address": "0x4B32D8E3d3E210cf41d5Fb145FC85F1459e1F83d",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-149": {
+        "address": "0x9e5628d34A07e9BFdE9230d5335613b640f529Eb",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-15": {
+        "address": "0x202c67CDBa94AB6Fc1dF75dA4d513614160A3E96",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-16": {
+        "address": "0x67268718D6E0cC02F4f4E79c0DfF34F999133971",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-17": {
+        "address": "0x19a26b625ff77C5Cb8bA540b02DbB861d977A610",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-18": {
+        "address": "0xDABEeeAd3DD7899c59390f77f31f037f9894A635",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-19": {
+        "address": "0x65517992299e1202F7c79347fDC083b04B6365aC",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-2": {
+        "address": "0xf1228b4D7256C682C9F46852E20e62ce0C725015",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-20": {
+        "address": "0xe0C44C7488EeE12345731B8fD7675c662d296C9F",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-21": {
+        "address": "0xa71975962b9894cA1EA4448B65e83859113d0102",
+        "gasLimit": 879220,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-22": {
+        "address": "0xFefAD4D05c946345634854F56e63E2Af52987641",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-23": {
+        "address": "0x025C36f47eAb6471d554fe4d7CaFd4E983D2D6Da",
+        "gasLimit": 1070576,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-24": {
+        "address": "0x3CB83A6FeA68A69F81e466F591f5eaCdCed3E377",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-25": {
+        "address": "0x6518c6831C96cf2D82000349FDBB16633f328011",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-26": {
+        "address": "0x4153223776aeCC27658D7072de76e97fC093fa3b",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-27": {
+        "address": "0x58EC55F4a12C621a6F313b569bc5431205552Ee9",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-28": {
+        "address": "0xf6CD210E1174E74891ae55F596EE1e6BDc057cAb",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-29": {
+        "address": "0xD0f255De47543E61c91019185b2E79020B139bFF",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-3": {
+        "address": "0x80F666B0482e277922a5fB5B57D63D13D75D7CfD",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-30": {
+        "address": "0x546A4439A174F848B10bAdC6F1d8fa141c986C6c",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-31": {
+        "address": "0xFc7204C43b24ec61dAdC57dD40B2Ad3e18734cd4",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-32": {
+        "address": "0xF16ddDea203aE22048Fba7038bE32EF0e8a8F145",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-33": {
+        "address": "0x87Ee20981D76DC48724e8d38c873b2F67c7f5d90",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-34": {
+        "address": "0x9Fa02f6DFe4f3F474d374F162397F37EBc68c568",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-35": {
+        "address": "0xef870153B08D46646e6c746f09167e6fD9214Fc2",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-36": {
+        "address": "0xAb2451C0Ebb93CfD94a1C4e48e8b413168b72DF5",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-37": {
+        "address": "0x5AEc590C67439122d69e15264848eC54fF108f91",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-38": {
+        "address": "0x06Cd3751Ae0f607123d9a33AE5b071E3B0fA2F7b",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-39": {
+        "address": "0xc00D9B7361EB9835bFa684bBB119123fEC56038D",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-4": {
+        "address": "0xE1155Afed08aa10115418c0B9f0e8943A90b0f74",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-40": {
+        "address": "0x477bBb33F38D9D5818978470BBFbdA2Ed5BDCeC0",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-41": {
+        "address": "0x92E017eCC1C9566B85A2772AA15e485f1797a66D",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-42": {
+        "address": "0x1E1993D08610FA30b0a1653Af85f7E61b9f4Ae16",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-43": {
+        "address": "0x4dd8114C884B708b3F21c62B371A5b569C0eE40A",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-44": {
+        "address": "0x06ecde84D7fde28aE690a797C47fE31144944A09",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-45": {
+        "address": "0xfc9dd0B9899c95aEF7528204488ACfcC06E715E2",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-46": {
+        "address": "0x9B201dA4b09134272eEf04Caa9c28b4DC0C7A6e0",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-47": {
+        "address": "0x52288e57B7e5FABd020Ead4593576662d3c1DBc4",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-48": {
+        "address": "0x472B487cBCAfb09DC7aADFE4e1F73c743626B6f7",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-49": {
+        "address": "0x4feBeB16F7480967D1220BDC73780BD4Ab9BCA86",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-5": {
+        "address": "0x47DC127b1dc05798c12F2a241E3461e7E9Ff4305",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-50": {
+        "address": "0x52855c6C0d3dC7eaEbb7dc7651801A103624d23F",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-51": {
+        "address": "0xb26746e64633A95C524c66485EBE0022Af49Bd31",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-52": {
+        "address": "0x56AC487B8dbdef22Fb867fc62EcA04F264b9D551",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-53": {
+        "address": "0x52E102591564DF76d199B8f31edA18Ad5560e5ee",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-54": {
+        "address": "0x110C1304D15C971995db65EEb270Bd066bfF47b1",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-55": {
+        "address": "0x182067a90cd328b5F3c28ac321292f16CB8aaA27",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-56": {
+        "address": "0x11969CDA92d6856B2327afDfbf33119a60cb41d1",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-57": {
+        "address": "0x6E0CbDFddeffFE61B18DD30E7E185D3EAa883d97",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-58": {
+        "address": "0x8130c258586f551F74e463ADA105C1B9BcA82054",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-59": {
+        "address": "0x4A9A274b8701c3A383ddcc4029Bf51Cd2e5CF340",
+        "gasLimit": 1097268,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-6": {
+        "address": "0x26Ba341E6DC671b64d0D76CD0fb41C5Eb108afcC",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-60": {
+        "address": "0x30eE1424e88eb35FE4D1Bb1b8423A1acBDd1e8eE",
+        "gasLimit": 645584,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-61": {
+        "address": "0xcc5d314C91355F33EdD9A3c09Ac3436a807c386f",
+        "gasLimit": 655412,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-62": {
+        "address": "0xB9378712eb65ABB3C769A53A065634631375E6a3",
+        "gasLimit": 673095,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-63": {
+        "address": "0x3914E5F05DC7BA8A269a8D6ae58357Eb5a5B9acc",
+        "gasLimit": 0,
+        "ignoreCalibrate": true,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-64": {
+        "address": "0x21d17c63AEDcE5448D5Ed77Df8597e1116740B63",
+        "gasLimit": 650184,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-65": {
+        "address": "0xe66b28Db1a90EA0a26e3844260E09a397553F124",
+        "gasLimit": 817094,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-66": {
+        "address": "0xC2b3C26193947504De58Dc68636cC1a5CCf7EE19",
+        "gasLimit": 642377,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-67": {
+        "address": "0xb0e2BaD03b23aD46cFd58A21a32543d1076c7981",
+        "gasLimit": 652638,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-68": {
+        "address": "0x35286ecf01F5d51fD28D45a1FFc7a20F7E67f61C",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-69": {
+        "address": "0x6FE19747a855C9307AaE709c1248Ace7f5a36787",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-7": {
+        "address": "0x32572C2A1f447a2344D69F84EB99bfDE8405AA7c",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-70": {
+        "address": "0xB1dC2cab230a7C360D2C9B655eB0d8fA17dfeE5b",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-71": {
+        "address": "0x2F50AcE285f7621AbE4300Dc1704478a3f9E10eb",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-72": {
+        "address": "0x9Ed05b1EeB9E364fe1C3e87149D104b803c3c144",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-73": {
+        "address": "0x626AD410D79555AC34bCF8eF603fbFEBb7f1D3B3",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-74": {
+        "address": "0x63F6506101083C198CFD7AC9cC0026955beEB8b8",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-75": {
+        "address": "0x2fEDbECEcEE0e9Cc4CeE64C54C05b0dB23d72891",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-76": {
+        "address": "0xBA47997De5FB27d46aE1B875c98C0d0c5eA1ffAC",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-77": {
+        "address": "0x724933c0B9Af1f7960dfeeec77E13969e8c62d30",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-78": {
+        "address": "0xaAdc5D82a945859030F11b18cc5F296c04508146",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-79": {
+        "address": "0x48132B634b64cE69b32971ccA974743D9Ca6D96F",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-8": {
+        "address": "0x3dA52EffC35616150292272Ea18198FB8b1a5E8A",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-80": {
+        "address": "0x14D5F68508159194664129e666B942Ce6dFe38FB",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-81": {
+        "address": "0x027Ccad8D09937DFccf85e2E2e0E49622452bA33",
+        "gasLimit": 595742,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-82": {
+        "address": "0x5778264DEaf94bC94fAFf6225dB2E4B859750b38",
+        "gasLimit": 628705,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-83": {
+        "address": "0x52Db499716E6D85E459C3bAf0548335D178c054e",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-84": {
+        "address": "0xd8A9Af6D06CeC1Ff68B9305cA8a33fb6013eEf28",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-85": {
+        "address": "0xd73F7e1de4bD936aB5D9Ae7e9a5eA9Af2554bF31",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-86": {
+        "address": "0x40117DD58500201cE00e0cDADe8b354dfb1cF1e3",
+        "gasLimit": 648232,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-87": {
+        "address": "0xF8838A7800329EC9f5980E77503434e294220877",
+        "gasLimit": 647361,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-88": {
+        "address": "0x59D18A93A791e8ee7D9C2f1e3738EB8fA7076c5c",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-89": {
+        "address": "0xf69771377c20a72fA915899202F1309C8dD66dBD",
+        "gasLimit": 648233,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-9": {
+        "address": "0xF667e4Ed846Ec5b8DA51C2E8d794F8a2e86aa2f9",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-90": {
+        "address": "0x0DAFBF9b089bA51EBB48A8Fe42A7ab878CE7416d",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-91": {
+        "address": "0x567a0c2F9Bf7Dc17d8707E9e2A3e3E001CfDefC8",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-92": {
+        "address": "0x1805cB79232536971D4f02a8b923E03028a021Ff",
+        "gasLimit": 648015,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-93": {
+        "address": "0x369832b8436E69f0d6Ba09Ac82b3e9531623117d",
+        "gasLimit": 635326,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-94": {
+        "address": "0x0854936766cAE2279d8019c1E7FEdB2780F5cC13",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-95": {
+        "address": "0xBD2421e23780a4191F09Cbfa1eED1260DB9d2B19",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-96": {
+        "address": "0x4A56D342c116Cb7552dDE86a41abd01c86706414",
+        "gasLimit": 645782,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-97": {
+        "address": "0x389D8870447804608F3c7ef0Db738F12ef84A4d9",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-98": {
+        "address": "0xFf8852F9CdfEB97D50995EFa0015903C947A9Cfa",
+        "gasLimit": 644779,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "GRIM-99": {
+        "address": "0xBF3847f0464067b7a1228BbD562438E255Ba75e3",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "Geist CRV": {
+        "address": "0x01873b6e4CEdA2A752FEadA7B370A372840bA2cd",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "Geist DAI": {
+        "address": "0x5F12a657032D3A43f2bBe368caD5e8074BD65eAE",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "Geist ETH": {
+        "address": "0x739c33C453f6449810B2997a320E5Ea0B79Fa438",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "Geist FTM": {
+        "address": "0x212a9507CE6D0aC42990Bf42Db14d922a2A6bEed",
+        "gasLimit": 9279205,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "Geist GEIST-FTM LP": {
+        "address": "0x39262E38b93982Ce551582753cF3780e8870c812",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "Geist MIM": {
+        "address": "0x2910BC3AB8835d0B94dfCa46Ee4556216540f3DA",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "Geist USDC": {
+        "address": "0x5a712EF5cF210B97eA20e54849409CB527D5f968",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "Geist WBTC": {
+        "address": "0xa6B1D1a9BA26874199CBCecb3382011Ac23890b9",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "Hector TOR/DAI/USDC": {
+        "address": "0xf74DE2c34a89ceC902A427514a5494649037e8A5",
+        "gasLimit": 786998,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "Old SpookySwap BOO": {
+        "address": "0x0bF4DB9fB7294C190f80C01B7ff913FaeEBb7AAB",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": true,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "BeefySpookySwap"
+    },
+    "Other BASED-BSHARE LP": {
+        "address": "0xBbf3F8A756c0c46319B39819190720b7929d5ee8",
+        "gasLimit": 1341159,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "Other BASED-MAI LP": {
+        "address": "0x43D1dbfb4367A8fd9ffB4F74981999673Fe8C4E2",
+        "gasLimit": 688431,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "Other BASED-TOMB LP": {
+        "address": "0x6c716360C67daC182ff8f4404738ECD07e6892F9",
+        "gasLimit": 952458,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "Other BSHARE-FTM LP": {
+        "address": "0x4056BeF729b6c99277C5bd6dA7ED8A6974c3A386",
+        "gasLimit": 950000,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "Other ICE-FTM": {
+        "address": "0x8Bd61713C6417BA30E335ADFffC18068AB72a510",
+        "gasLimit": 772129,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "Other PAE-FTM LP": {
+        "address": "0x57E7e4a9fB2F93288d0cb309339fE8Fe22Fb6c47",
+        "gasLimit": 753057,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "Other pFTM-FTM LP": {
+        "address": "0xf0A4fC334F84D342d84BD73B4f9a74c89fdC7deE",
+        "gasLimit": 855752,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "SHRAP-USDC Bomb Crypt": {
+        "address": "0x4fc2181e386fA1C050e48aB131A02075E725b0e2",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperBombSwap"
+    },
+    "SPIRIT-BNB Spirit Crypt": {
+        "address": "0xBc23fCE02F409Bed3BfB67b1F63374954fc9768C",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperSpiritSwap"
+    },
+    "SPIRIT-DAI Spirit Crypt": {
+        "address": "0x6e7a6ad7621842704986CbAd3f38aB49c0C4eB27",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperSpiritSwap"
+    },
+    "SPIRIT-UNIDX SPIRIT CRYPT": {
+        "address": "0xA20bB5a3FF26B7578492943a38d5190A4C3DF33B",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperSpiritSwap"
+    },
+    "Scream DOLA": {
+        "address": "0x12F1A8C91Ffdb0aF421b703A75b8E9f57ADDF0b9",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "Scream FRAX": {
+        "address": "0x7434583cdf49E56206193908F599aA62177a1497",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "Scream MIM": {
+        "address": "0xc1A77cE3707d19b5aa6D62438bF7BD86078E1146",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "Scream SPELL": {
+        "address": "0xe880e3705db6B13ca1DE77901d2D3a2dCC9a89B2",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "Scream TUSD": {
+        "address": "0x15B43B012f0e2fceC064d3D4330a937504Fbc571",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "Spirit Single-Sided Crypt": {
+        "address": "0xDA40e2335041E540510A678de7D52FB90c1418F2",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperSpiritSwap"
+    },
+    "Spirit-LQDR Spirit Crypt": {
+        "address": "0x34c9c7ECcaBDf923209e8d468adFEb6e881F2e82",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperSpiritSwap"
+    },
+    "Spirit-xSteak Spirit Crypt": {
+        "address": "0xFb5df7853CD6373Ee5755C5f6bb8eaa9e6C1d35f",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperSpiritSwap"
+    },
+    "Spirit-xSteak Spirit Crypt [NEW]": {
+        "address": "0x0e92276CB622d131A3d2AaDb5C7EAfe925223C67",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperSpiritSwap"
+    },
+    "SpiritSwap ATLAS-FTM LP": {
+        "address": "0x4e8cB6D3B91FE48Df8060310CC9635De15E199c7",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "SpiritSwap BIFI-FTM LP": {
+        "address": "0xcADC8887e232285D9d764F9f91D83383d624C193",
+        "gasLimit": 888864,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "SpiritSwap CRE8R-FTM LP": {
+        "address": "0x07AD4d794074ed5490eBDa753B332482b3AA2f3A",
+        "gasLimit": 887963,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "SpiritSwap CRV-FTM LP": {
+        "address": "0x40726C4A019f356904191829BDC0a02E77F30686",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "SpiritSwap DAI-USDC LP": {
+        "address": "0xBDFeDfCCc2729C114fe7F3E97e18E173E3cb526F",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "SpiritSwap DEI-USDC LP": {
+        "address": "0x239C89335bd1A296622513b320142E4e39bf7E52",
+        "gasLimit": 1033411,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "SpiritSwap DEUS-FTM LP": {
+        "address": "0x745118dF65873f6fdBF5E89EEB102785EB058203",
+        "gasLimit": 894170,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "SpiritSwap FRAX-FTM LP": {
+        "address": "0xbAedf8C3D38640fc33ee5bB93194025D534Aa456",
+        "gasLimit": 893850,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "SpiritSwap FRAX-USDC LP": {
+        "address": "0x5ef24da9a51a577FE17a9385Ca9206A7266161B0",
+        "gasLimit": 953147,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "SpiritSwap HND-FTM LP": {
+        "address": "0x3bdaf23aa958401Ba84a180AC5149B0e6c110765",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "SpiritSwap ICE-FTM LP": {
+        "address": "0xcEE846e6F60D4D589728Edeb0278f203C0A5c17B",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "SpiritSwap JEWEL-FTM LP": {
+        "address": "0xE4141CEF7f1eB1f395c23E3eB4Cf274b19295131",
+        "gasLimit": 876832,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "SpiritSwap MAI-FTM LP": {
+        "address": "0x2a964E14676861766727Dbbd7C655C3294C9aa35",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "SpiritSwap MIDAS-FTM LP": {
+        "address": "0x040Ef70D1CaCEB2cCa319E27f25160cAECFe7545",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "SpiritSwap MIM-FTM LP": {
+        "address": "0xf06bD6C98963ACCc6C995e74644d8904ce1c4d11",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "SpiritSwap MIM-USDC LP": {
+        "address": "0xA7Ba5D21CE2E9F002fa0348aA71f228a8974273B",
+        "gasLimit": 949596,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "SpiritSwap ORKAN-FTM LP": {
+        "address": "0xE13b65C9d37aF3666A4640AE4Fd5202bd630d8cD",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "SpiritSwap SPIRIT-FTM LP": {
+        "address": "0x10bcb7145c08F04aA7cCa356FAEE0A5ac3cCa860",
+        "gasLimit": 865887,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "SpiritSwap TREEB-FTM LP": {
+        "address": "0xA7e2363455159101a0Ee0BDF4028Bd611D19Fb57",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "SpiritSwap USDC-FTM LP": {
+        "address": "0xdcb989e3537cDdC075A17f94ff24E338678FC4d6",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "SpiritSwap UST-FTM LP": {
+        "address": "0xA53A8BAB06c389d4cD3D33c8a24beA164817588f",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "SpiritSwap beFTM-FTM LP": {
+        "address": "0x768620Ee33313D9711857D122a8d60Dd062b7bD3",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "SpiritSwap binSPIRIT-SPIRIT LP": {
+        "address": "0xBCB4c9107561a8c52b9C8f691C60e6A83C4499c3",
+        "gasLimit": 674944,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "SpiritSwap fUSDT-USDC LP": {
+        "address": "0xf2e24273821835D177eB7A6C222c5AfE5de38e87",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "SpiritSwap gOHM-FTM LP": {
+        "address": "0x600C500684aca1c5aFc9582B74bb96c8E737C17e",
+        "gasLimit": 903131,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "SpiritSwap sFTMx-FTM LP": {
+        "address": "0x4F9eC57361B076284b9A2C5db1a304B64aA64E7F",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "SpiritSwap wMEMO-MIM LP": {
+        "address": "0xC62A7f0a2994E727B665225653e2C248B945476e",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "SpiritSwap wsHEC-FTM LP": {
+        "address": "0x341e7B8a5106A48Db164a11cD0490d4c8BB4DfE8",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "SpookySwap ANY-FTM LP": {
+        "address": "0x8EA5Da4115150219cC73e2Df2d8aBc533a39A50C",
+        "gasLimit": 1743540,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "BeefySpookySwap"
+    },
+    "SpookySwap APE-FTM LP": {
+        "address": "0x99C719c26C64A371be84bAF0821fA89a1FEd459a",
+        "gasLimit": 1735578,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "SpookySwap AVAX-FTM LP": {
+        "address": "0x44baEbEB626f1aD048F0c15e84BB24196f214c23",
+        "gasLimit": 1091655,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "SpookySwap BADGER-FTM LP": {
+        "address": "0xa6914AbA898D613152DB7D338381d53b5Eae0C1d",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "BeefySpookySwap"
+    },
+    "SpookySwap BAND-FTM LP": {
+        "address": "0x3464ab12F2c2fe3DAa90Aa7D90DDe6BA470422BD",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "BeefySpookySwap"
+    },
+    "SpookySwap BEETS-FTM LP": {
+        "address": "0x75508947376118D6Ab20dba8316A852ce2543D77",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "SpookySwap BIFI-FTM LP": {
+        "address": "0xD5ff0aCA943C918EEE069b1E80Ee0D9d016b2F98",
+        "gasLimit": 1271820,
+        "ignoreCalibrate": true,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "BeefySpookySwap"
+    },
+    "SpookySwap BNB-FTM LP": {
+        "address": "0x9D55cAEE108aBdd4C47E42088C97ecA43510E969",
+        "gasLimit": 940000,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "BeefySpookySwap"
+    },
+    "SpookySwap BOO": {
+        "address": "0x13b42b5Ff8533540e28FA1F20e1ce7766D6d26bb",
+        "gasLimit": 1561632,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "SpookySwap BOO-FTM LP": {
+        "address": "0x98d3913474fccEDeB63077237914be00202fB007",
+        "gasLimit": 950000,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "BeefySpookySwap"
+    },
+    "SpookySwap BOO-USDC LP": {
+        "address": "0xeC0a417fDa83A8f7FeE014ACf21e7f0e06228f73",
+        "gasLimit": 1699473,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "SpookySwap BRUSH-FTM LP": {
+        "address": "0x8dD82D887a5B0C970F42bE8691203ABa22F832A3",
+        "gasLimit": 1105422,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "SpookySwap BTC-FTM LP": {
+        "address": "0x1433c4a55449c8B96cf5Ac0cF395cBd8dc8e5f60",
+        "gasLimit": 895000,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "BeefySpookySwap"
+    },
+    "SpookySwap CRV-FTM LP": {
+        "address": "0xC3821F0b56FA4F4794d5d760f94B812DE261361B",
+        "gasLimit": 1100000,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "BeefySpookySwap"
+    },
+    "SpookySwap DAI-FTM LP": {
+        "address": "0x2cC364255206A7e14bF59ADB1fc5770DbA48CB3f",
+        "gasLimit": 907000,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "BeefySpookySwap"
+    },
+    "SpookySwap DEI-USDC LP": {
+        "address": "0x4cc45a80a57e60b28f5761Aa6D705580AB329fAf",
+        "gasLimit": 764187,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "SpookySwap DEUS-FTM LP": {
+        "address": "0x7549b90F096ac4f03761430cC8BF38219Fc57C73",
+        "gasLimit": 668267,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "SpookySwap ETH-FTM LP": {
+        "address": "0x7c7B7FbccA5699175003ecbe1B41E79F40385469",
+        "gasLimit": 925000,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "BeefySpookySwap"
+    },
+    "SpookySwap FTM-USDC LP": {
+        "address": "0xf5d76A33953365e4f074AE58e34C39A52B8E9671",
+        "gasLimit": 1150000,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "BeefySpookySwap"
+    },
+    "SpookySwap ICE-FTM LP": {
+        "address": "0x8F35521cf1B9145E2C5231B8B3E1c3AEadDc4027",
+        "gasLimit": 1722804,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "BeefySpookySwap"
+    },
+    "SpookySwap JOE-FTM LP": {
+        "address": "0x6259f854125a6af8E6cfC2f9c5BF5a6BdD24B3A5",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "SpookySwap LINK-FTM LP": {
+        "address": "0xa1Dfd44c90B7cE937FC450Fe19B691e72EE3a7D2",
+        "gasLimit": 1050000,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "BeefySpookySwap"
+    },
+    "SpookySwap MATIC-FTM LP": {
+        "address": "0xfE1683FD5cE7f27314Fc00B17FD648E055402ee9",
+        "gasLimit": 1084961,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "SpookySwap MIM-FTM LP": {
+        "address": "0x567FF0A6067C9021DBd50D09bA747F78aEfAB9c2",
+        "gasLimit": 1723577,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "BeefySpookySwap"
+    },
+    "SpookySwap MULTI-FTM LP": {
+        "address": "0x7dC9B0220953f9d1E66506E795f443aE6d0f37dF",
+        "gasLimit": 1080776,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "SpookySwap SPELL-FTM LP": {
+        "address": "0x31F5eec2719eAc3A61a8B76ed9ceFF13437BE65a",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "SpookySwap SUSHI-FTM LP": {
+        "address": "0x3C180c415332999Fa7e5a65E8490A57fe8Fd7fdb",
+        "gasLimit": 948800,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "BeefySpookySwap"
+    },
+    "SpookySwap TREEB-FTM LP": {
+        "address": "0xA58f0953261EcB55A128F721841416717B327833",
+        "gasLimit": 1731428,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "SpookySwap TUSD-USDC LP": {
+        "address": "0x97A3d559d62E8668e1b4644C2A6F4E4147898552",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "SpookySwap USDC-MAI": {
+        "address": "0xeFb235A125193b25F7989E5E564CF276375fA74d",
+        "gasLimit": 1328003,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "SpookySwap WBTC-ETH LP": {
+        "address": "0x7f32C0b25f565E4e9F9e6Ec78108775C9b9db298",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "SpookySwap WOO-USDC LP": {
+        "address": "0xf088F60199D6f2938F100a3f8742225EbD1342f0",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "SpookySwap YFI-ETH LP": {
+        "address": "0x490701fb9DCC30B89734F934120B24Dd90317BB7",
+        "gasLimit": 1790276,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "BeefySpookySwap"
+    },
+    "SpookySwap beFTM-FTM LP": {
+        "address": "0x814F0A1502fb884B22B7a476BE519cB010ef0476",
+        "gasLimit": 1088693,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "SpookySwap fUSDT-FTM LP": {
+        "address": "0x8F769621E63acE71132987Ec4DB14cc3d06AA684",
+        "gasLimit": 909500,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "BeefySpookySwap"
+    },
+    "SpookySwap sFTMx-FTM LP": {
+        "address": "0xB42D2009211E11eD5Ad14C6Cc0314c20964f543F",
+        "gasLimit": 994135,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "Stargate USDC LP": {
+        "address": "0x6DeDE244d7DD73Aa4967B3d7D400271ec746e28B",
+        "gasLimit": 1405328,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "SushiSwap ETH-BTC LP": {
+        "address": "0xa5F6387fB58AC5268F130bFc2d0A5e53343fB798",
+        "gasLimit": -1,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "SushiSwap ETH-DAI LP": {
+        "address": "0x6ffFA724b231610e6C99b3F41b26c4aBF94F05F8",
+        "gasLimit": -1,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "SushiSwap ETH-FTM LP": {
+        "address": "0xec10AaC4A445d28Eebd50F908cfc69816C8E9d7d",
+        "gasLimit": -1,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "SushiSwap MIM-USDC LP": {
+        "address": "0x67E7cC5405429D9D7b468c836989B849b5D66543",
+        "gasLimit": -1,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "SushiSwap SUSHI-FTM LP": {
+        "address": "0xC67c5F7F4aAA34E3e94051e22Fce83C455a2562C",
+        "gasLimit": -1,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "SushiSwap USDC-FTM LP": {
+        "address": "0xB17857c6c382680140Eb4EB1aAC4EB1184987D47",
+        "gasLimit": -1,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "SushiSwap fUSDT-FTM LP": {
+        "address": "0xafD558197FE33AAd1D653cc57B712d9A97752084",
+        "gasLimit": -1,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "TOMB-MAI Tomb (TombSwap) Crypt": {
+        "address": "0xEc4B3BFB95A68C8Ff6951E1A364B8e34A61c806C",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperTomb"
+    },
+    "TOMB-MAI Tomb Crypt": {
+        "address": "0xEc4B3BFB95A68C8Ff6951E1A364B8e34A61c806C",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperTomb"
+    },
+    "TOMB-USDC Tomb (TombSwap) Crypt": {
+        "address": "0x32582BE37f7FCbBE93a9A1B5a2b686c425794bF7",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperTomb"
+    },
+    "TSHARE-BTC Tomb (TombSwap) Crypt": {
+        "address": "0xfe116B6CeBDc32140c3b22226ba3bA3A7c3790a5",
+        "gasLimit": 1171820,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperTomb"
+    },
+    "TSHARE-ETH Tomb (TombSwap) Crypt": {
+        "address": "0xe62CA091CDB126647d939Aa61678b533c39971C7",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperTomb"
+    },
+    "TSHARE-MAI Tomb (TombSwap) Crypt": {
+        "address": "0xa98F1d1cE977A23d060D93C0DBB1c0718a81AEBf",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperTomb"
+    },
+    "TSHARE-USDC Tomb (TombSwap) Crypt": {
+        "address": "0x6D825613dDf4bCaBacD91cCD3c3f77FB959ef183",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperTomb"
+    },
+    "Tomb BASED-USDC LP": {
+        "address": "0x536193E2009d203613F55b53b0346E342440b6D8",
+        "gasLimit": 628327,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "Tomb FTM-USDC LP": {
+        "address": "0x1E214f5E1aFcdf2F6D17E46505b23aDD5F0764Ab",
+        "gasLimit": 604061,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "Tomb FUSD-USDC LP": {
+        "address": "0x4BbA74DD4941c79CE88E7Ab55564E5B7b98897D2",
+        "gasLimit": 638271,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "Tomb MAI-USDC LP": {
+        "address": "0x450234989C0822fFB6CEcEe1f0BaA37b1D51E044",
+        "gasLimit": 816875,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "Tomb MIM-USDC LP": {
+        "address": "0x33Aaa949D7CEef9ab35dF994C55cDb237Ca5B0A1",
+        "gasLimit": 814462,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "Tomb Masonry Crypt": {
+        "address": "0xCCfC062B025C6753a87C576b4Cdf85603BA0Fedc",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperTomb"
+    },
+    "Tomb TOMB-FTM LP": {
+        "address": "0x6f3C8A229C38022458f5a0998AFBd7F94171E7b9",
+        "gasLimit": 766758,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "Tomb TOMB-MAI LP": {
+        "address": "0xc8161F9a900363529E7709AeB1EC88280cfA328E",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "Tomb TOMB-SCREAM LP": {
+        "address": "0x807dF28C2867080FC51e7B441651Ebf18a7E7433",
+        "gasLimit": 1554930,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "Tomb TOMB-TREEB LP": {
+        "address": "0xD09A9E40990B557eA4f2E24B64664788d68db93e",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "Tomb TOMB-USDC LP": {
+        "address": "0xEa00376c28b9bCe199EceAbd44416ce49d2b695d",
+        "gasLimit": 653292,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "Tomb TOMB-ZOO LP": {
+        "address": "0xeA358eA9238F1f604527128B9055D7B4360C4b21",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "Tomb TREEB-USDC LP": {
+        "address": "0x0A14C63D2d81690C2519aAca77CfC4018EE82E10",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "Tomb TSHARE-BTC LP": {
+        "address": "0xfa4b24ceE70C920b79118cbFd00086cAD797F2B4",
+        "gasLimit": 801170,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "Tomb TSHARE-ETH LP": {
+        "address": "0x0B496FCEB5362662610aDB8017d99B2471D0689E",
+        "gasLimit": 714765,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "Tomb TSHARE-MAI LP": {
+        "address": "0x4ca0a1eff8D2B3234Bc79a9A0A84b316384d000C",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "Tomb TSHARE-USDC LP": {
+        "address": "0xCD139b50f08fE8059460F8968353A7C825536bb4",
+        "gasLimit": 661706,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "Tomb fUSDT-USDC LP": {
+        "address": "0xc0bC10C1C5D598d81608DeC614247E0a964C8A48",
+        "gasLimit": 831100,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "TosDis-FTM Spirit Crypt": {
+        "address": "0xedF94AD58Fe39e7Cb308b5f1DA3B40605e47eC23",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperSpiritSwap"
+    },
+    "USDC-BOO Spooky Crypt": {
+        "address": "0x41B7A81f767fB0e4Db93686056E31D9445Ebea4C",
+        "gasLimit": 1741937,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperSpookySwap"
+    },
+    "USDC-DEI Spooky Crypt": {
+        "address": "0x6f0d1eCfD46A35baA897e044B83c58903B3e88A0",
+        "gasLimit": 1347173,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperSpookySwap"
+    },
+    "USDC-GTON Spirit Crypt": {
+        "address": "0x9FAA500a4CA492450488bf249870C3044D4B1403",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperSpiritSwap"
+    },
+    "USDC-MAI Spooky Crypt": {
+        "address": "0x375cbfd5Fa605E434c5c44C44600e612d2c10625",
+        "gasLimit": 1514767,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperSpookySwap"
+    },
+    "USDC-MAI Tomb (TombSwap) Crypt": {
+        "address": "0xE2A708A6Af09297A01E2Bb81aAbBb377C9D0aF58",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperTomb"
+    },
+    "USDC-MIM Tomb (TombSwap) Crypt": {
+        "address": "0xA5DefF59cfe8C766840e5FeD8D674A7D4bB2fc76",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperTomb"
+    },
+    "USDC-TUSD Spooky Crypt": {
+        "address": "0x03B6d43ccd900F030BEDF0cB07bCaE66FdC7fa5a",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperSpookySwap"
+    },
+    "USDC-USDT Tomb (TombSwap) Crypt": {
+        "address": "0xCb487E30c53127232EB1AdA891c8fbD2678f6e37",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperTomb"
+    },
+    "WOO-USDC Spooky Crypt": {
+        "address": "0x151EC95001ddD662c3Eb059ABC7D1E45835e6674",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperSpookySwap"
+    },
+    "WigoSwap CRV-FTM LP": {
+        "address": "0x5a5af2FB4DADFAcEeb560ffD464e118c941a5eFf",
+        "gasLimit": 830704,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "WigoSwap DAI-FTM LP": {
+        "address": "0x1F580683322C0E9B7111620030d88111E359aB4e",
+        "gasLimit": 853031,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "WigoSwap ETH-BTC LP": {
+        "address": "0x21760a6C448E05FB3cCd0Ab805e58Ddfe5b02145",
+        "gasLimit": 934383,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "WigoSwap ETH-FTM LP": {
+        "address": "0x2814a0b84b6B8f4DE0a539952df9219b29cF683e",
+        "gasLimit": 832881,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "WigoSwap FRAX-USDC LP": {
+        "address": "0x86faf1830ff5f83504ad36b5773E4BcfBE2F022f",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "WigoSwap TREEB-FTM LP": {
+        "address": "0x935983116Dd2088f4A323BA097aC68f6ec8759f3",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "WigoSwap USDC-DAI LP": {
+        "address": "0x61E93C5019448eAf5Aa9fB13363a450ff83443f0",
+        "gasLimit": 926700,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "WigoSwap USDC-FTM LP": {
+        "address": "0xA31184D2031ddFf2C2000B29B31593e82bCDa60C",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "WigoSwap USDC-fUSDT LP": {
+        "address": "0x5B84022fE2522969746C6c70A0379D03C5997716",
+        "gasLimit": 916650,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "WigoSwap WIGO": {
+        "address": "0xf394C044c133157B8114F381850Cb3d1b6Ef7b44",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "WigoSwap WIGO-FTM LP": {
+        "address": "0x9cF294C67B388E28C1EE5bd75ffa319D83d22722",
+        "gasLimit": 696383,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "WigoSwap WIGO-USDC LP": {
+        "address": "0x1125C7733b9468C9158D490E669d19610A09E6bA",
+        "gasLimit": 1546981,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "BeefyStrategy",
+        "rewardCalc": "callReward"
+    },
+    "YFI-WOOFY Spirit Crypt": {
+        "address": "0x61FefdC82aCA572F4B918791F1C4305Fe4D9696a",
+        "gasLimit": 0,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperSpiritSwap"
+    },
+    "YFI-wETH Spooky Crypt": {
+        "address": "0x6d8D268E1E6486a2E57c7E39A5fD7a2518Bcf45b",
+        "gasLimit": 1368489,
+        "ignoreCalibrate": false,
+        "ignoreRemoval": false,
+        "platformABI": "ReaperStrategy",
+        "rewardCalc": "ReaperSpookySwap"
+    }
+}

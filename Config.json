@@ -1,0 +1,29 @@
+{
+    "AutoHarvester": {
+        "allowZeroGasLimit": false,
+        "debug": false,
+        "delay": 0.1,
+        "gasPriceMultiplier": 5.0,
+        "maxHarvestPending": 5,
+        "minTimeBetweenHarvests": 30,
+        "noDelayThreshold": 90,
+        "pauseHarvestOnHighGasPriceThreshold": 200,
+        "rewardCalcAddress": "0xa6CcaEe06bC54899E36001EC474DAd088cD4203F",
+        "unwrapThreshold": 0.5
+    },
+    "StrategyCalibrator": {
+        "alias": {},
+        "checkNLastHarvests": 20,
+        "ignoreDayThreshold": 3
+    },
+    "Web3Manager": {
+        "rpcURL": "https://rpc.ftm.tools/",
+        "wrappedNative": "WFTM",
+        "wrappedNativeAddress": "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83"
+    },
+    "blockExplorerAPIKey": "YOUR_FTMSCAN_API_KEY",
+    "blockExplorerAPIURL": "https://api.ftmscan.com/api",
+    "blockExplorerURL": "https://ftmscan.com/",
+    "chainId": 250,
+    "privateKey": "YOUR_PRIVATE_KEY"
+}

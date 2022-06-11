@@ -1,0 +1,6 @@
+Update rewardCalc for Beefy Geist strategies - check withdrawableBalance? in Geist Staking Contract instead of using callReward
+Update rewardCalc for Beefy SushiSwap strategies - callReward seems to take rewarder.pendingToken into account, which it shouldn't
+Create rewardCalc for Reaper liquidv2 strategies
+Create rewardCalc for Reaper beethoven strategies
+Update StrategyParser by checking for callReward via ftmscan API (getabi)
+[QOL] Export logs function

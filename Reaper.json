@@ -1,0 +1,1747 @@
+{
+    "2POOL-cUSD Creditum Crypt": {
+        "active": true,
+        "address": "0xA7aFC6d17526a583AF6175A3F8E4cAe1c7E51A3f",
+        "provider": "creditum"
+    },
+    "A Beefy Tale Of Two Fantom Sisters Beethoven-X Crypt": {
+        "active": true,
+        "address": "0xDD4163e6f31B000207Aed12ab07D00d41E07a7E3",
+        "provider": "beethoven"
+    },
+    "A Dai-Abolical Balance Beethoven-X Crypt": {
+        "active": true,
+        "address": "0xD94278BE8Fe39Dfb5449204092024ef541187beF",
+        "provider": "beethoven"
+    },
+    "A Late Quartet Beethoven LiquidV2": {
+        "active": true,
+        "address": "0x5abb3d0Ff599cE0CAE3C3C718AE1B0514c9617c9",
+        "provider": "liquidV2"
+    },
+    "A Late Quartet Beethoven-X Crypt": {
+        "active": true,
+        "address": "0x863773ed2E12cc34DCF6C537b7E0B7986c572DAA",
+        "provider": "beethoven"
+    },
+    "A Late Quartet, Yearn Boosted Beethoven-X Crypt": {
+        "active": true,
+        "address": "0x42b199c9104798733a9E779d5310a2Cd0e9caB77",
+        "provider": "beethoven"
+    },
+    "A Song Of Ice And Fire Beethoven-X Crypt": {
+        "active": true,
+        "address": "0xAF126b2C2F67692eC64d8FEaCA1F19A0CB701806",
+        "provider": "beethoven"
+    },
+    "AAVE-USDC LIQUID CRYPT": {
+        "active": false,
+        "address": "0x6349c5811fb4B1b7eE83972cCa1945B064BDa0EE",
+        "provider": "liquid"
+    },
+    "BASED Tarot Crypt": {
+        "active": true,
+        "address": "0xe5D265779CEFDb537352F9Debda326573027B73A",
+        "provider": "tarot"
+    },
+    "BEETS-fBEETS 0xDao Crypt": {
+        "active": true,
+        "address": "0xa15e86A4b596978410163c5A3f26D132BF03E333",
+        "provider": "oxdao"
+    },
+    "BEETS-fBEETS Solidex Crypt": {
+        "active": true,
+        "address": "0x9b857f4eC1376eDE56b1910C1C506aC80aa849C5",
+        "provider": "solidex"
+    },
+    "BOMB-SHRAP Bomb Crypt": {
+        "active": true,
+        "address": "0xC0a9BCE92C72fb294D1ecA4CB433fdAd36CDe2F9",
+        "provider": "bomb"
+    },
+    "BOMB-USDC Bomb Crypt": {
+        "active": true,
+        "address": "0x6B693e335Dc231FC172b90209bAdaB9cb6E69332",
+        "provider": "bomb"
+    },
+    "BOO-xBOO 0xDao Crypt": {
+        "active": true,
+        "address": "0x61fF41Abb5221BF7ECDb7B3190cBdF668E8E0749",
+        "provider": "oxdao"
+    },
+    "BOO-xBOO Solidex Crypt": {
+        "active": true,
+        "address": "0x0790D1d0054d92124Eef42D0501bA45054B439c7",
+        "provider": "solidex"
+    },
+    "BTC-ETH Spooky Crypt": {
+        "active": true,
+        "address": "0xD5D942FC85198eb7fA0A721ba834ffcFa72dB7C1",
+        "provider": "spooky"
+    },
+    "BUSD-FUSDT Spirit Crypt": {
+        "active": true,
+        "address": "0xC5312Cc64Fba7F405A41Efa394Bd5983d46Dbf9A",
+        "provider": "spirit"
+    },
+    "Baron Von Binance Beethoven-X Crypt": {
+        "active": true,
+        "address": "0x08ed1f7EE33A9a8891d7Ec8611021b84D4c55d0C",
+        "provider": "beethoven"
+    },
+    "Battle Of The Bands Beethoven-X Crypt": {
+        "active": true,
+        "address": "0xDFf6F6cf3117E79B94679BBb6344bd767b15fCcd",
+        "provider": "beethoven"
+    },
+    "Beardhemian Brushsody Beethoven-X Crypt": {
+        "active": true,
+        "address": "0xef6D65a2fb2d8130A06B89CF424FC06Ec9C45A95",
+        "provider": "beethoven"
+    },
+    "Beautiful Dark Twisted Decentralized Dollar": {
+        "active": true,
+        "address": "0xe853575A1eB11eCD8931b27ad866c7FdC829C381",
+        "provider": "beethoven"
+    },
+    "Bee-Thoven And The Bears Beethoven-X Crypt": {
+        "active": true,
+        "address": "0x4216aBcEAEBB5FEf30A7A9c6749FDe84C6b2C76f",
+        "provider": "beethoven"
+    },
+    "Beet Mason's Oath Beethoven-X Crypt": {
+        "active": true,
+        "address": "0xdd1721F017767260b4766bf3B328e6856F01174E",
+        "provider": "beethoven"
+    },
+    "Boo Single Sided Staking Crypt": {
+        "active": true,
+        "address": "0xB62100d94436f53a87516f1aa3Cf42f8A96Ae049",
+        "provider": "spooky"
+    },
+    "CRE8R In F-Major Beethoven-X Crypt": {
+        "active": true,
+        "address": "0x74d57A0C700Aaf9ec23F2A3b133933ebfe2Df23E",
+        "provider": "beethoven"
+    },
+    "CRV Scream Crypt": {
+        "active": true,
+        "address": "0xf414e03A3dEB50c9D1Eb728a40D259830bc4C03A",
+        "provider": "scream"
+    },
+    "Clair De Lune Beethoven-X Crypt": {
+        "active": true,
+        "address": "0xa4B631456F3b4b8F48fdaED39919002414b1A3a6",
+        "provider": "beethoven"
+    },
+    "DAI Scream Crypt": {
+        "active": true,
+        "address": "0xF30BDaF0C4fd5e3b1ba98ca3e2AA1110B65B50C9",
+        "provider": "scream"
+    },
+    "DEI-DEUS 0xDao Crypt": {
+        "active": true,
+        "address": "0x34885918d804F46d53ea201BD5b9fdC44e0CD67B",
+        "provider": "oxdao"
+    },
+    "DEI-DEUS Solidex Crypt": {
+        "active": true,
+        "address": "0xdA2dc107458868824522de760e5A354D4EfD669f",
+        "provider": "solidex"
+    },
+    "DEI-SCREAM 0xDao Crypt": {
+        "active": true,
+        "address": "0xDF306AD8fE89d6f0C4F7235EF7B5EbaB39fd2022",
+        "provider": "oxdao"
+    },
+    "DOLA Scream Crypt": {
+        "active": true,
+        "address": "0x3f831a885b3d032510BD29d30615dE6794fE9614",
+        "provider": "scream"
+    },
+    "Dante Symphony Beethoven-X Crypt": {
+        "active": true,
+        "address": "0x31c3E6019Cc37e629c3379bbb0B90E03601e6693",
+        "provider": "beethoven"
+    },
+    "Double Dollar Fugue Beethoven-X Crypt": {
+        "active": true,
+        "address": "0xA03038FbD0Cc55B1eD33916885f9B1D24e3B48E8",
+        "provider": "beethoven"
+    },
+    "ETH Geist Crypt": {
+        "active": true,
+        "address": "0x7773b95460A09C60DC95231272E093b7dD9Dd88F",
+        "provider": "geist"
+    },
+    "ETH Scream Crypt": {
+        "active": true,
+        "address": "0xA0821bBa2639B46bF2dFFf5537fD4952f41Dcd0f",
+        "provider": "scream"
+    },
+    "Exploding Shrapnel Beethoven-X Crypt": {
+        "active": true,
+        "address": "0xaDF7a6763d30bF4ff44fdbb5D47fD4FA22429D3f",
+        "provider": "beethoven"
+    },
+    "FRAX Scream Crypt": {
+        "active": true,
+        "address": "0xac8f38F40EFb46577EEfbB5abf471d1E9A454E75",
+        "provider": "scream"
+    },
+    "FRAX-FXS Spirit Crypt": {
+        "active": true,
+        "address": "0x3B2009d4e7BA2bfd593984812251f971e5d0B9EB",
+        "provider": "spirit"
+    },
+    "FRAX-fUSDT Liquid Crypt": {
+        "active": false,
+        "address": "0x3f6c2c24b24d837D17B4A91883595F7e6Bf71577",
+        "provider": "liquid"
+    },
+    "FTM Sonata Beethoven-X Crypt": {
+        "active": true,
+        "address": "0xE3f29A7477d7198CbeFE60919D2614ed764CB8E8",
+        "provider": "beethoven"
+    },
+    "FTM-AAVE Spooky Crypt": {
+        "active": true,
+        "address": "0x9371976A2a15C1d5f600137D6d79FabA7ac1617a",
+        "provider": "spooky"
+    },
+    "FTM-AAVE Waka Crypt": {
+        "active": true,
+        "address": "0x1f7ed379E359AE4C30C90D560edebc06baf8821F",
+        "provider": "waka"
+    },
+    "FTM-ANY Spirit Crypt": {
+        "active": true,
+        "address": "0x65e87E31E99Ad889a806a665fc3Ff622B7b85a59",
+        "provider": "spirit"
+    },
+    "FTM-ANY Spooky Crypt": {
+        "active": true,
+        "address": "0x3AAe4ABB7Dc375dF50e4c5F2251af8a615CCd4d9",
+        "provider": "spooky"
+    },
+    "FTM-APE Spooky Crypt": {
+        "active": true,
+        "address": "0x80a2442da702e86B36644a377051dd01570a778d",
+        "provider": "spooky"
+    },
+    "FTM-ATARI Waka Crypt": {
+        "active": true,
+        "address": "0x2C0c19CDe1C2B973E3cb4Fe77F7F58943d706EBc",
+        "provider": "waka"
+    },
+    "FTM-ATRI Zoo Crypt": {
+        "active": true,
+        "address": "0xeF62D4FAECDE52B983B39237Cc9bb13dcef8CD62",
+        "provider": "zoo"
+    },
+    "FTM-AVAX Spooky Crypt": {
+        "active": true,
+        "address": "0xf28027f51a265a0bd496372f5859Ed95CF51CFcB",
+        "provider": "spooky"
+    },
+    "FTM-BADGER Spooky Crypt": {
+        "active": true,
+        "address": "0xEe02A9AB3888f61B83ba8ef6887dccCDa5758041",
+        "provider": "spooky"
+    },
+    "FTM-BADGER Waka Crypt": {
+        "active": true,
+        "address": "0xE0234174aE3EF3d49524B322EcE3aDea14dF7d8d",
+        "provider": "waka"
+    },
+    "FTM-BAND Spooky Crypt": {
+        "active": true,
+        "address": "0xC7ba12d8ef255b2CEda437fDe9F32Fd9A9a2254b",
+        "provider": "spooky"
+    },
+    "FTM-BAND Waka Crypt": {
+        "active": true,
+        "address": "0xE9127f5db78C4eD414Effe290D370D21Ce409417",
+        "provider": "waka"
+    },
+    "FTM-BEETS Beethoven-X Crypt": {
+        "active": true,
+        "address": "0x6864d3063F21eb7Ae01259A7335E80a8f97BF11e",
+        "provider": "beethoven"
+    },
+    "FTM-BEETS Spooky Crypt": {
+        "active": true,
+        "address": "0xcfcfB4056586095C528be842ea8ac65ee7E6d06f",
+        "provider": "spooky"
+    },
+    "FTM-BNB Spirit Crypt": {
+        "active": true,
+        "address": "0x10E677f11E63f4A8A47168eD16FEb8B6651C2F60",
+        "provider": "spirit"
+    },
+    "FTM-BNB Spooky Crypt": {
+        "active": true,
+        "address": "0x3e65329738c5F5efFf7b48c8471bfA021098c3A7",
+        "provider": "spooky"
+    },
+    "FTM-BOMB Bomb Crypt": {
+        "active": true,
+        "address": "0x5b2e222dC7b276737BDc819E69FeA52aA3D9F31E",
+        "provider": "bomb"
+    },
+    "FTM-BOMB Waka Crypt": {
+        "active": true,
+        "address": "0x95BEfB18D455bb7CAF9Fb116f1f017AE0BF1dA5B",
+        "provider": "waka"
+    },
+    "FTM-BOO Spooky Crypt": {
+        "active": true,
+        "address": "0x8aC0Cd0710AD12D9748e3638CFB65296cF13F916",
+        "provider": "spooky"
+    },
+    "FTM-BOO Spooky LiquidV2 Crypt": {
+        "active": true,
+        "address": "0xD1134069Aa0a5E5Bc88DB532958Bc53E5Cf53AEA",
+        "provider": "liquidV2"
+    },
+    "FTM-BRUSH 0xDao Crypt": {
+        "active": true,
+        "address": "0x1036dA4E38Af11cda40042822285578563D2c936",
+        "provider": "oxdao"
+    },
+    "FTM-BTC Bomb Crypt": {
+        "active": true,
+        "address": "0x0506187C6cbd0eA6faD7Fd2FA0143a59e6f83330",
+        "provider": "bomb"
+    },
+    "FTM-BTC Liquid Crypt": {
+        "active": false,
+        "address": "0xb881BA1091B1683b3a86e4aFDF5CdF8021e29E7F",
+        "provider": "liquid"
+    },
+    "FTM-BTC Spirit Crypt": {
+        "active": false,
+        "address": "0xDcBCB13B6171c27Bb28718f652d0deeCC2e3CA71",
+        "provider": "spirit"
+    },
+    "FTM-BTC Spooky Crypt": {
+        "active": true,
+        "address": "0xb6aa9F7486A7C875E16B6229B3D78F9EF40371E7",
+        "provider": "spooky"
+    },
+    "FTM-BTC Waka Crypt": {
+        "active": true,
+        "address": "0x4801748103C5AE1a2044235134e706F6fa507550",
+        "provider": "waka"
+    },
+    "FTM-BTC Waka LiquidV2 Crypt": {
+        "active": true,
+        "address": "0x52f557E71a32EF187DBf1A9404D79F575DB55bFd",
+        "provider": "liquidV2"
+    },
+    "FTM-CFI Spooky Crypt": {
+        "active": true,
+        "address": "0x2081b10f8E512bb45C4799471A73120780C636Be",
+        "provider": "spooky"
+    },
+    "FTM-COVER Liquid Crypt": {
+        "active": false,
+        "address": "0x0146ee4158736957714A48f8805BDf5ca924e426",
+        "provider": "liquid"
+    },
+    "FTM-COVER Spirit Crypt": {
+        "active": true,
+        "address": "0xB3E59AcA13A2f3dde9A6716639381F0F42FF5c69",
+        "provider": "spirit"
+    },
+    "FTM-COVER Spooky Crypt": {
+        "active": false,
+        "address": "0x33b759D2C6C38B82c08f85e16e975e4b1984dad6",
+        "provider": "spooky"
+    },
+    "FTM-COVER Waka Crypt": {
+        "active": true,
+        "address": "0x0Aa2B830Ec1C939336d9909De289ca26986c2332",
+        "provider": "waka"
+    },
+    "FTM-CREAM Liquid Crypt": {
+        "active": false,
+        "address": "0x45B56B2329c8a12e5cC517e9D944d95b26C40deB",
+        "provider": "liquid"
+    },
+    "FTM-CREAM Spirit Crypt": {
+        "active": true,
+        "address": "0x50a97B66EdC4984c05a43ad883a7623f8aa82940",
+        "provider": "spirit"
+    },
+    "FTM-CREAM Spooky Crypt": {
+        "active": true,
+        "address": "0x65aa1390E5BE25758d1D62a52763873c2BBf4651",
+        "provider": "spooky"
+    },
+    "FTM-CREAM Waka Crypt": {
+        "active": true,
+        "address": "0x1aE25DA889A883b3f9330E4aF4b3888d67f56F97",
+        "provider": "waka"
+    },
+    "FTM-CREDIT Creditum Crypt": {
+        "active": true,
+        "address": "0x7277b22938F682120b2fbEa1b669177Dd4c99971",
+        "provider": "creditum"
+    },
+    "FTM-CRV 0xDao Crypt": {
+        "active": true,
+        "address": "0x238736b159912b01666490B4a5Bc3cBf1872D25D",
+        "provider": "oxdao"
+    },
+    "FTM-CRV Solidex Crypt": {
+        "active": true,
+        "address": "0xb299765Bbc0d6a3a54487eD470cebA7889984941",
+        "provider": "solidex"
+    },
+    "FTM-CRV WigoSwap Crypt": {
+        "active": true,
+        "address": "0xE83193b6F02b45b413c0FEDe2d87EA6F21d3572F",
+        "provider": "wigo"
+    },
+    "FTM-CURVE Liquid Crypt": {
+        "active": false,
+        "address": "0x17D40E7e7223db8A411852DE7a3cBae1CC304846",
+        "provider": "liquid"
+    },
+    "FTM-CURVE Spirit Crypt": {
+        "active": true,
+        "address": "0x9A66aEdFB1EAe20188747878E66D18ce6a412a23",
+        "provider": "spirit"
+    },
+    "FTM-CURVE Spooky Crypt": {
+        "active": true,
+        "address": "0xc45A0f4d5cc41FeA271Cbe235E7742aAE3d70BF5",
+        "provider": "spooky"
+    },
+    "FTM-CURVE Waka Crypt": {
+        "active": true,
+        "address": "0x6E6Ec7dE9eA7d505397F1Bb6822C238cfA1c882D",
+        "provider": "waka"
+    },
+    "FTM-DAI Liquid Crypt": {
+        "active": false,
+        "address": "0x1eA8F2E1A7794061137c6FF0bbd3c9B850DEb0F9",
+        "provider": "liquid"
+    },
+    "FTM-DAI Spooky Crypt": {
+        "active": true,
+        "address": "0xE2FAD0Ce7535cdd90A731CF0e067880b800F4Ef2",
+        "provider": "spooky"
+    },
+    "FTM-DAI Spooky LiquidV2 Crypt": {
+        "active": true,
+        "address": "0x2C4681872E95cA96cd93B969D0cA6E06bcC5f16B",
+        "provider": "liquidV2"
+    },
+    "FTM-DAI Waka Crypt": {
+        "active": true,
+        "address": "0x5D8fd8E94EAA8154ED97974F033696a7189b776c",
+        "provider": "waka"
+    },
+    "FTM-DAI WigoSwap Crypt": {
+        "active": true,
+        "address": "0xcE106648e37EC4F46D28D3E2b5a8EFd6ab102E1e",
+        "provider": "wigo"
+    },
+    "FTM-DEUS Spirit LiquidV2 Crypt": {
+        "active": true,
+        "address": "0x90fC2baF56CaA94637f1Ea8CC3F59F55ae04ed8a",
+        "provider": "liquidV2"
+    },
+    "FTM-DEUS Spooky Crypt": {
+        "active": true,
+        "address": "0xDc00C3e684e4F25A5C87c3D81eD3067C722F3d89",
+        "provider": "spooky"
+    },
+    "FTM-ETH Bomb Crypt": {
+        "active": true,
+        "address": "0xED46f06b32c9665770503DAF6106AaD421D855Eb",
+        "provider": "bomb"
+    },
+    "FTM-ETH Liquid Crypt": {
+        "active": false,
+        "address": "0x2767aAAf71fd92C6d07D49B07E352483f4ADb8e9",
+        "provider": "liquid"
+    },
+    "FTM-ETH Spirit Crypt": {
+        "active": false,
+        "address": "0x3dc9781783D9fDAe57350482Ccc7A5591FcFD2Da",
+        "provider": "spirit"
+    },
+    "FTM-ETH Spirit LiquidV2 Crypt": {
+        "active": true,
+        "address": "0xc064001490b9bbecf8F00daD6c32B32974C948Ed",
+        "provider": "liquidV2"
+    },
+    "FTM-ETH Spooky Crypt": {
+        "active": true,
+        "address": "0x16e15027d513AD43037a1A895309969834a6a081",
+        "provider": "spooky"
+    },
+    "FTM-ETH Spooky LiquidV2 Crypt": {
+        "active": true,
+        "address": "0x717F77E82Fbdc5Fef92E620222Ef666C0E7a7636",
+        "provider": "liquidV2"
+    },
+    "FTM-ETH Waka Crypt": {
+        "active": true,
+        "address": "0x7607b8B2bDF8Ddde192493b989C35D1f7D2E1a4f",
+        "provider": "waka"
+    },
+    "FTM-ETH Zoo Crypt": {
+        "active": true,
+        "address": "0xf69631E926ad07a9B5f28504B0938AEAab7B39D7",
+        "provider": "zoo"
+    },
+    "FTM-FONT Spooky Crypt": {
+        "active": true,
+        "address": "0xafD07EE94732aB74DC65F5B1e9308531169F6999",
+        "provider": "spooky"
+    },
+    "FTM-FOO Spooky Crypt": {
+        "active": true,
+        "address": "0xfac315db81A68d7986750b693Dea2DBdb2101df5",
+        "provider": "spooky"
+    },
+    "FTM-FRAX Spirit Crypt": {
+        "active": true,
+        "address": "0xd83e20a99685b45831D308f7Cc65306FBC3ef436",
+        "provider": "spirit"
+    },
+    "FTM-FRAX Spirit LiquidV2 Crypt": {
+        "active": true,
+        "address": "0x1153b0E84a734358Ef3979a1fCE95F444070E208",
+        "provider": "liquidV2"
+    },
+    "FTM-GEIST Solidex Crypt": {
+        "active": true,
+        "address": "0x1bFf94F3070FC29529a1444AaA5B942FD219A411",
+        "provider": "solidex"
+    },
+    "FTM-HND 0xDao Crypt": {
+        "active": true,
+        "address": "0x3738Ab840FA65451CF450DeEA484C474c15747c8",
+        "provider": "oxdao"
+    },
+    "FTM-HND Solidex Crypt": {
+        "active": true,
+        "address": "0x71D3191daA12Db0924550d39199f7681A5378E1C",
+        "provider": "solidex"
+    },
+    "FTM-IB 0xDao Crypt": {
+        "active": true,
+        "address": "0x0766AED42E9B48aa8F3E6bCAE925c6CF82B517eF",
+        "provider": "oxdao"
+    },
+    "FTM-IB Solidex Crypt": {
+        "active": true,
+        "address": "0x4201597B169d29E5452131B2fC41C52CFfA4991f",
+        "provider": "solidex"
+    },
+    "FTM-ICE Liquid Crypt": {
+        "active": false,
+        "address": "0x9EE4e27cED4bB5134A2FbDBd8a13fDA1411A9B05",
+        "provider": "liquid"
+    },
+    "FTM-ICE Spirit Crypt": {
+        "active": true,
+        "address": "0x3756497D7eE73b5dd1eB7A6bB43d4CBbC23f3Bbb",
+        "provider": "spirit"
+    },
+    "FTM-ICE Spooky Crypt": {
+        "active": true,
+        "address": "0x293fd84E873d662D775BADE47A46b173C470D399",
+        "provider": "spooky"
+    },
+    "FTM-ICE Spooky Popsicle Crypt": {
+        "active": true,
+        "address": "0x050e18dC8B88c2bEE3788Ba384032A12F66AD5d8",
+        "provider": "popsicle"
+    },
+    "FTM-ICE Sushi Popsicle Crypt": {
+        "active": true,
+        "address": "0x2DF7339d5f82E1E585AC6b17251187DDe570Ed15",
+        "provider": "popsicle"
+    },
+    "FTM-ICE Waka Crypt": {
+        "active": true,
+        "address": "0xbE165A11B5b9C776132530Bcd3ad6de7Db358b8b",
+        "provider": "waka"
+    },
+    "FTM-JOE Spooky Crypt": {
+        "active": true,
+        "address": "0x407c6228b13166396B524fae5514EC3d4077Aa7f",
+        "provider": "spooky"
+    },
+    "FTM-JUST SPIRIT CRYPT": {
+        "active": true,
+        "address": "0xAD29698abe9f09D5b570eED119102a411436Dc80",
+        "provider": "spirit"
+    },
+    "FTM-KEK Spooky Crypt": {
+        "active": true,
+        "address": "0x8A54bF952e09B3503a6c3cA428a0985Be8aFDB7b",
+        "provider": "spooky"
+    },
+    "FTM-LINK Liquid Crypt": {
+        "active": false,
+        "address": "0x7C4Ad3587022fEa1dce7a594653091AAf0e6A6e6",
+        "provider": "liquid"
+    },
+    "FTM-LINK Spirit Crypt": {
+        "active": true,
+        "address": "0x7BEE3Db0E920E34972bC36Cc9488D33A77f687D5",
+        "provider": "spirit"
+    },
+    "FTM-LINK Spirit LiquidV2 Crypt": {
+        "active": true,
+        "address": "0xDd0268e3d8AaD631DeE1416Ece48593DC934954D",
+        "provider": "liquidV2"
+    },
+    "FTM-LINK Spooky Crypt": {
+        "active": true,
+        "address": "0x996CFF2cD997387c5B68b655544B69385927DcF9",
+        "provider": "spooky"
+    },
+    "FTM-LINK Spooky LiquidV2 Crypt": {
+        "active": true,
+        "address": "0x79Ff05D97AB2983EaAdb03Ef715a14FC6AD4f366",
+        "provider": "liquidV2"
+    },
+    "FTM-LINK Waka Crypt": {
+        "active": true,
+        "address": "0x45507E59F21C79f17EAb66636ba8044d95FA3437",
+        "provider": "waka"
+    },
+    "FTM-LQDR 0xDao Crypt": {
+        "active": true,
+        "address": "0x8DCFCD01022A41eEC24b9010444007fD617dAd9a",
+        "provider": "oxdao"
+    },
+    "FTM-LQDR Liquid Crypt": {
+        "active": false,
+        "address": "0x400528CBb7b4C7597eeeCA9Eb8132916eEeB5914",
+        "provider": "liquid"
+    },
+    "FTM-LQDR Solidex Crypt": {
+        "active": true,
+        "address": "0xE64dbC03C0e61347D1a213486777860c2b142015",
+        "provider": "solidex"
+    },
+    "FTM-LQDR Spirit LiquidV2 Crypt": {
+        "active": true,
+        "address": "0x5733bf71744506849a279272585131545068D3cA",
+        "provider": "liquidV2"
+    },
+    "FTM-LQDR Spooky Crypt": {
+        "active": true,
+        "address": "0x1033d844A336CA8934246481A4d2C9c60e0473D5",
+        "provider": "spooky"
+    },
+    "FTM-LUNA Spooky Crypt": {
+        "active": true,
+        "address": "0x0B337aea6A47378031a7ca5E20d7b985Dff11F09",
+        "provider": "spooky"
+    },
+    "FTM-MAI Spirit LiquidV2 Crypt": {
+        "active": true,
+        "address": "0xdCCc02Cb88f0fbD2D737ab8AB62F1641D37231bC",
+        "provider": "liquidV2"
+    },
+    "FTM-MIM Spirit Crypt": {
+        "active": true,
+        "address": "0x8b4F8d06b2edc72FB841D40037490fBCA3a633d9",
+        "provider": "spirit"
+    },
+    "FTM-MIM Spirit LiquidV2 Crypt": {
+        "active": true,
+        "address": "0xC9056c7A22e171D0ED931CbD9Fd05569c35Eac37",
+        "provider": "liquidV2"
+    },
+    "FTM-MIM Spooky Crypt": {
+        "active": true,
+        "address": "0x2cE2fA73FC3e451bFcfa0E50Ee02c9FE0115DA39",
+        "provider": "spooky"
+    },
+    "FTM-MIM Spooky LiquidV2 Crypt": {
+        "active": true,
+        "address": "0xD2fc66523B411777ed6DaE969aa72EFbF76D9467",
+        "provider": "liquidV2"
+    },
+    "FTM-MST Spooky Crypt": {
+        "active": true,
+        "address": "0xBC4508E6dFa08cb301066C35a723F331A484a2DE",
+        "provider": "spooky"
+    },
+    "FTM-MULTI 0xDao Crypt": {
+        "active": true,
+        "address": "0xe000a57c2FDF54F930bC75dd046060FF1caB8B14",
+        "provider": "oxdao"
+    },
+    "FTM-MULTI Solidex Crypt": {
+        "active": true,
+        "address": "0x11fE19404dDb6b95b765a2667F583dCF70d13725",
+        "provider": "solidex"
+    },
+    "FTM-MULTI Spooky Crypt": {
+        "active": true,
+        "address": "0x335E1D1496daeb030C6d9B69e00a51d8e3d08000",
+        "provider": "spooky"
+    },
+    "FTM-OATH Solidex Crypt": {
+        "active": true,
+        "address": "0xf9D0771d83856Be7Ab6209D28055f76C5Df16bD7",
+        "provider": "solidex"
+    },
+    "FTM-OOE Spooky Crypt": {
+        "active": true,
+        "address": "0x6Ccd7CF744253238Ee2Fe37194ABb806CDB37fF9",
+        "provider": "spooky"
+    },
+    "FTM-OXDv2 0xDao Crypt": {
+        "active": true,
+        "address": "0xf000209aECE04251486f5E64d800a0A38b84770b",
+        "provider": "oxdao"
+    },
+    "FTM-OXDv2 Solidex Crypt": {
+        "active": true,
+        "address": "0xE4791818ce288Df603301649bCB012134C043d20",
+        "provider": "solidex"
+    },
+    "FTM-PILLS Spirit LiquidV2 Crypt": {
+        "active": true,
+        "address": "0x0f4F27643bE613399EFc925E8Eb69233b2A208AC",
+        "provider": "liquidV2"
+    },
+    "FTM-RAI SPIRIT CRYPT": {
+        "active": true,
+        "address": "0x51572c15E4F1787403d736feea78887C81775c35",
+        "provider": "spirit"
+    },
+    "FTM-RDL 0xDao Crypt": {
+        "active": true,
+        "address": "0x02E3eFeD80972ea6B4c53c742e10488D1efC0Fe2",
+        "provider": "oxdao"
+    },
+    "FTM-RDL Solidex Crypt": {
+        "active": true,
+        "address": "0x5beb4A4a2dC745D2E0d20ef84B523B465f1Eb5b6",
+        "provider": "solidex"
+    },
+    "FTM-SCREAM Solidex Crypt": {
+        "active": true,
+        "address": "0x0bB700d297C9e8e94eaf68Af7573a855B3f3403D",
+        "provider": "solidex"
+    },
+    "FTM-SCREAM Spooky Crypt": {
+        "active": true,
+        "address": "0x7dA353316E76Be1CA89E7aC06C262Dcb2B5b8C09",
+        "provider": "spooky"
+    },
+    "FTM-SCREAM Spooky LiquidV2 Crypt": {
+        "active": true,
+        "address": "0xAa9948a86A6c6Acb4dFDc9AE74a952Ea353c7Ee6",
+        "provider": "liquidV2"
+    },
+    "FTM-SCREAM SteakV2 Crypt": {
+        "active": true,
+        "address": "0x8f8663a7E1728D8AD267Fbf0e6ECc9BbCC2F7f42",
+        "provider": "steak"
+    },
+    "FTM-SEX 0xDao Crypt": {
+        "active": true,
+        "address": "0xd7B29a03352C998DCe66571D19786c2E05dD8623",
+        "provider": "oxdao"
+    },
+    "FTM-SEX Solidex Crypt": {
+        "active": true,
+        "address": "0xfc118182065FE337C56bA8145947A8D772d0a477",
+        "provider": "solidex"
+    },
+    "FTM-SHIBA Waka Crypt": {
+        "active": true,
+        "address": "0xEBa4D5918fe1cb6f7542BC62992f30595051C124",
+        "provider": "waka"
+    },
+    "FTM-SHRAP Bomb Crypt": {
+        "active": true,
+        "address": "0xe866158bf5e37e8857759131288B20515752Af92",
+        "provider": "bomb"
+    },
+    "FTM-SNX Liquid Crypt": {
+        "active": false,
+        "address": "0xbcd3043D0B7Fe0931a931af57A89511AB7A20401",
+        "provider": "liquid"
+    },
+    "FTM-SNX Spooky Crypt": {
+        "active": true,
+        "address": "0x9545d353C37d887272B86d9cBD86db0044Ccdd96",
+        "provider": "spooky"
+    },
+    "FTM-SNX Waka Crypt": {
+        "active": true,
+        "address": "0x8C2847c1423404ACb4B3597a5e9394A38ABb9e6a",
+        "provider": "waka"
+    },
+    "FTM-SOLID 0xDao Crypt": {
+        "active": true,
+        "address": "0x15b962d1E21d3209FacaC1b7229D5c364ba69933",
+        "provider": "oxdao"
+    },
+    "FTM-SOLIDSEX Solidex Crypt": {
+        "active": true,
+        "address": "0xaAB8369086AFC5B8Dc5152fd099138c8bac2a86A",
+        "provider": "solidex"
+    },
+    "FTM-SOLIDsex 0xDao Crypt": {
+        "active": true,
+        "address": "0x280C1b8E81fc5eb7e74dB1485DDB067B2242B211",
+        "provider": "oxdao"
+    },
+    "FTM-SPELL Spooky Crypt": {
+        "active": true,
+        "address": "0x0D9C45279e145cb4E97AbB6Ba404bA02753E7118",
+        "provider": "spooky"
+    },
+    "FTM-SPIRIT Spirit Crypt": {
+        "active": false,
+        "address": "0x42eE4062C6fBD4C454dC3890D71980b320EE8040",
+        "provider": "spirit"
+    },
+    "FTM-SPIRIT Spirit LiquidV2 Crypt": {
+        "active": true,
+        "address": "0x294C5F913ac1F90E97aEBfDf4f296ed8198D22d9",
+        "provider": "liquidV2"
+    },
+    "FTM-STEAK SteakV2 Crypt": {
+        "active": false,
+        "address": "0x1708B353b5048aCF027621299F9E55C09765784e",
+        "provider": "steak"
+    },
+    "FTM-SUSHI Liquid Crypt": {
+        "active": false,
+        "address": "0xDA68eD4DeB12FA270823380a1b31ffC88D03B8C7",
+        "provider": "liquid"
+    },
+    "FTM-SUSHI Spirit Crypt": {
+        "active": true,
+        "address": "0x36c72e570913084FB3814aDa4Cf10fA14D57B2Ab",
+        "provider": "spirit"
+    },
+    "FTM-SUSHI Spirit LiquidV2 Crypt": {
+        "active": true,
+        "address": "0x148131E156D0F1c15f2DCf9Bced92B429a91aC6C",
+        "provider": "liquidV2"
+    },
+    "FTM-SUSHI Spooky Crypt": {
+        "active": true,
+        "address": "0x2d3239ac528C82001AA381d6a7dc04B3b17f7406",
+        "provider": "spooky"
+    },
+    "FTM-SUSHI Spooky LiquidV2 Crypt": {
+        "active": true,
+        "address": "0x1F1fC84F956300Fdf49C9F5cCaF0B7161e764ba6",
+        "provider": "liquidV2"
+    },
+    "FTM-SUSHI Waka Crypt": {
+        "active": true,
+        "address": "0x3B5f7a4a846A3A431d8680C6eF5A4896578Fd6cC",
+        "provider": "waka"
+    },
+    "FTM-SYN 0xDao Crypt": {
+        "active": true,
+        "address": "0xb9BF14bE1A6Ed7cD9822f28DCfcE1F5deF110569",
+        "provider": "oxdao"
+    },
+    "FTM-Shade Spooky Crypt": {
+        "active": true,
+        "address": "0x4f5C107C76e3BF953E6C9E6860773FF36DF1829a",
+        "provider": "spooky"
+    },
+    "FTM-Steak Spooky Crypt": {
+        "active": true,
+        "address": "0x242578F0F3C14880f9B9D8A62e13EbD720eE37d8",
+        "provider": "spooky"
+    },
+    "FTM-TOMB Solidex Crypt": {
+        "active": true,
+        "address": "0xd9967ce4ABf017d01f456Afa68a748121678B86e",
+        "provider": "solidex"
+    },
+    "FTM-TOMB Tomb (TombSwap) Crypt": {
+        "active": true,
+        "address": "0x520245479E8091a1ceE878281aFCD0d2810e7137",
+        "provider": "tomb"
+    },
+    "FTM-TOMB Tomb Crypt": {
+        "active": true,
+        "address": "0xeb43Cae19C8914B174c3680e6d5c1CF138eF04EB",
+        "provider": "tomb"
+    },
+    "FTM-TREEB Spooky Crypt": {
+        "active": true,
+        "address": "0x9F130144BAC4CEF1322daa95A508Fa97385Fa1cB",
+        "provider": "spooky"
+    },
+    "FTM-TSHARE Tomb (TombSwap) Crypt": {
+        "active": true,
+        "address": "0x9C661130e2c1c43Fc3108a567d5F5C6Ba5a598B0",
+        "provider": "tomb"
+    },
+    "FTM-TSHARE Tomb Crypt": {
+        "active": true,
+        "address": "0xdD15c64C7cB2FC37059d0adfaB9647DDDc115336",
+        "provider": "tomb"
+    },
+    "FTM-USDC 0xDao Crypt": {
+        "active": true,
+        "address": "0xbF609F3cff33C1B65AbA9B851CA9E2223da39370",
+        "provider": "oxdao"
+    },
+    "FTM-USDC Bomb Crypt": {
+        "active": true,
+        "address": "0x7c4cD438A5CB1218866d17fb24dD4DD9DdAFe8f3",
+        "provider": "bomb"
+    },
+    "FTM-USDC Excalibur Crypt": {
+        "active": true,
+        "address": "0x58a5D0111BD6E0aEcC33ac8254eF57F2871492e6",
+        "provider": "excalibur"
+    },
+    "FTM-USDC Spirit Crypt": {
+        "active": true,
+        "address": "0xe36fBc540af0799cC516711Df80a77261b8b3AFd",
+        "provider": "spirit"
+    },
+    "FTM-USDC Spirit LiquidV2 Crypt": {
+        "active": true,
+        "address": "0xD6F1186F2762893b2B68DEF108629485902EE5C8",
+        "provider": "liquidV2"
+    },
+    "FTM-USDC Spooky Crypt": {
+        "active": true,
+        "address": "0x0E6aDe2Dec2C4e93503b5A17c2FA94719a886747",
+        "provider": "spooky"
+    },
+    "FTM-USDC Spooky LiquidV2 Crypt": {
+        "active": true,
+        "address": "0x4d61F7F7A2040ceE650ed2a29196da6c83F8641C",
+        "provider": "liquidV2"
+    },
+    "FTM-USDC Tomb (TombSwap) Crypt": {
+        "active": true,
+        "address": "0x05f87EF8f1Dc92Bd9F0e9D63F91eBC7f673c5393",
+        "provider": "tomb"
+    },
+    "FTM-USDC Waka Crypt": {
+        "active": true,
+        "address": "0x615F3A0c551b2a33eE26b987DaEc8721AD8dB987",
+        "provider": "waka"
+    },
+    "FTM-USDC Waka LiquidV2 Crypt": {
+        "active": true,
+        "address": "0xC491B25eEFF34d70ED967C61bFa60BdAc3E4B627",
+        "provider": "liquidV2"
+    },
+    "FTM-USDC WigoSwap Crypt": {
+        "active": true,
+        "address": "0xbB907e1E5f5FadaaE2E1A81fA064700897C8B8DB",
+        "provider": "wigo"
+    },
+    "FTM-USDC Zoo Crypt": {
+        "active": true,
+        "address": "0xE158E6562EAdB7f1b15624bF5E7EdEE982a5f346",
+        "provider": "zoo"
+    },
+    "FTM-UST Excalibur Crypt": {
+        "active": true,
+        "address": "0xe336dCfaE19DdE1F4D3bCf5Da45662216d3f09fE",
+        "provider": "excalibur"
+    },
+    "FTM-UST Spooky Crypt": {
+        "active": true,
+        "address": "0x507Db6c0a7378917e1C619a6989661BD7d4Aa327",
+        "provider": "spooky"
+    },
+    "FTM-WAKA Waka Crypt": {
+        "active": true,
+        "address": "0x60E63c1AE57CA40976fCf597D86D734141f34b5E",
+        "provider": "waka"
+    },
+    "FTM-WAKA Waka LiquidV2 Crypt": {
+        "active": true,
+        "address": "0xdc92815AE3B005F7B6874800cC69200a3A72650A",
+        "provider": "liquidV2"
+    },
+    "FTM-WBTC Spirit LiquidV2 Crypt": {
+        "active": true,
+        "address": "0x39f2E23fBc5Cd4D4597cCeca5614745ACB355bf9",
+        "provider": "liquidV2"
+    },
+    "FTM-WIGO WigoSwap Crypt": {
+        "active": true,
+        "address": "0x51CC17E381DafceabA1D532EDe20A30607701db8",
+        "provider": "wigo"
+    },
+    "FTM-WILD Zoo Crypt": {
+        "active": true,
+        "address": "0x6c893B711ED0f048BaB2EF96F6A1d7767b8fF115",
+        "provider": "zoo"
+    },
+    "FTM-WOO Spooky Crypt": {
+        "active": true,
+        "address": "0xA98d9a68E0B8938d9DBE289A0FeDb4feCFFbA59B",
+        "provider": "spooky"
+    },
+    "FTM-WOOFY Spooky Crypt": {
+        "active": true,
+        "address": "0xC6F8b1c8996d6F1325922063d339C20965f8413A",
+        "provider": "spooky"
+    },
+    "FTM-YEL Spooky Crypt": {
+        "active": true,
+        "address": "0xF2217A9903390201648e14d37018a874DC5711Cd",
+        "provider": "spooky"
+    },
+    "FTM-YFI 0xDao Crypt": {
+        "active": true,
+        "address": "0xE21E25C0c0De8d698759C78A77647e4a9bF96E7c",
+        "provider": "oxdao"
+    },
+    "FTM-YFI Liquid Crypt": {
+        "active": false,
+        "address": "0xFbfE2a1CC0A08b3c1D1E78Dde870F066A7E7B4a0",
+        "provider": "liquid"
+    },
+    "FTM-YFI Spirit Crypt": {
+        "active": true,
+        "address": "0xD0a5Db0a2e8fB17278A1F954b095C5A37928175F",
+        "provider": "spirit"
+    },
+    "FTM-YFI Waka Crypt": {
+        "active": true,
+        "address": "0x6E3D411f11a131aee7fFD1656A5ef7a4EAB53558",
+        "provider": "waka"
+    },
+    "FTM-YOSHI Spooky Crypt": {
+        "active": true,
+        "address": "0xCD078f3c3F1C91d3Ca5C3C0b49556A876c12119A",
+        "provider": "spooky"
+    },
+    "FTM-ZOO Liquid Crypt": {
+        "active": false,
+        "address": "0xcF37066Be0eDb8b2f0A3a8029Df5be913207616b",
+        "provider": "liquid"
+    },
+    "FTM-ZOO Spirit Crypt": {
+        "active": true,
+        "address": "0xD40A78dCD08DC976031C50EeA462b5E2BBA1b470",
+        "provider": "spirit"
+    },
+    "FTM-ZOO Spooky Crypt": {
+        "active": true,
+        "address": "0xA6fbc4bBfcA634056e44A44327d495A800A0fCf6",
+        "provider": "spooky"
+    },
+    "FTM-ZOO Waka CRYPT": {
+        "active": true,
+        "address": "0x6a2049F5D4e53417B45D7F808bBb011B15eecf5c",
+        "provider": "waka"
+    },
+    "FTM-beFTM 0xDao Crypt": {
+        "active": true,
+        "address": "0x3DdCDAE6b1Bd75af97c799E05A8262CFf1B3087f",
+        "provider": "oxdao"
+    },
+    "FTM-beFTM Solidex Crypt": {
+        "active": true,
+        "address": "0x796a2166be078D8AebBDf2ccBA8C2C2385adA833",
+        "provider": "solidex"
+    },
+    "FTM-beFTM Spooky Crypt": {
+        "active": true,
+        "address": "0xCCE3f1F0371aff8693f58c3bCB41887630045e5F",
+        "provider": "spooky"
+    },
+    "FTM-fUSDT Liquid Crypt": {
+        "active": false,
+        "address": "0x652BCaBe8aa3dB5798742E3A943F7d6dF16b6534",
+        "provider": "liquid"
+    },
+    "FTM-fUSDT Spirit Crypt": {
+        "active": true,
+        "address": "0xC4c1137f5D8Adc8150b52BF0a0754aD256b6ab2a",
+        "provider": "spirit"
+    },
+    "FTM-fUSDT Spirit LiquidV2 Crypt": {
+        "active": true,
+        "address": "0x5028c0BdD6A9a5eE0F7f149414ebD60D062f289a",
+        "provider": "liquidV2"
+    },
+    "FTM-fUSDT Spooky Crypt": {
+        "active": true,
+        "address": "0xB5cf8877C50A43c6597013D296AA31679D829FfF",
+        "provider": "spooky"
+    },
+    "FTM-fUSDT Spooky LiquidV2 Crypt": {
+        "active": true,
+        "address": "0xDfB597C61679Af9404628719D00742787a4B2977",
+        "provider": "liquidV2"
+    },
+    "FTM-fUSDT Waka Crypt": {
+        "active": true,
+        "address": "0xd6D9e04eB60e60BC8954453E33Cf9Ad5aa470755",
+        "provider": "waka"
+    },
+    "FTM-fUSDT Zoo Crypt": {
+        "active": true,
+        "address": "0x2555Dc7c1c6E99FA362Fefa05Aa8E65db53d97d5",
+        "provider": "zoo"
+    },
+    "FTM-gALCX Spooky Crypt": {
+        "active": true,
+        "address": "0x8f6F1d58Ba65a021b9dd1045fF976CC07a7a9241",
+        "provider": "spooky"
+    },
+    "FTM-sFTMX Spooky Crypt": {
+        "active": true,
+        "address": "0x873c088A05AfB0F254fe97b8A6677ee41a3F61BD",
+        "provider": "stader"
+    },
+    "FTM-wsHEC Spooky Crypt": {
+        "active": true,
+        "address": "0xB8F5462F851c3D72cadf093562F4E64b554F0dF4",
+        "provider": "spooky"
+    },
+    "FTM-wsSPA Spooky Crypt": {
+        "active": true,
+        "address": "0x13ac9FdA2B527b0c492edDaecB8283BBdC552807",
+        "provider": "spooky"
+    },
+    "FXS-FRAX 0xDao Crypt": {
+        "active": true,
+        "address": "0xe2CDEb812f641505B0673EC90e13E37A5aA742AE",
+        "provider": "oxdao"
+    },
+    "Fantom Conservatory Beethoven-X Crypt": {
+        "active": true,
+        "address": "0x5ca8499a055eDc5b31e4674e2dB58a738A17F622",
+        "provider": "beethoven"
+    },
+    "Fantom of the Opera Beethoven-X Crypt": {
+        "active": true,
+        "address": "0x7622b09eDd2a32c7a3a8a3C45D273a7C0BaDA196",
+        "provider": "beethoven"
+    },
+    "Fantom of the Opera, Yearn Boosted Beethoven-X Crypt": {
+        "active": true,
+        "address": "0xA2c38eB053c0b348799960d224f90afC745b0818",
+        "provider": "beethoven"
+    },
+    "Fresh Beets Beethoven-X Crypt": {
+        "active": true,
+        "address": "0x7947aaDfF0f3a3B9862BfD3Ba3C3e98ec9c50A72",
+        "provider": "beethoven"
+    },
+    "Fresh Statera Maxi Duet Beethoven-X Crypt": {
+        "active": true,
+        "address": "0xDb986d1E2b90AeeF43428F869aF8064F60143d44",
+        "provider": "beethoven"
+    },
+    "From Gods, Boosted And Blessed Beethoven-X Crypt": {
+        "active": true,
+        "address": "0x1d4f5677FC58734f2011b6FB7AfEbAe2b04F269e",
+        "provider": "beethoven"
+    },
+    "Geist Single Sided Staking Crypt": {
+        "active": true,
+        "address": "0x09513B48033eaA50a192Ecf8d65e2ea5211eabf7",
+        "provider": "geist"
+    },
+    "Gelato Genesis Beethoven-X Crypt": {
+        "active": true,
+        "address": "0x78f6F7A99846accEcCD33Aef1bd4CcC249262Fd1",
+        "provider": "beethoven"
+    },
+    "Ghost Reveries Beethoven-X Crypt": {
+        "active": true,
+        "address": "0xf733c7D08e58337eE4483417a7C46e080D9e5D10",
+        "provider": "beethoven"
+    },
+    "Guqin Qi V2 Beethoven-X Crypt": {
+        "active": true,
+        "address": "0xF75947cF6932f59a4Da7322e24Bb5D2e71539b55",
+        "provider": "beethoven"
+    },
+    "In The Hall Of The Mountain King Beethoven-X Crypt": {
+        "active": true,
+        "address": "0x660f139561E068FC25dCee9436F7764356c6d0f0",
+        "provider": "beethoven"
+    },
+    "JUST-FTM Spirit Crypt": {
+        "active": false,
+        "address": "0x6722358Ce78a0f30928F2964Cd29a640E614ca87",
+        "provider": "spirit"
+    },
+    "LINK Geist Crypt": {
+        "active": true,
+        "address": "0x0E1976fcaa782Cf00F32685DB8A10bA139E1BBE3",
+        "provider": "geist"
+    },
+    "LINK Scream Crypt": {
+        "active": true,
+        "address": "0x3252d1Aa08D53eb5A9f6bb5c8c41F40d899864d6",
+        "provider": "scream"
+    },
+    "LQDR-SPIRIT Spirit LiquidV2 Crypt": {
+        "active": true,
+        "address": "0xe3980E4Efd8F6767f547c459C8824a508e84dFB6",
+        "provider": "liquidV2"
+    },
+    "LQDR-fUSDT Liquid Crypt": {
+        "active": false,
+        "address": "0x6C762a69527d2cee2aeef5F64574808f4277740E",
+        "provider": "liquid"
+    },
+    "LiquidV2 Two Smoking Fantoms Crypt": {
+        "active": true,
+        "address": "0xEe12DE8FDb15c0a90A9150Ed03Adf45334B597aa",
+        "provider": "stader"
+    },
+    "Lock, Staked And Two Smoking Fantoms": {
+        "active": true,
+        "address": "0x2C02c3C70324a162bB0572488eA6317A45443059",
+        "provider": "stader"
+    },
+    "MAI Tarot Crypt": {
+        "active": true,
+        "address": "0x7D2F7B4001322318050Fc11aD3d1dda5d2c82d38",
+        "provider": "tarot"
+    },
+    "MIM Scream Crypt": {
+        "active": true,
+        "address": "0x7340d1F5F5C4f6a72F2cAbE7881e5DdeFEA707fF",
+        "provider": "scream"
+    },
+    "Mor Steady Beets, Yearn Boosted Beethoven-X Crypt": {
+        "active": true,
+        "address": "0x3dA2DeCE625fAeB285e0c3658d4029b9b346fEb5",
+        "provider": "beethoven"
+    },
+    "OATH-FTM 0xDao Crypt": {
+        "active": true,
+        "address": "0x0c61C9Df869b8dCEe9d76823A9aA9CC73E82A713",
+        "provider": "oxdao"
+    },
+    "OXDv2-DEI 0xDao Crypt": {
+        "active": true,
+        "address": "0xf4bdf459cC33e2302C9c7DDA19a08A9daE432Fe3",
+        "provider": "oxdao"
+    },
+    "One God Between Two Stables Beethoven-X Crypt": {
+        "active": true,
+        "address": "0x60FEbdD9826b79584e9aDA6B632Ec0686d0a045C",
+        "provider": "beethoven"
+    },
+    "Overture Grim In The Mirrorworld": {
+        "active": true,
+        "address": "0x4408801F5E7b0e5a63a3B4473CdeFFF90c8f81C7",
+        "provider": "beethoven"
+    },
+    "Paint It Black Beethoven-X Crypt": {
+        "active": true,
+        "address": "0x15A2326f13c780AfBB6E69788800c8592FBe1eDd",
+        "provider": "beethoven"
+    },
+    "Phantom Dai Opera Beethoven-X Crypt": {
+        "active": true,
+        "address": "0x3fe884ed6Da7C84F2d7Cecf5941d60e5318DC9d2",
+        "provider": "beethoven"
+    },
+    "Pirate In C Beethoven-X Crypt": {
+        "active": true,
+        "address": "0xc5713dbde5D85648465091f4e33624fd2E598962",
+        "provider": "beethoven"
+    },
+    "Pirate Party Beethoven-X Crypt": {
+        "active": true,
+        "address": "0xa9ca7185c0D3D71dF19C71Af6Bb007E2a773BFfD",
+        "provider": "beethoven"
+    },
+    "SCARAB-GSCARAB 0xDao Crypt": {
+        "active": true,
+        "address": "0x1853da39cc20E88866d1Be5680B3f80BF018911b",
+        "provider": "oxdao"
+    },
+    "SCREAM-xSCREAM Solidex Crypt": {
+        "active": true,
+        "address": "0x9e95f1b498283340f8357Eac5b412965f5886c12",
+        "provider": "solidex"
+    },
+    "SHADE-FTM Shade Crypt": {
+        "active": true,
+        "address": "0x577578e0EED0d13F1Ef28B0867932f0fF15B2FeD",
+        "provider": "shade"
+    },
+    "SHRAP-USDC Bomb Crypt": {
+        "active": true,
+        "address": "0x4fc2181e386fA1C050e48aB131A02075E725b0e2",
+        "provider": "bomb"
+    },
+    "SOLID-OXSOLID 0xDao Crypt": {
+        "active": true,
+        "address": "0x427C5DAfA7bF6318fEc405aC8b2690007e950E66",
+        "provider": "oxdao"
+    },
+    "SOLID-OXSOLID Solidex Crypt": {
+        "active": true,
+        "address": "0x54309cf6fBAAC694b40c34fD7893c3a35bf03f0a",
+        "provider": "solidex"
+    },
+    "SOLID-SOLIDsex 0xDao Crypt": {
+        "active": true,
+        "address": "0xEac0d51b9294BA9e8f39FdED754325F052615fCE",
+        "provider": "oxdao"
+    },
+    "SOLIDsex-g3CRV 0xDao Crypt": {
+        "active": true,
+        "address": "0x60f6477E7C43AB14862FD20BFECFDDa50084b16B",
+        "provider": "oxdao"
+    },
+    "SPELL Scream Crypt": {
+        "active": true,
+        "address": "0x0A7a9E16AAE33124bF29979e13d8E0fa94639334",
+        "provider": "scream"
+    },
+    "SPIRIT-BEAN Spirit Crypt": {
+        "active": false,
+        "address": "0x5200A61F67A60B2A6305C5D9d09D9B3A9387d74D",
+        "provider": "spirit"
+    },
+    "SPIRIT-BNB Spirit Crypt": {
+        "active": true,
+        "address": "0xBc23fCE02F409Bed3BfB67b1F63374954fc9768C",
+        "provider": "spirit"
+    },
+    "SPIRIT-CZTEARS Spirit Crypt": {
+        "active": false,
+        "address": "0x0A52Faf05a5a0a3f1Ef9C2200c31114220e5BcED",
+        "provider": "spirit"
+    },
+    "SPIRIT-DAI Spirit Crypt": {
+        "active": true,
+        "address": "0x6e7a6ad7621842704986CbAd3f38aB49c0C4eB27",
+        "provider": "spirit"
+    },
+    "SPIRIT-LINSPIRIT 0xDao Crypt": {
+        "active": true,
+        "address": "0x2EF2C95278a972D54c1058dF7c4e00744cE7F370",
+        "provider": "oxdao"
+    },
+    "SPIRIT-RAINSPIRIT Solidex Crypt": {
+        "active": true,
+        "address": "0x4d37e3901C656adC24c89c2C08e078d9f188201F",
+        "provider": "solidex"
+    },
+    "SPIRIT-UNIDX SPIRIT CRYPT": {
+        "active": true,
+        "address": "0xA20bB5a3FF26B7578492943a38d5190A4C3DF33B",
+        "provider": "spirit"
+    },
+    "STEAK-iFUSD SteakV2 Crypt": {
+        "active": false,
+        "address": "0x119b781010413437617D329D65ba32C38C378622",
+        "provider": "steak"
+    },
+    "Spirit Single-Sided Crypt": {
+        "active": false,
+        "address": "0xDA40e2335041E540510A678de7D52FB90c1418F2",
+        "provider": "spirit"
+    },
+    "Spirit-Casper Spirit Crypt": {
+        "active": false,
+        "address": "0x213005EF4Bf4e54Dd5306902962e7Afcd6964831",
+        "provider": "spirit"
+    },
+    "Spirit-LQDR Spirit Crypt": {
+        "active": true,
+        "address": "0x34c9c7ECcaBDf923209e8d468adFEb6e881F2e82",
+        "provider": "spirit"
+    },
+    "Spirit-xSteak Spirit Crypt [NEW]": {
+        "active": true,
+        "address": "0x0e92276CB622d131A3d2AaDb5C7EAfe925223C67",
+        "provider": "spirit"
+    },
+    "Spooky Melodies Beethoven-X Crypt": {
+        "active": true,
+        "address": "0xc78fA18763e81D3446050f85d98791C69BFBb923",
+        "provider": "beethoven"
+    },
+    "Stable Credit Sonata Beethoven-X Crypt": {
+        "active": true,
+        "address": "0x049eb610b59feEC46E0bBf58C4A721d81bDa2a27",
+        "provider": "beethoven"
+    },
+    "Steady Beets Beethoven-X Crypt": {
+        "active": true,
+        "address": "0xc10dA6c72816BFf39B5EB11A3Ebec11674B43d0f",
+        "provider": "beethoven"
+    },
+    "Steady Beets, Act II Beethoven-X Crypt": {
+        "active": true,
+        "address": "0x9AA36eA686D2d639C574BA0bfe4AD6899fb349B8",
+        "provider": "beethoven"
+    },
+    "Steady Beets, Yearn Boosted Beethoven-X Crypt": {
+        "active": true,
+        "address": "0x670eC7b8F69a8016899B98288Fc0112173e4dABc",
+        "provider": "beethoven"
+    },
+    "Symphony Nr 10. Beethoven-X Crypt": {
+        "active": true,
+        "address": "0x5c98dc41A468389Ff5b83217ea8A3E33EE975a2a",
+        "provider": "beethoven"
+    },
+    "TAROT-xTAROT Solidex Crypt": {
+        "active": true,
+        "address": "0x08BF5Ace4b81053ef46Db79AfE159fF6c94E026B",
+        "provider": "solidex"
+    },
+    "TOMB Tarot Crypt": {
+        "active": true,
+        "address": "0x235A76b2747728Ec5CBBc36642dc27308C9189be",
+        "provider": "tarot"
+    },
+    "TOMB-MAI Tomb (TombSwap) Crypt": {
+        "active": true,
+        "address": "0xEc4B3BFB95A68C8Ff6951E1A364B8e34A61c806C",
+        "provider": "tomb"
+    },
+    "TOMB-USDC Tomb (TombSwap) Crypt": {
+        "active": true,
+        "address": "0x32582BE37f7FCbBE93a9A1B5a2b686c425794bF7",
+        "provider": "tomb"
+    },
+    "TOMB-iFUSD SteakV2 Crypt": {
+        "active": false,
+        "address": "0x80d799dd10D35902d684E0FF665922FFb7Aa0197",
+        "provider": "steak"
+    },
+    "TSHARE-BTC Tomb (TombSwap) Crypt": {
+        "active": true,
+        "address": "0xfe116B6CeBDc32140c3b22226ba3bA3A7c3790a5",
+        "provider": "tomb"
+    },
+    "TSHARE-ETH Tomb (TombSwap) Crypt": {
+        "active": true,
+        "address": "0xe62CA091CDB126647d939Aa61678b533c39971C7",
+        "provider": "tomb"
+    },
+    "TSHARE-MAI Tomb (TombSwap) Crypt": {
+        "active": true,
+        "address": "0xa98F1d1cE977A23d060D93C0DBB1c0718a81AEBf",
+        "provider": "tomb"
+    },
+    "TSHARE-USDC Tomb (TombSwap) Crypt": {
+        "active": true,
+        "address": "0x6D825613dDf4bCaBacD91cCD3c3f77FB959ef183",
+        "provider": "tomb"
+    },
+    "TUSD Scream Crypt": {
+        "active": true,
+        "address": "0x175D6eF56e2F5335D5d8f37C5c580CA438f83e9f",
+        "provider": "scream"
+    },
+    "Tenacious Dollar Beethoven-X Crypt": {
+        "active": true,
+        "address": "0x0AAa637C81B699a214CcBF785227A66A8cCb3A5c",
+        "provider": "beethoven"
+    },
+    "The B Major Beethoven-X Crypt": {
+        "active": true,
+        "address": "0x323a564F62F69F392246E175C8950ced8bF49E41",
+        "provider": "beethoven"
+    },
+    "The Classic Trio Beethoven-X Crypt": {
+        "active": true,
+        "address": "0xc5961892834cF6e69a924AB0B7865F9374016c8f",
+        "provider": "beethoven"
+    },
+    "The Desert Sonata Beethoven-X Crypt": {
+        "active": true,
+        "address": "0xDEB41C7f012ee4435C989C167c56e2145A956B75",
+        "provider": "beethoven"
+    },
+    "The E Major Beethoven-X Crypt": {
+        "active": true,
+        "address": "0x19ee0e99926A32FaCBF82910F22c62D1a4f8ca82",
+        "provider": "beethoven"
+    },
+    "The Grand Orchestra Beethoven-X Crypt": {
+        "active": true,
+        "address": "0x40B1f90173ea08e6359e84010dF2B08b3beD6D3e",
+        "provider": "beethoven"
+    },
+    "The Magic Touch Beethoven-X Crypt": {
+        "active": true,
+        "address": "0x624D757D5E26E6B93c1C8C428341F97FC21f0007",
+        "provider": "beethoven"
+    },
+    "The Solana Sonata Beethoven-X Crypt": {
+        "active": true,
+        "address": "0xe601Ff062E8afD71178B5Ca817fAeEF31D39F66D",
+        "provider": "beethoven"
+    },
+    "The Stader Staked Symphony Beethoven-X": {
+        "active": true,
+        "address": "0x5d07FcD301A5101D80B40b33E6c92C57e1ED5f65",
+        "provider": "stader"
+    },
+    "The Vaults Of The Lonely Mountain Beethoven-X Crypt": {
+        "active": true,
+        "address": "0x09376fd525c9a98cC446fdad6367F202d0C5eD9A",
+        "provider": "beethoven"
+    },
+    "Tomb Masonry Crypt": {
+        "active": true,
+        "address": "0xCCfC062B025C6753a87C576b4Cdf85603BA0Fedc",
+        "provider": "tomb"
+    },
+    "TosDis-FTM Spirit Crypt": {
+        "active": true,
+        "address": "0xedF94AD58Fe39e7Cb308b5f1DA3B40605e47eC23",
+        "provider": "spirit"
+    },
+    "Tubular Bells Beethoven-X Crypt": {
+        "active": true,
+        "address": "0x8eefc71cB296B0C5A95a9A6A014249deE8774936",
+        "provider": "beethoven"
+    },
+    "Two Gods One Pool Beethoven-X Crypt": {
+        "active": true,
+        "address": "0x0310b9979BcC17fa2DB4cEC4417FCebabc405F1D",
+        "provider": "beethoven"
+    },
+    "USDC Geist Crypt": {
+        "active": true,
+        "address": "0xd4416E67a616161e23fF7bD9ab4BcD45d6896183",
+        "provider": "geist"
+    },
+    "USDC Scream Crypt": {
+        "active": true,
+        "address": "0x6CB5d51dDDCC9ce59504e5b313C95002278DC975",
+        "provider": "scream"
+    },
+    "USDC Tarot Crypt": {
+        "active": true,
+        "address": "0x34E4A4670E26A9BB3DD0Ec0909914C8d95B5B0B1",
+        "provider": "tarot"
+    },
+    "USDC-BOO Spooky Crypt": {
+        "active": true,
+        "address": "0x41B7A81f767fB0e4Db93686056E31D9445Ebea4C",
+        "provider": "spooky"
+    },
+    "USDC-DEI 0xDao Crypt": {
+        "active": true,
+        "address": "0xf19f4FCdBCDd54001f2Ea140732Ca45f768a8F03",
+        "provider": "oxdao"
+    },
+    "USDC-DEI Solidex Crypt": {
+        "active": true,
+        "address": "0x5CcEdedb013A37fAE9dC332130396eEA80f3165d",
+        "provider": "solidex"
+    },
+    "USDC-DEI Spirit LiquidV2 Crypt": {
+        "active": true,
+        "address": "0xe6C5AA6540FB66F8fDaC0aB45bBF8677c8741Db7",
+        "provider": "liquidV2"
+    },
+    "USDC-DEI Spooky Crypt": {
+        "active": true,
+        "address": "0x6f0d1eCfD46A35baA897e044B83c58903B3e88A0",
+        "provider": "spooky"
+    },
+    "USDC-GTON Spirit Crypt": {
+        "active": true,
+        "address": "0x9FAA500a4CA492450488bf249870C3044D4B1403",
+        "provider": "spirit"
+    },
+    "USDC-MAI Spooky Crypt": {
+        "active": true,
+        "address": "0x375cbfd5Fa605E434c5c44C44600e612d2c10625",
+        "provider": "spooky"
+    },
+    "USDC-MAI Tomb (TombSwap) Crypt": {
+        "active": true,
+        "address": "0xE2A708A6Af09297A01E2Bb81aAbBb377C9D0aF58",
+        "provider": "tomb"
+    },
+    "USDC-MIM Solidex Crypt": {
+        "active": true,
+        "address": "0x79c8CEC3EBf97006Ca98932D707b51D0ebBbF7aA",
+        "provider": "solidex"
+    },
+    "USDC-MIM Tomb (TombSwap) Crypt": {
+        "active": true,
+        "address": "0xA5DefF59cfe8C766840e5FeD8D674A7D4bB2fc76",
+        "provider": "tomb"
+    },
+    "USDC-OXD Solidex Crypt": {
+        "active": true,
+        "address": "0x3630a380F320EA77284Ed03D09B4C73D1351C41e",
+        "provider": "solidex"
+    },
+    "USDC-SD Spooky Crypt": {
+        "active": true,
+        "address": "0xf21Dc9F5Eca3Ec85d8eFF878a95DfdDa0eCb28bB",
+        "provider": "stader"
+    },
+    "USDC-SYN Solidex Crypt": {
+        "active": true,
+        "address": "0xd7c8CFF5e62DDea98F692B210C302a4DF312cf04",
+        "provider": "solidex"
+    },
+    "USDC-TUSD Spooky Crypt": {
+        "active": true,
+        "address": "0x03B6d43ccd900F030BEDF0cB07bCaE66FdC7fa5a",
+        "provider": "spooky"
+    },
+    "USDC-USDT Tomb (TombSwap) Crypt": {
+        "active": true,
+        "address": "0xCb487E30c53127232EB1AdA891c8fbD2678f6e37",
+        "provider": "tomb"
+    },
+    "USDC-UST Excalibur Crypt": {
+        "active": true,
+        "address": "0x1111709C13c97AAf5fd4cCB8A11B78682c064b46",
+        "provider": "excalibur"
+    },
+    "USDC-WEVE 0xDao Crypt": {
+        "active": true,
+        "address": "0xAC136a70358a55e3CC97e844aF37d3aAEED683b8",
+        "provider": "oxdao"
+    },
+    "USDC-WEVE Solidex Crypt": {
+        "active": true,
+        "address": "0x9b80A745e01989A49024B8EA754a57c1b374a279",
+        "provider": "solidex"
+    },
+    "USDC-iFUSD SteakV2 Crypt": {
+        "active": false,
+        "address": "0x3b21127dD7dD7ff4dbEE7b6A76D7C0E85933F11A",
+        "provider": "steak"
+    },
+    "Variations on a Theme Beethoven-X Crypt": {
+        "active": true,
+        "address": "0x0D0dc390dF120ea305AF518D621Ae01cE3F6fCed",
+        "provider": "beethoven"
+    },
+    "WAGMI Index Beethoven-X Crypt": {
+        "active": true,
+        "address": "0x022102d6f3870a9362a27cd5d3765c3F271aCE6a",
+        "provider": "beethoven"
+    },
+    "WBTC Scream Crypt": {
+        "active": true,
+        "address": "0x49D77552b4710bBf2F8176835e08BE885744734c",
+        "provider": "scream"
+    },
+    "WBTC Tarot Crypt": {
+        "active": true,
+        "address": "0x6CCD9FeabCF54d8781c1EA1C5D03B8B61F3Cecdd",
+        "provider": "tarot"
+    },
+    "WETH Tarot Crypt": {
+        "active": true,
+        "address": "0x16c38c642f3126eC9E46148008E42dBF61cE730b",
+        "provider": "tarot"
+    },
+    "WFTM Geist Crypt": {
+        "active": true,
+        "address": "0x43132cA3c2b1e7B4247204d0d12F376b64f2F5a8",
+        "provider": "geist"
+    },
+    "WFTM Scream Crypt": {
+        "active": true,
+        "address": "0xDcCf355BCeB10607856847733b1055b47af4A751",
+        "provider": "scream"
+    },
+    "WFTM Tarot Crypt": {
+        "active": true,
+        "address": "0x8858C3FEF08f66db12983893c326E3E46c94c539",
+        "provider": "tarot"
+    },
+    "WFTM-iFUSD SteakV2 Crypt": {
+        "active": false,
+        "address": "0xA22fD33F9122a112946873db8C0e78Df8050b3d5",
+        "provider": "steak"
+    },
+    "WOO-USDC Spooky Crypt": {
+        "active": true,
+        "address": "0x151EC95001ddD662c3Eb059ABC7D1E45835e6674",
+        "provider": "spooky"
+    },
+    "Water Music By LiquidDriver Beethoven-X Crypt": {
+        "active": true,
+        "address": "0xC2784545d15cB94fda3E01E2dfa318539d1D2450",
+        "provider": "beethoven"
+    },
+    "When Two Became One (Hundred) Beet-X Crypt": {
+        "active": true,
+        "address": "0xE6164D5353C369331c62B86f781c56FEb2CA23c4",
+        "provider": "beethoven"
+    },
+    "YFI-WOOFY 0xDao Crypt": {
+        "active": true,
+        "address": "0xF37cdED599f52f4f3FF2E86444cc8AE5A9E8D46A",
+        "provider": "oxdao"
+    },
+    "YFI-WOOFY Spirit Crypt": {
+        "active": true,
+        "address": "0x61FefdC82aCA572F4B918791F1C4305Fe4D9696a",
+        "provider": "spirit"
+    },
+    "YFI-wETH Spooky Crypt": {
+        "active": true,
+        "address": "0x6d8D268E1E6486a2E57c7E39A5fD7a2518Bcf45b",
+        "provider": "spooky"
+    },
+    "Ziggy Stardust Beethoven-X Crypt": {
+        "active": true,
+        "address": "0xd7Db100684E92246B6061Bb5fFEe2cdE2c20bd72",
+        "provider": "beethoven"
+    },
+    "[updated] 2CRV Curve Crypt": {
+        "active": true,
+        "address": "0x53258098dff0fEF03B839Bb56aF7605D1041D3d4",
+        "provider": "curve"
+    },
+    "fUSDT Scream Crypt": {
+        "active": true,
+        "address": "0xdd9D8D594d73eB2638B8FDd9311cc9f58b572202",
+        "provider": "scream"
+    },
+    "fUSDT Tarot Crypt": {
+        "active": true,
+        "address": "0x0D5b10107067A4AF13ae795Ea6c83a808d394b74",
+        "provider": "tarot"
+    },
+    "fUSDT-SPELL Spirit LiquidV2 Crypt": {
+        "active": true,
+        "address": "0xf2F61815A5F523ccD215b687df717685a5A1ABF0",
+        "provider": "liquidV2"
+    },
+    "xTAROT-TAROT 0xDao Crypt": {
+        "active": true,
+        "address": "0x37beDb5A7eB9B40f4656c5027470Ab964484fE6E",
+        "provider": "oxdao"
+    }
+}
